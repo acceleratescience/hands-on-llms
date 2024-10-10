@@ -1,8 +1,14 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
 llama-index
 openai
 python-dotenv
 rich
 pydantic
 chromadb
-pysqlite3-binary
+# pysqlite3-binary
 streamlit
+transformers
+matplotlib
+seaborn
+scikit-learn
