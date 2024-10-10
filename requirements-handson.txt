@@ -1,0 +1,8 @@
+llama-index
+openai
+python-dotenv
+rich
+pydantic
+chromadb
+pysqlite3-binary
+streamlit
