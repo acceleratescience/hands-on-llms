@@ -12,3 +12,7 @@ transformers
 matplotlib
 seaborn
 scikit-learn
+pysyllables
+jinja2
+tqdm
+numpy
