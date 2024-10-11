@@ -129,7 +129,7 @@ def rag_query(query: str, n_context, doc_db: chromadb.Collection, return_context
 
 
     system_prompt = load_template(
-        template_filepath="prompts/rag_system_prompt.jinja",
+        template_filepath="prompts/documents/rag_system_prompt.jinja",
         arguments={}
     )
 

@@ -16,3 +16,4 @@ pysyllables
 jinja2
 tqdm
 numpy
+PyMuPDF
