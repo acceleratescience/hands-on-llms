@@ -82,12 +82,12 @@ This repository is a hands-on tutorial on how to use large language models for s
 ## Prerequisites
 This project requires some prerequisites in terms of skill level: you should be proficient with Python and PyTorch, and some understanding of git would be helpful. A good indication of skill level would be: can you open VS Code (or some other editor) and create some kind of class with attributes and methods? If so, then you'll probably be fine with this workshop.
 
-In order to use this course material, we recommend that you fork the repo and open it in GitHub Codespaces.
-
-Development of this material is an ongoing process, and given the rapid advancement of LLM libraries may contain bugs or out of date information. If you find any issues, please raise an Issue via GitHub, and we will endeavour to address it as soon as possible. Thank you!
+In order to use this course material, we recommend that you fork the repo and open it in GitHub Codespaces. Please read the [Codespaces section](https://docs.science.ai.cam.ac.uk/large-language-models/setting-up/codespaces/) in the Setting Up page of the website, and carefully follow those instructions. Failure to do so may result in some sections of the course to not work as intended.
 
 <!-- CONTRIBUTING -->
 ## Contributing
+
+Development of this material is an ongoing process, and given the rapid advancement of LLM libraries may contain bugs or out of date information.
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
