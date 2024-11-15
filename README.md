@@ -24,7 +24,7 @@
 <br />
 <div align="center">
   <a href="https://acceleratescience.github.io/">
-    <img src="./imgs/full_acc.png" alt="Logo" height=80>
+    <img src="./docs/imgs/full_acc.png" alt="Logo" height=80>
   </a>
 
   <h3 align="center">Hands On Workshop for Large Language Models</h3>
@@ -38,12 +38,12 @@
     <br /> -->
     <a href="https://github.com/acceleratescience/large-language-models">Check out the introductory course</a>
     <br />
-    <a href="https://github.com/acceleratescience/large-language-models/issues">Report Bug</a>
+    <a href="https://github.com/acceleratescience/hands-on-llms/issues">Report Bug</a>
     ·
-    <a href="https://github.com/acceleratescience/large-language-models/issues">Request Feature</a>
+    <a href="https://github.com/acceleratescience/hands-on-llms/issues">Request Feature</a>
     <br />
     <br />
-    <a href="https://docs.science.ai.cam.ac.uk/large-language-models/"><strong>Head to the hands-on course Website »</strong></a>
+    <a href="https://docs.science.ai.cam.ac.uk/hands-on-llms/"><strong>Head to the hands-on course Website »</strong></a>
   </p>
 </div>
 
@@ -82,7 +82,16 @@ This repository is a hands-on tutorial on how to use large language models for s
 ## Prerequisites
 This project requires some prerequisites in terms of skill level: you should be proficient with Python and PyTorch, and some understanding of git would be helpful. A good indication of skill level would be: can you open VS Code (or some other editor) and create some kind of class with attributes and methods? If so, then you'll probably be fine with this workshop.
 
-In order to use this course material, we recommend that you fork the repo and open it in GitHub Codespaces. Please read the [Codespaces section](https://docs.science.ai.cam.ac.uk/large-language-models/setting-up/codespaces/) in the Setting Up page of the website, and carefully follow those instructions. Failure to do so may result in some sections of the course to not work as intended.
+We also strongly recommend our introductory course on LLMs
+
+---
+<p align="center">
+    <a href="https://docs.science.ai.cam.ac.uk/hands-on-llms/"><strong>Head to the hands-on course Website »</strong></a>
+</p>
+
+---
+
+In order to use this course material, we recommend that you fork the repo and open it in GitHub Codespaces. Please read the [Codespaces section](https://docs.science.ai.cam.ac.uk/hands-on-llms/setting-up/codespaces/) in the Setting Up page of the website, and carefully follow those instructions. Failure to do so may result in some sections of the course to not work as intended.
 
 <!-- CONTRIBUTING -->
 ## Contributing
