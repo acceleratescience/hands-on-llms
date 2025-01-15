@@ -10,6 +10,10 @@
 
 ### Welcome to the material for the LLM Hands on Workshop!
 
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/rkd43-cam/30min" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
 
 There is a wealth of material online about how to use and work with LLMs. So much so that it can hard to know where to start, and what path to take to get from beginner to proficient. Therefore, we have created this workshop by combining the best bits of many different resources, and focusing on practical skills that you can use to work with LLMs.
 
