@@ -1,0 +1,36 @@
+[
+    {
+      "type": "function",
+      "function": {
+        "name": "search_brave",
+        "description": "Search the internet using the Brave search engine",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "query": {
+              "type": "string",
+              "description": "The query to send to the search engine"
+            }
+          },
+          "required": ["query"]
+        }
+      }
+    },
+    {
+      "type": "function",
+      "function": {
+        "name": "scrape_content",
+        "description": "Scrape the text content from a website",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "url": {
+              "type": "string",
+              "description": "The website url"
+            }
+          },
+          "required": ["url"]
+        }
+      }
+    }
+  ]

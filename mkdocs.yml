@@ -13,7 +13,9 @@ nav:
     - Runpod: setting-up/runpod.md
     - Nvidia NIMs: setting-up/nvidia.md
     - Azure AI Studio: setting-up/azure.md
-  - The OpenAI API: 2_open_ai.ipynb
+  - The OpenAI API: 
+    - Introduction: 2_open_ai.ipynb
+    - Tools: tools/tools.ipynb
   - Prompting:
     - prompting/index.md
     - Prompt Engineering: prompting/3_prompting.ipynb
