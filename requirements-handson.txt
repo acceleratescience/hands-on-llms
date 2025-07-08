@@ -17,3 +17,4 @@ jinja2
 tqdm
 numpy
 PyMuPDF
+langchain
