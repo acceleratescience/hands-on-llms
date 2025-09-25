@@ -1,0 +1,17 @@
+llama-index>=0.11.23
+openai>=1.54.4
+python-dotenv>=1.0.1
+rich>=13.9.4
+pydantic>=2.9.2
+chromadb>=0.5.18
+streamlit>=1.40.1
+transformers>=4.46.2
+matplotlib>=3.9.2
+seaborn>=0.13.2
+scikit-learn>=1.5.2
+pysyllables>=1.0.3
+Jinja2>=3.1.4
+tqdm>=4.67.0
+numpy>=2.1.3
+PyMuPDF>=1.24.13
+ipykernel>=6.30.1

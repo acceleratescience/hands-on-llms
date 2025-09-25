@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+hands_on_llms.egg-info/PKG-INFO
+hands_on_llms.egg-info/SOURCES.txt
+hands_on_llms.egg-info/dependency_links.txt
+hands_on_llms.egg-info/requires.txt
+hands_on_llms.egg-info/top_level.txt
