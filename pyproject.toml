@@ -2,7 +2,10 @@
 name = "hands-on-llms"
 version = "0.1.0"
 description = "A hands on guide to working with LLMs"
-authors = [{ name = "Ryan Daniels", email = "31715811+rkdan@users.noreply.github.com" }]
+authors = [
+    { name = "Ryan Daniels"},
+    { name = "Fin Griffin"},
+  ]
 license = { text = "GPL-3.0-or-later" }
 readme = "README.md"
 requires-python = ">=3.11,<4.0"
@@ -23,11 +26,13 @@ dependencies = [
     "tqdm >= 4.67.0",
     "numpy >= 2.1.3",
     "PyMuPDF >= 1.24.13",
+    "ipykernel >= 6.30.1",
 ]
 
-[project.optional-dependencies]
+[dependency-groups]
 dev = [
   "mkdocs>=1.6.1,<2.0.0",
+  "mkdocs-jupyter>=0.25.1",
   "mkdocs-material>=9.5.44,<10.0.0",
   "mkdocstrings>=0.27.0,<0.28.0",
 ]
