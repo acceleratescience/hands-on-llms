@@ -1,6 +1,6 @@
 # Codespaces
 
-For this workshop, since we're not really doing any heavy lifting, we can work entirely within Github Codespaces. If you would rather not use GitHub Codespaces, you can follow the instructions detailed on the "Running locally" page under "Setting up".
+For this workshop, since we're not really doing any heavy lifting, we can work entirely within Github Codespaces. If you would rather run the notebooks locally, you can follow the instructions on [Running locally](running-locally.md).
 
 First create a new repository on Github, and then create a codespace from that repository. 
 
