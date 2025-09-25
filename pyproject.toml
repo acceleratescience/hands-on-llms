@@ -36,3 +36,10 @@ dev = [
   "mkdocs-material>=9.5.44,<10.0.0",
   "mkdocstrings>=0.27.0,<0.28.0",
 ]
+
+[tool.setuptools]
+packages = []
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"

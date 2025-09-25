@@ -13,6 +13,7 @@ nav:
     - Runpod: setting-up/runpod.md
     - Nvidia NIMs: setting-up/nvidia.md
     - Azure AI Studio: setting-up/azure.md
+    - Running locally: setting-up/running-locally.md
   - The OpenAI API: 
     - Introduction: 2_open_ai.ipynb
     - Tools: tools/tools.ipynb
