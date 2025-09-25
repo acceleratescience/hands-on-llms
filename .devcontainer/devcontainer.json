@@ -35,7 +35,7 @@
 		}
 	},
 
-	"postCreateCommand": "curl -LsSf https://astral.sh/uv/install.sh | sh && uv sync && echo 'source .venv/bin/activate' >> ~/.bashrc",
+	"postCreateCommand": "./.devcontainer/uv_setup.sh",
 
 	"remoteUser": "vscode",
 
