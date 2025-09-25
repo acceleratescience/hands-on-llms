@@ -6,11 +6,7 @@ First create a new repository on Github, and then create a codespace from that r
 
 Navigate to the LLM workshop repo (click the GitHub symbol in the top right of this page). Switch to the `Handson` branch, and download the content as a zip file. Upload this to your new repo. Open the repo as a Codespace. There is no need to create a virtual environment, since you're already in a containerized environment anyway with a version of Python 3.12.
 
-Install the requirements:
-
-```bash
-pip install -r requirements-handson.txt
-```
+You don’t need to create or manage a virtual environment yourself. The devcontainer will automatically install `uv`, create and activate a `.venv`, and install all required dependencies when your Codespace is built.
 
 You will also need to run the following in the terminal in order to use `chromadb`:
 
