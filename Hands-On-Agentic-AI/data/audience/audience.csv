@@ -1,0 +1,1346 @@
+First Name,Surname,abc,Email/crsid,University Department,School,Count,Job Title,Student/staffcategory,Training?,Route of engagement
+André,Campbell,,aahc23,Psychology,Biological Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Alexander,Turner,,aat121,Wellcome-MRC Cambridge Stem Cell Institute,Clinical Medicine,1,PhD student,PhD student,Yes,Python and Pandas course
+Amelia,Arjun,Williams,aavw22,Biochemistry,Biological Sciences,1,Principal Investigator,Professor/PI,No,SBS Workshop May 2023
+Alex,Brooks,,aaxb23,Applied Mathematics and Theoretical Physics,Physical Sciences,1,PhD student,PhD student,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Ava,Bennett,,ab1958,Public Health and Primary Care,Clinical Medicine,1,Comms & Engagement Manager,Professional Services,No,Lunchtime Seminar
+Álvaro,Allen,,aba85,Geography,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Aria,Hall,,abdh22,Physics,Physical Sciences,1,Research Associate,Postdoc,No,Network Event (29/03/23)
+Aria,Foster,,abf134,Engineering,Technology,1,PhD student,PhD student,Yes,Data Science Residency
+Aarav,Harris,,abh104,Modern and Medieval Languages,Arts and Humanities,1,PhD student,PhD student,Yes,Accelerate-C2D3 funding call applicant (2024)
+Aisha,Jackson,,abj150,Public Health and Primary Care,Clinical Medicine,1,Senior research associate,Postdoc,Yes,Accelerate-C2D3 funding call applicant (2023)
+Anaïs,Allen,,abka23@cam.ac.uk,University Library,Non-school,1,,Professional Services,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Aria,Myers,,abm163,"Physiology, Development and Neuroscience",Biological Sciences,1,"staff,student",PhD student,Yes,Packaging and Publishing Python Code for Research Workshop (18/11/24)
+Amelia,Ross,,abqr24,Psychology,Biological Sciences,1,PhD student,PhD student,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Aria,Rivera,,abr100,Chemistry,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Aisha,Reyes,,abr142@cam.ac.uk,Cancer Research UK Cambridge Institute,Clinical Medicine,1,,Unknown,Yes,Python and Pandas course
+Álvaro,Rogers,,abr245,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Aria,Campbell,,ac1329@cam.ac.uk,Oncology,Clinical Medicine,1,PhD student,PhD student,Yes,Hands On ML Workshop (03/24)
+Anaïs,Castillo,,ac1626,UIS,Non-school,1,Principal Zettascale Software Engineer,RSE,No,HPC Pioneer Projects Day (27/09/24)
+Alex,Chavez,,ac2220,Earth Sciences,Physical Sciences,1,PhD student,PhD student,Yes,AI for Science Summit 2023
+Aarav,Murphy,,acm110,Applied Mathematics and Theoretical Physics,Physical Sciences,1,Research Associate,Postdoc,No,Accelerate-C2D3 funding call applicant (2024)
+Amelia,Flores,,acof23,Theoretical and Applied Linguistics,Arts and Humanities,1,PhD student,PhD student,Yes,Python and Pandas course
+Aarav,Patel,,acp71,UIS,Non-school,1,staff,Other,Yes,AI and LLMs workshop (20/01/25)
+Aria,Cox,,acqc24,Unknown,,1,,Unknown,No,AI Clinic June 24
+Anaïs,Ramos,,acrr24,Chemical Engineering and Biotechnology,Technology,1,PhD Student,PhD student,Yes,Data Science Residency
+Amelia,Smith,,acs209,Visiting,Non-school,1,Visitor,Other,No,AI Clinic November 24
+Arjun,Rodríguez,,acur24,Engineering,Technology,1,PhD student,PhD student,Yes,AI and LLMs workshop (10/04/25)
+Alex,Davis,,ad1659,Philosophy,Arts and Humanities,,Mphil Student,Masters student,Yes,AI and LLMs workshop (26/02/24)
+Aisha,Long,,adil25@cam.ac.uk,Theoretical and Applied Linguistics,Arts and Humanities,1,PhD student,PhD student,Yes,Python and Pandas course
+Amira,Lewis,,adl236,Pathology,Biological Sciences,1,staff,Postdoc,Yes,Hands On LLM Workshop (14/10/24)
+Alexander,Allen,,aea206@cam.ac.uk,Computer Science and Technology,Technology,1,Research Associate,Postdoc,No,ELLIS Summer School event
+Alex,Howard,,aeah24,Materials Science and Metallurgy,Physical Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Alex,Carter,,aec181,Psychology,Biological Sciences,1,Research Associate,Postdoc,No,Accelerate-C2D3 funding call applicant (2024)
+Aarav,Davis,,aed125,Wellcome-MRC Cambridge Stem Cell Institute,Clinical Medicine,1,PhD student,PhD student,Yes,Network Event (29/03/23)
+Arjun,Ramírez,,aeer23,Psychiatry,Clinical Medicine,,PhD student,PhD student,No,AI Clinic February 26
+Arjun,Ramírez,,aeer23,Psychiatry,Clinical Medicine,1,PhD student,PhD student,Yes,AI for Science Summit 2023
+Alexander,Gómez,,aeg176,Medicine,Clinical Medicine,1,"staff,student",PhD student,Yes,LLMs workshop (19/11/24)
+Aisha,Peterson,,aekp24,Clinical Neurosciences,Clinical Medicine,1,PhD student,PhD student,Yes,Data Pipelines School (Mar 23)
+Alex,Morris,,aem43,Psychiatry,Clinical Medicine,1,PhD student,PhD student,Yes,Data Science Residency
+Alex,Morris,,aem43@cam.ac.uk,Psychiatry,Clinical Medicine,,PhD student,PhD student,No,AI Clinic February 26
+Alexander,Parker,,aep166@cam.ac.uk,Engineering,Technology,1,senior research associate,Postdoc,Yes,AI for Science Summit 2023
+Aisha,Watson,,aew77,Applied Mathematics and Theoretical Physics,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Alexander,Foster,,af816,Chemical Engineering and Biotechnology,Technology,1,PhD student,PhD student,Yes,Python and Pandas course
+Alexander,Jones,,afj237,CIMR,Clinical Medicine,1,Research Associate,Postdoc,Yes,Python and Pandas course
+Aisha,Thompson,,aft191,Psychiatry,Clinical Medicine,,PhD student,PhD student,No,AI Clinic February 26
+Aisha,Thompson,,aft191,Psychiatry,Clinical Medicine,1,PhD student,PhD student,Yes,Data Science Residency
+Aria,Gray,,ag2232,Engineering,Technology,,PhD student,PhD student,No,AI Clinic August 23
+André,Garcia,,ag2262@cam.ac.uk,Physics,Physical Sciences,1,Research Associate,Postdoc,Yes,Python and Pandas course
+Amira,Howard,,agh84,Engineering,Technology,1,PhD student,PhD student,Yes,Data Science Residency
+André,Gray,,aghg25@cam.ac.uk,Chemistry,Physical Sciences,1,Postdoctoral Fellow,Postdoc,Yes,Data Science Residency
+Alexander,Hill,,ah466,UIS,Non-school,1,Deputy Director - Research and Institutional Services,Professional Services,No,HPC Pioneer Projects Day (27/09/24)
+Amelia,Brown,,ahb27,Chemistry,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Ava,Long,,ahl148,Cambridge Conservation Initiative (IUCN-CCI),Non-school,1,Postdoc,Postdoc,Yes,Data Pipelines School (Sept 23)
+Álvaro,Myers,,ahm78,Clinical Neurosciences,Clinical Medicine,1,student,PhD student,Yes,AI and LLMs workshop (20/01/25)
+Aarav,Morales,,ahqm25,Applied Mathematics and Theoretical Physics,Physical Sciences,1,Undergraduate,Other,Yes,Python and Pandas course
+Aria,Thompson,,ahqt24,Theoretical and Applied Linguistics,Arts and Humanities,1,PhD student,PhD student,Yes,Data Pipelines School (Dec 22)
+Aarav,Rogers,,ahr139,Plant Sciences,Biological Sciences,1,Research Associate,Postdoc,Yes,Python and Pandas course
+Amira,Brooks,,ahsb25@cam.ac.uk,Pharmacology,Biological Sciences,1,PhD student,PhD student,No,Accelerate-C2D3 funding call applicant (2024)
+André,Morales,,ahtm24,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Data Pipelines School (Sept 23)
+Anaïs,Mitchell,,ahvm25,Cancer Research UK Cambridge Institute,Clinical Medicine,1,,Unknown,Yes,Python and Pandas course
+Alexander,Baker,,aieb23,Engineering,Technology,1,Research Associate,Postdoc,No,AI for Science Summit 2023
+Aria,Rivera,,air45@cam.ac.uk,Engineering,Technology,1,Research Associate,Postdoc,Yes,Data Science Residency
+André,Wilson,,aiw187,Cambridge CARES,Non-school,1,Research Fellow,Postdoc,Yes,Python and Pandas course
+Ava,Wright,,aiw203@cam.ac.uk,Applied Mathematics and Theoretical Physics,Physical Sciences,1,PhD student,PhD student,No,AI for Science Summit 2023
+Aria,Jackson,,aj1379,Medicine,Clinical Medicine,1,PhD student,PhD student,Yes,Accelerate-C2D3 funding call applicant (2024)
+Ava,James,,aj633,Materials Science and Metallurgy,Physical Sciences,1,Research Associate,Postdoc,Yes,AI and LLMs workshop (10/04/25)
+Alex,Alvarez,,ajda24@cam.ac.uk,Judge Business School,Technology,,PhD student,PhD student,No,AI Clinic April 24
+Aisha,Flores,,ajf157,"Physiology, Development and Neuroscience",Biological Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Arjun,Morales,,ajm138,Chemistry,Physical Sciences,1,PhD student,PhD student,No,HPC Pioneer Projects Day (27/09/24)
+Alex,Mitchell,,ajm144,Engineering,Technology,1,PhD student,PhD student,Yes,Data Science Residency
+Arjun,Wright,,ajw134,Physics,Physical Sciences,1,,Unknown,No,MLE Clinic
+Alexander,Johnson,,akj217,Astronomy,Physical Sciences,1,Research Associate,Postdoc,Yes,Diffusion Models Workshop (06/11/24)
+Alex,González,,akjg24@cam.ac.uk,Computer Science and Technology,Technology,1,Postdoc,Postdoc,No,Hopes and Fears lab
+Amelia,Lewis,,akl219,Gurdon Institute,Biological Sciences,1,Postdoctoral Researcher ,Postdoc,No,SBS Workshop May 2023
+Arjun,Wood,,aktw24,Veterinary Medicine,Biological Sciences,1,student,PhD student,No,Accelerate-C2D3 funding call awardee (2022)
+Amira,Lewis,,al1465@cam.ac.uk,Theoretical and Applied Linguistics,Arts and Humanities,1,University Lecturer,Professor/PI,Yes,Accelerate-C2D3 funding call applicant (2024)
+Aisha,López,,al2046,Physics,Physical Sciences,1,PhD student,PhD student,No,AI for Science Summit 2024
+Aisha,Lee,,al2217,Oncology,Clinical Medicine,1,Other,Other,Yes,An Introduction to Docker (13/03/25)
+Aria,López,,al336,Haematology,Clinical Medicine,1,Research Associate,Postdoc,Yes,Hands On LLM Workshop (14/10/24)
+Arjun,Adams,,ala143,Clinical Neurosciences,Clinical Medicine,1,Senior Research Associate,Postdoc,No,Accelerate-C2D3 funding call applicant (2024)
+Aria,Campbell,,alc139,Medicine,Clinical Medicine,1,staff,Other,Yes,LLMs workshop (19/11/24)
+Amelia,Cook,,alc179,Land Economy,Humanities and Social Sciences,,,Professional Services,No,AI café - CDH
+Alex,Flores,,alf210,Computer Science and Technology,Physical Sciences,1,Professor,Professor/PI,No,AI for Science Summit 2024
+Avery,Adams,,alma23,Materials Science and Metallurgy,Physical Sciences,1,Research Associate,Postdoc,No,HPC Pioneer Projects Day (27/09/24)
+Álvaro,Martin,,alqm24@cam.ac.uk,Other,Non-school,1,Postdoc,Postdoc,No,Accelerate-C2D3 funding call applicant (2023)
+Avery,Rogers,,alr138@cam.ac.uk,Institute of Metabolic Science,Clinical Medicine,1,Masters Student,Masters student,Yes,Python and Pandas course
+Amelia,Reyes,,alr55,Computer Science and Technology,Technology,1,Student,PhD student,No,AI for Science Summit 2023
+Avery,Stewart,,als212@cam.ac.uk,Psychology,Biological Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Aisha,Sanders,,als98,Education,Humanities and Social Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Aarav,Morgan,,am1548,Psychology,Biological Sciences,,Research Associate,Postdoc,Yes,AI Café West Hub
+Amira,Mitchell,,am2065,Astronomy,Physical Sciences,1,PhD student,PhD student,Yes,Network Event (29/03/23)
+André,Martin,,am41@cam.ac.uk,MRC Cognition and Brain Sciences Unit,Clinical Medicine,1,Postdoc,Postdoc,Yes,An Introduction to Diffusion Models (04/03/25)
+Aria,Hall,,amch21,"Physiology, Development and Neuroscience",Biological Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Arjun,Baker,,amxb23,UIS,Non-school,1,Principal HPC Systems Manager,Other,No,HPC Pioneer Projects Day (27/09/24)
+Amelia,Nelson,,an455,Psychology,Biological Sciences,1,Visitor,Other,Yes,Hands On LLMs workshop (04/02/25)
+Aria,Bailey,,anb54@cam.ac.uk,Education,Humanities and Social Sciences,1,,Unknown,No,AI Clinic November 22
+Aisha,Gray,Collins,ang107@cam.ac.uk,Politics and International Studies,Humanities and Social Sciences,,PhD student,PhD student,No,AI Clinic February 26
+Aisha,Gray,,ang107@cam.ac.uk,Politics and International Studies,Humanities and Social Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Álvaro,Mendoza,,anlm21,Cancer Research UK Cambridge Institute,Clinical Medicine,1,staff,Research Assistant,Yes,LLMs workshop (02/10/24)
+Aria,Young,,any25,MRC Cognition and Brain Science Unit,Clinical Medicine,1,Undergraduate,Other,Yes,Python and Pandas course
+Alexander,Bailey,,aob41,Education,Humanities and Social Sciences,,MPhil student,Masters student,No,AI café - CDH
+Alex,Ross,,aocr25@cam.ac.uk,Engineering,Technology,1,Research Associate,Postdoc,Yes,Python and Pandas course
+Alex,Evans,,aoe77@cam.ac.uk,Zoology,Biological Sciences,1,student,PhD student,Yes,AI and LLMs workshop (20/01/25)
+Amelia,Phillips,,ap1289,Radiology,Clinical Medicine,1,PhD student,PhD student,Yes,Data Pipelines School (Sept 23)
+Alexander,Peterson,,ap527,Chemical Engineering and Biotechnology,Biological Sciences,1,PhD student,PhD student,Yes,Introduction to Diffusion Models in Generative AI workshop (20/06/24) workshop (20/06/24)
+Alex,Collins,,apc219,Chemistry,Physical Sciences,1,Emeritus Professor,Other,No,MLE Clinic
+Alexander,Cooper,,apc221,Computer Science and Technology,Technology,1,PhD student,PhD student,Yes,Generative AI (07/04/25)
+Aria,Cooper,,apgc22,Theoretical and Applied Linguistics,Arts and Humanities,1,,Other,No,MLE Clinic
+Alexander,Rivera,,apr41,Engineering,Technology,1,Postdoctoral Research fellow,Postdoc,No,Accelerate-C2D3 funding call applicant (2023)
+Anaïs,Smith,,aps96,Gurdon Institute,Biological Sciences,1,Postdoc,Postdoc,No,Accelerate-C2D3 funding call applicant (2023)
+Amelia,Taylor,,aqft24@cam.ac.uk,Clinical Neurosciences,Clinical Medicine,1,PhD student,PhD student,No,MLE Clinic
+Aria,González,,aqg234,MRC Epidemiology Unit,Clinical Medicine,1,staff,Other,Yes,Python and Pandas course
+Anaïs,Ruiz,,ar1655,"Physiology, Development and Neuroscience",Biological Sciences,1,PhD Student,PhD student,Yes,Python and Pandas course
+André,Rodríguez,,ar175,Judge Business School,Technology,1,MBA student,Student,Yes,Hands On LLMs workshop (14/04/25)
+André,Robinson,,ar2292,History,Arts and Humanities,1,Masters Student,Masters student,No,AI Clinic September 24
+Arjun,Rodríguez,,ar41@cam.ac.uk,Architecture,Arts and Humanities,1,student,PhD student,Yes,LLMs workshop (02/10/24)
+Alexander,Ramírez,,ar570@cam.ac.uk,Computer Science and Technology,Technology,1,Senior Research Associate,Postdoc,Yes,Accelerate Team
+Ava,Richardson,,ar597,Land Economy,Humanities and Social Sciences,1,Research Fellow,Postdoc,No,AI for Science Summit 2023
+Alex,Ramos,,ar676,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Network Event (29/03/23)
+Avery,Rogers,,ar839,Wellcome-MRC Cambridge Stem Cell Institute,Clinical Medicine,1,PhD student,PhD student,Yes,Python and Pandas course
+Ava,Gutierrez,,arg166,MRC Cognition and Brain Science Unit,Clinical Medicine,1,Research Fellow,Postdoc,Yes,Python and Pandas course
+Ava,River,Harris,arh186,Psychology,Biological Sciences,1,Postdoc,Postdoc,Yes,Python and Pandas course
+Alex,Gray,,arvg22@cam.ac.uk,Public Health and Primary Care,Clinical Medicine,1,Senior Research Associate,Postdoc,Yes,Introduction to Diffusion Models in Generative AI workshop (20/06/24) workshop (20/06/24)
+Alexander,Alvarez,,asa83,Medicine,Clinical Medicine,1,Research Associate,Postdoc,No,Accelerate-C2D3 funding call applicant (2024)
+Arjun,Harris,,asfh24,Chemistry,Physical Sciences,1,Research Associate,Postdoc,Yes,AI for Science Summit 2023
+Aarav,Gray,,aslg22@cam.ac.uk,Biochemistry,Biological Sciences,1,staff,Postdoc,Yes,AI and LLMs workshop (20/01/25)
+Amira,Ward,,asw86,Zoology,Biological Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Amelia,Taylor,,at1782@cam.ac.uk,Other,Non-school,1,PhD student,PhD student,Yes,Generative AI (07/04/25)
+Ava,Torres,,at500,UIS,Non-school,1,staff,RSE,Yes,AI and LLMs workshop (20/01/25)
+André,Brown,,atb215,Oncology,Clinical Medicine,1,Group Leader,Professor/PI,No,Accelerate-C2D3 funding call awardee (2023)
+Alex,Carter,,atc183,Clinical Neurosciences,Clinical Medicine,1,,Postdoc,Yes,Python and Pandas course
+Arjun,Cox,,atc241,Pharmacology,Biological Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Ava,Clark,,atc43,Applied Mathematics and Theoretical Physics,Physical Sciences,1,Research Associate,Postdoc,No,Accelerate-C2D3 funding call awardee (2024)
+André,López,,atl108,Computer Science and Technology,Physical Sciences,1,PhD Student,PhD student,No,AI for Science Summit 2024
+Ava,González,,atug23,Milner Institute,Physical Sciences,1,Research Associate,Postdoc,Yes,AI and LLMs workshop (14/05/24)
+Aarav,Foster,,atvf23,Chemical Engineering and Biotechnology,Technology,1,Advanced porous materials for energy applications,Other,Yes,Data Science Residency
+Aria,Young,,aty83,"Physiology, Development and Neuroscience",Biological Sciences,1,,Unknown,Yes,Python and Pandas course
+Ava,Green,,aug61,Computer Science and Technology,Technology,1,Research Assistant,Research Assistant,No,AI for Science Summit 2023
+Aisha,López,,aul107,Applied Mathematics and Theoretical Physics,Physical Sciences,1,Coordinator,Professional Services,No,Network Event (29/03/23)
+Aisha,Mitchell,,aum196,Physics,Physical Sciences,1,PhD student,PhD student,No,Network Event (29/03/23)
+Amelia,Martínez,,aum96,Astronomy,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Arjun,Nelson,,aun192,Chemistry,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Aarav,Ortiz,,auo151,Public Health and Primary Care,Clinical Medicine,1,Research Associate,Postdoc,No,Accelerate-C2D3 funding call applicant (2024)
+Aria,Ruiz,,aur242,Physics,Physical Sciences,1,PhD student,PhD student,No,Accelerate-C2D3 funding call applicant (2023)
+Aria,Thomas,,aut206,Institute for Sustainable Leadership,Technology,1,Senior Research Associate,Postdoc,Yes,Data Science Residency
+André,Phillips,,auup24,Politics and International Studies,Humanities and Social Sciences,1,Communications Coordinator,Professional Services,Yes,Python and Pandas course
+André,Rodríguez,,avbr21,Computer Science and Technology,Technology,1,MPhil Student,Masters student,No,AI for Science Summit 2023
+Aisha,Long,,avdl21,Other,Non-school,,,Unknown,No,AI Clinic April 23
+Amelia,Diaz,,avkd25,Clinical Neurosciences,Clinical Medicine,1,PhD Student,PhD student,Yes,Python and Pandas course
+Alex,Murphy,,avm37,Biochemistry,Biological Sciences,1,student,PhD student,Yes,AI and LLMs workshop (20/01/25)
+Avery,Nelson,,avn47,Theoretical and Applied Linguistics,Arts and Humanities,1,PhD student,PhD student,Yes,Python and Pandas course
+Aria,Watson,,avw86,Computer Science and Technology,Technology,1,Head of Department,Professor/PI,No,AI for Science Summit 2023
+Amira,Williams,,aw1932,Politics and International Studies,Humanities and Social Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Aisha,Anderson,,awa146,"Centre for Research in Arts, Social Sciences and Humanities",Arts and Humanities,1,Senior Policy Advisor on Technology Governance and Law,Other,No,AI for Science Summit 2023
+Amelia,Clark,,awc176,Materials Science and Metallurgy,Physical Sciences,,Research Associate,Postdoc,No,Accelerate-C2D3 funding call applicant (2024)
+Amira,Collins,,awc60,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Data Pipelines School (Dec 22)
+Alexander,Flores,,awf173,Oncology,Clinical Medicine,1,Postdoc,Postdoc,Yes,An Introduction to Diffusion Models (04/03/25)
+Aisha,Flores,,awf237@cam.ac.uk,Psychology,Biological Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Amira,Wright,,aww139,University Library,Non-school,1,Research Associate,Postdoc,Yes,ML Academy 2025
+Alexander,Lee,,axl203@cam.ac.uk,Education,Humanities and Social Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Anaïs,Torres,,axt249@cam.ac.uk,Education,Humanities and Social Sciences,1,,Unknown,Yes,Python and Pandas course
+Avery,Young,,ay1439,Psychology,Biological Sciences,1,Professor,Professor/PI,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Alex,Baker,,ayb99,Public Health and Primary Care,Medicine,1,Research Assistant,Research Assistant,Yes,Generative AI (07/04/25)
+Alex,Collins,,ayc128,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Alex,Hill,,ayh83,Applied Mathematics and Theoretical Physics,Physical Sciences,1,Principal Research Fellow,Postdoc,Yes,Python and Pandas course
+Amira,Nelson,,ayin25,Earth Sciences,Physical Sciences,1,PhD student,PhD student,No,AI for Science Summit 2023
+André,Sánchez,,ayis22,Computer Science and Technology,Technology,1,PhD student,PhD student,Yes,Hands On LLMs workshop (14/04/25)
+Alexander,Turner,,ayt139,Chemistry,Physical Sciences,1,PhD student,PhD student,No,Accelerate-C2D3 funding call applicant (2023)
+Anaïs,Young,,ayy77,UIS,Non-school,1,Digital Research Facilitator,Professional Services,No,HPC Pioneer Projects Day (27/09/24)
+Álvaro,González,,azeg22,History,Humanities and Social Sciences,,MPhil student,Masters student,No,AI café - CDH
+André,Harris,,azh69,Clinical Neuroscience,Clinical Medicine,1,Professor,Professor/PI,No,AI Clinic Jan 24
+Avery,Allen,,azia23,"Physiology, Development and Neuroscience",Biological Sciences,1,PhD student,PhD student,Yes,Data Pipelines School (Dec 22)
+Amelia,Johnson,,azj147@cam.ac.uk,Veterinary Medicine,Biological Sciences,1,PhD student,PhD student,Yes,Generative AI (07/04/25)
+Aria,Price,,azp225,Oncology,Clinical Medicine,1,staff,Postdoc,Yes,LLMs workshop (02/10/24)
+Arjun,Scott,,azs101,Biochemistry,Biological Sciences,1,Masters Student,Masters student,Yes,Python and Pandas course
+Aarav,Thompson,,azt38@cam.ac.uk,Geography,Physical Sciences,,Postdoc,Postdoc,No,AI café - CDH
+Álvaro,Jones,,azwj23@cam.ac.uk,Chemical Engineering and Biotechnology,Technology,1,MRes + PhD student,PhD student,Yes,Data Science Residency
+Brontë,Anderson,,ba242,Engineering,Technology,1,Research Associate,Postdoc,No,Accelerate-C2D3 funding call awardee (2023)
+Brontë,Baker,,bb440@cam.ac.uk,Chemistry,Physical Sciences,1,Postdoc,Postdoc,No,MLE Clinic
+Benjamin,Nguyen,,bbn237,Engineering,Technology,,PhD student,PhD student,No,AI Clinic
+Björk,Robinson,,bbr111,Cambridge Digital Humanities,Arts and Humanities,1,,other,Yes,Python and Pandas course
+Björk,Harris,,bch213,Chemistry,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Brontë,Lewis,,bdl140,Chemical Engineering and Biotechnology,Technology,1,Research Associate,Postdoc,Yes,Python and Pandas course
+Björk,Evans,,be1503,Medicine,Clinical Medicine,1,,Unknown,Yes,Python and Pandas course
+Björk,Roberts,,bgr66,Cancer Research UK Cambridge Institute,Clinical Medicine,1,PhD student,PhD student,Yes,Generative AI (07/04/25)
+Brontë,Sánchez,,bgs113,Cancer Research UK Cambridge Institute,Clinical Medicine,1,Staff,Staff,Yes,AI and LLMs workshop (10/04/25)
+Brontë,Hill,,bhh192,Engineering,Technology,1,PhD student,PhD student,Yes,Data Science Residency
+Mina,Cox,,bic148,Applied Mathematics and Theoretical Physics,Physical Sciences,1,Professor,Professor/PI,No,AI for Science Summit 2023
+Björk,Hughes,,bihh21,Chemical Engineering and Biotechnology,Technology,1,PhD student,PhD student,Yes,Data Pipelines School (Sept 23)
+Benjamin,Parker,,birp25@cam.ac.uk,Psychology,Biological Sciences,1,,Unknown,Yes,Introduction to Diffusion Models in Generative AI workshop (20/06/24) workshop (20/06/24)
+Benjamin,Brown,,biyb22,Physics,Physical Sciences,1,PhD Student,PhD student,Yes,Python and Pandas course
+Björk,Evans,,bje240,Physics,Physical Sciences,1,Research Associate,Postdoc,No,Accelerate-C2D3 funding call applicant (2024)
+Benjamin,Moore,,bjm209,Obstetrics and Gynaecology,Clinical Medicine,1,Senior Research Associate,Postdoc,Yes,Python and Pandas course
+Benjamin,Rivera,,bjr101,Biochemistry,Biological Sciences,1,Postdoctoral Researcher ,Postdoc,Yes,SBS Workshop May 2023
+Brontë,Murphy,,bjxm23,Engineering,Technology,,PhD student,PhD student,No,AI Clinic December 24
+Benjamin,King,,bk437,Psychology,Biological Sciences,1,Research Fellow,Postdoc,No,Accelerate-C2D3 funding call applicant (2024)
+Benjamin,Price,,bkap21,Physics,Physical Sciences,1,,Unknown,Yes,Python and Pandas course
+Benjamin,Martin,,bkm117@cam.ac.uk,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Hands On AI workshop (16/04/25)
+Benjamin,Roberts,,bkr121,Wellcome-MRC Cambridge Stem Cell Institute,Clinical Medicine,1,PhD student,PhD student,Yes,Python and Pandas course
+Benjamin,Young,,bly45,MRC Epidemiology Unit,Clinical Medicine,1,staff,Other,Yes,An Introduction to Docker Workshop (02/12/24)
+Brontë,Torres,,bnnt23,Computer Science and Technology,Technology,1,Professor of Natural Language Processing,Professor/PI,No,Hopes and Fears lab
+Benjamin,Sánchez,,bns166,Haematology,Clinical Medicine,1,PhD student,PhD student,Yes,Python and Pandas course
+Benjamin,Lee,,bnxl25,"Physiology, Development and Neuroscience",Biological Sciences,1,,Unknown,Yes,Python and Pandas course
+Björk,Gutierrez,,bog204,Land Economy,Humanities and Social Sciences,1,Assistant Professor,Professor/PI,No,Accelerate-C2D3 funding call applicant (2024)
+Björk,Ramos,,bojr21,Engineering,Technology,1,Professor,Professor/PI,No,AI for Science Summit 2023
+Brontë,Phillips,,bp1361@cam.ac.uk,Chemistry,Physical Sciences,1,PhD student,PhD student,Yes,Hands On AI workshop (16/04/25)
+Brontë,Phoenix,Smith,bpls21,Medicine,Clinical Medicine,1,Cancer Bioinformatics Lead,Other,No,AI Clinic February 26
+Brontë,Smith,,bpls21@cam.ac.uk,Medicine,Clinical Medicine,1,Cancer Bioinformatics Lead,Other,Yes,AI and LLMs workshop (14/05/24)
+Benjamin,Sanders,,bqbs24,Applied Mathematics and Theoretical Physics,Physical Sciences,1,Assistant Professor in Data Intensive Science,Professor/PI,No,LLMs Best Practices for Safe and Effective Deployment (30/09/24)
+Benjamin,Rodríguez,,bqvr23,Judge Business School,Technology,1,PhD student,PhD student,Yes,Accelerate-C2D3 funding call awardee (2024)
+Benjamin,Kim,,brk180,Materials Science and Metallurgy,Physical Sciences,1,student,PhD student,Yes,LLMs workshop (19/11/24)
+Brontë,Peterson,,brp221,Cancer Research UK Cambridge Institute,Clinical Medicine,1,PhD student,PhD student,Yes,Generative AI (07/04/25)
+Björk,Nguyen,,bsbn22,Engineering,Technology,1,Postdoc,Postdoc,Yes,Data Pipelines School (Sept 23)
+Brontë,Castillo,,bsic25,Veterinary Medicine,Biological Sciences,1,PhD student,PhD student,Yes,AI for Science Summit 2023
+Brontë,Thomas,,bt613@cam.ac.uk,UIS,Non-school,1,Research Software Engineer,RSE,Yes,AI for Science Summit 2023
+Björk,Collins,,btgc25,Classics,Arts and Humanities,1,Postdoctoral Rsearcher,Postdoc,Yes,Lunchime Seminar
+Björk,Taylor,,btzt22,Psychology,Biological Sciences,1,Research Assistant,Research Assistant,Yes,ML Academy 2025
+Benjamin,Hughes,,buh70,Materials Science and Metallurgy,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Björk,Cox,,buvc25,Biology,Biological Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Brontë,Flores,,bvvf23,Archaeology,Humanities and Social Sciences,1,Senior Research Associate,Postdoc,Yes,Python and Pandas course
+Brontë,James,,bvwj21,University Library,Non-school,1,,Professional Services,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Benjamin,Wilson,,bww187,Fitzwilliam Museum,Non-school,1,Senior Curator Ancient Nile Valley,Other,No,AI Clinic February 26
+Benjamin,Wilson,OBE,bww187,Fitzwilliam Museum,Other,1,Senior Curator Ancient Nile Valley,Other,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Brontë,Jackson,,bzj104@cam.ac.uk,Wellcome-MRC Cambridge Stem Cell Institute,Clinical Medicine,1,PhD student,PhD student,No,MLE Clinic
+Camila,Allen,,ca709@cam.ac.uk,Applied Mathematics and Theoretical Physics,Physical Sciences,1,PhD student,PhD student,No,Accelerate-C2D3 funding call applicant (2024)
+Charlotte,Wilson,,caw119,Politics and International Studies,Humanities and Social Sciences,1,Communications Coordinator,Professional Services,Yes,Python and Pandas course
+Camila,Kelly,,cbpk22,Engineering,Technology,1,PhD student,PhD student,Yes,Data Science Residency
+Céline,Ross,,cbr235@cam.ac.uk,Pathology,Biological Sciences,1,Chief Technology Officer & Visiting Researcher,Other,No,AI for Science Summit 2023
+Céline,Hernández,,cch75,Sanger Institute,Other,1,Senior Staff Scientist,Postdoc,Yes,AI and LLMs workshop (10/04/25)
+Charlotte,Miller,,ccm177,Engineering,Technology,1,Visitor,Visitor,Yes,Hands On AI workshop (18/03/25)
+Camila,Ramírez,,ccr164,Biochemistry,Biological Sciences,1,Visiting Researcher,Other,Yes,Python and Pandas course
+Casey,Williams,,ccuw24,Genetics,Biological Sciences,1,PhD student,PhD student,No,HPC Pioneer Projects Day (27/09/24)
+Chloë,Diaz,,cd1092,Theoretical and Applied Linguistics,Arts and Humanities,1,PhD student,PhD student,Yes,Lunchtime Seminar
+Céline,Taylor,,cet185,ICCS,Technology,1,Senior Research Software Engineer,RSE,No,AI for Science Summit 2023
+Casey,Sánchez,,cfcs24,Education,Humanities and Social Sciences,1,,Unknown,Yes,LLM study group
+Camila,Diaz,,cfd57,Medicine,Clinical Medicine,1,,Unknown,Yes,Python and Pandas course
+Camila,Morgan,,cfim23,Zoology,Biological Sciences,1,Principal Investigator,Professor/PI,No,SBS Workshop May 2023
+Casey,Davis,,cfzd21@cam.ac.uk,Radiology,Clinical Medicine,1,PhD student,PhD student,Yes,An Introduction to Diffusion Models (04/03/25)
+Charlotte,Collins,,cgcc22@cam.ac.uk,Architecture,Humanities and Social Sciences,1,Associate Professor,Professor/PI,No,Accelerate-C2D3 funding call applicant (2024)
+Céline,Hill,,cgh186,ALTA Institute,Technology,1,Research Associate,Postdoc,No,Lunchtime Seminar
+Casey,Diaz,,cid94,Sanger Institute,Non-school,1,student,PhD student,Yes,Diffusion Models Workshop (06/11/24)
+Casey,Cruz,,cjc167@cam.ac.uk,Bioscience Impact Team,Biological Sciences,1,Biological Sciences Impact Facilitator,Professional Services,No,SBS Workshop May 2023
+Charlotte,Johnson,,ckj108,CIMR,Clinical Medicine,1,Research Assistant,Research Assistant,Yes,Python and Pandas course
+Charlotte,Kelly,,ckok23,Wellcome Sanger Institute,Non-school,1,PhD student,PhD student,Yes,Data Science Residency
+Céline,Ramírez,,ckor22@cam.ac.uk,Computer Science and Technology,Technology,1,PhD student,PhD student,No,AI for Science Summit 2023
+Camila,Smith,,cks103,Radiology,Clinical Medicine,1,PhD student,PhD student,Yes,An Introduction to Diffusion Models (04/03/25)
+Camila,Ruiz,,clr184,Engineering,Technology,1,Senior Research Associate,Postdoc,Yes,Python and Pandas course
+Camila,Murphy,,cm1170,Wellcome-MRC Cambridge Stem Cell Institute,Biological Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Charlotte,Martínez,,cm1983,Computer Science and Technology,Technology,1,Affiliated Lecturer,Professor/PI,No,Accelerate-C2D3 funding call applicant (2022)
+Chloë,Jones,,cmhj21,Biochemistry,Biological Sciences,1,Clinical PhD Student,PhD student,Yes,Data Science Residency
+Charlotte,Pérez,,cmp56,MRC Cognition and Brain Sciences Unit,Clinical Medicine,1,PhD student,PhD student,Yes,Hands On LLMs workshop (04/02/25)
+Camila,White,,cmw124,Engineering,Technology,1,PhD student,PhD student,No,Accelerate-C2D3 funding call applicant (2023)
+Céline,Nguyen,,cn1732,English,Arts and Humanities,1,PhD Student,PhD student,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Céline,Myers,,cnam22@cam.ac.uk,Materials Science and Metallurgy,Physical Sciences,1,Research Associate,Postdoc,No,HPC Pioneer Projects Day (27/09/24)
+Charlotte,Smith,,cns136,Physics,Physical Sciences,1,Research Associate,Postdoc,No,AI for Science Summit 2023
+Casey,Baker,,cob216,Babraham Institute,Biological Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Céline,Jackson,,coxj23@cam.ac.uk,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Céline,Parker,,cp1373,Engineering,Technology,1,Marie Skłodowska–Curie Fellow,Postdoc,Yes,AI for Science Summit 2023
+Casey,Patel,,cp1634,Clinical Neurosciences,Clinical Medicine,1,MPhil,Masters student,Yes,Data Pipelines School (Mar 23)
+Charlotte,Green,,cpig25,MRC Cognition and Brain Science Unit,Clinical Medicine,1,Research Associate,Postdoc,Yes,Hands On LLMs workshop (14/04/25)
+Casey,Wilson,,cqhw25@cam.ac.uk,Chemical Engineering and Biotechnology,Technology,1,PhD student,PhD student,Yes,Data Science Residency
+Casey,Jackson,,cqmj23,Psychology,Biological Sciences,1,Masters Student,Masters student,Yes,Python and Pandas course
+Camila,Reyes,,cr886,Physics,Physical Sciences,1,Assistant Teaching Professor,Professor/PI,No,Accelerate-C2D3 funding call awardee (2024)
+Céline,Rodríguez,,cr967@cam.ac.uk,Psychiatry,Clinical Medicine,,Postdoctoral Researcher,Postdoc,No,AI Clinic
+Céline,Rodríguez,,cr967@cam.ac.uk,Psychiatry,Clinical Medicine,1,Postdoctoral Researcher,Postdoc,Yes,Hands On LLMs workshop (04/02/25)
+Céline,Mitchell,,crm85,Psychology,Biological Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Chloë,Allen,,csa149,Applied Mathematics and Theoretical Physics,Physical Sciences,1,Research Associate,Postdoc,Yes,Data Pipelines School (Dec 22)
+Charlotte,Taylor,,ct2388,Radiology,Clinical Medicine,1,PhD student,PhD student,Yes,Data Pipelines School (Mar 23)
+Céline,Hall,,cth67,Chemical Engineering and Biotechnology,Technology,1,,Unknown,No,MLE Clinic
+Camila,Alvarez,,ctia24@cam.ac.uk,Psychology,Biological Sciences,1,Research Assistant,Research Assistant,No,Network Event (29/03/23)
+Céline,Jones,,ctj30,Physics,Physical Sciences,1,Phd student,PhD student,Yes,Hands On LLMs workshop (14/04/25)
+Charlotte,Wright,,ctw143,Judge Business School,Technology,1,"Executive Director, Regulatory Genome Project",Professor/PI,Yes,AI for Science Summit 2023
+Chloë,Hill,,cvgh25,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Network Event (29/03/23)
+Charlotte,Wood,,cw1274,Education,Humanities and Social Sciences,1,student,PhD student,Yes,AI Clinic October 24
+Charlotte,Walker,,cw1445,Philosophy,Arts and Humanities,1,Undergraduate,Other,Yes,Python and Pandas course
+Camila,Green,,cwg123@cam.ac.uk,Chemical Engineering and Biotechnology,Technology,1,PhD student,PhD student,Yes,Python and Pandas course
+Charlotte,Gómez,,cwg191,Pathology,Biological Sciences,1,Postgraduate student ,PhD student,No,SBS Workshop May 2023
+Céline,Wright,,cwow21@cam.ac.uk,Archaeology,Humanities and Social Sciences,1,Professor,Professor/PI,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Céline,Patel,,cwp65,MRC Toxicology Unit,Biological Sciences,1,Postdoctoral Researcher ,Postdoc,No,SBS Workshop May 2023
+Chloë,Wright,,cwyw22,Earth Sciences,Physical Sciences,1,Research Associate,Postdoc,Yes,Python and Pandas course
+Casey,Cox,,cxc191@cam.ac.uk,Other,Other,1,Other,Other,Yes,Hands On AI workshop (18/03/25)
+Casey,Ruiz,,cxr48,Pathology,Biological Sciences,1,PhD student,PhD student,Yes,Data Pipelines School (Mar 23)
+Casey,Ramírez,,cxtr24,Chemical Engineering and Biotechnology,Technology,1,,other,Yes,Python and Pandas course
+Charlotte,Williams,,cxxw25,Physics,Physical Sciences,1,Final Year PhD student,PhD student,Yes,Data Science Residency
+Camila,Hill,,czh114,Education,Humanities and Social Sciences,1,PhD student,PhD student,No,Accelerate-C2D3 funding call applicant (2024)
+Céline,Martin,,czqm24,Radiology,Clinical Medicine,,PhD student,PhD student,Yes,AI Clinic
+Chloë,Wood,,czw44,Theoretical and Applied Linguistics,Arts and Humanities,1,Senior Research Associate,Postdoc,No,Accelerate-C2D3 funding call applicant (2023)
+Dev,Anderson,,da1478,Chemistry,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Daichi,Diaz,,damd21,Psychiatry,Clinical Medicine,,PhD student,PhD student,No,AI Clinic
+Daichi,Diaz,,damd21,Psychiatry,Clinical Medicine,1,PhD student,PhD student,Yes,AI Clinic March 23
+Dakota,Cooper,,dapc25,"Physiology, Development and Neuroscience",Biological Sciences,1,MPhil student,Masters student,No,Lunchtime Seminar
+Daichi,Brooks,,db854,MRC Toxicology Unit,Biological Sciences,1,PhD student,PhD student,Yes,Data Pipelines School (Mar 23)
+Dev,Peterson,,dbp181,Clinical Neurosciences,Clinical Medicine,1,,Unknown,Yes,Data Pipelines School (Mar 23)
+Daichi,Cruz,,dcqc25@cam.ac.uk,Materials Science and Metallurgy,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Dakota,,Collins,ddgc24,Chemical Engineering and Biotechnology,Technology,1,Research Fellow,Postdoc,Yes,Accelerate-C2D3 funding call applicant (2022)
+Dakota,Robinson,,degr22,Medicine,Clinical Medicine,1,"staff,student",PhD student,Yes,LLMs workshop (02/10/24)
+Dev,Moore,,demm22,MRC Cognition and Brain Science Unit,Clinical Medicine,1,PhD student,PhD student,Yes,AI and LLMs workshop (14/05/24)
+Daichi,Ward,,dew219,Chemical Engineering and Biotechnology,Technology,1,,Unknown,Yes,Python and Pandas course
+Dev,King,,dfek25,Wellcome-MRC Cambridge Stem Cell Institute,Clinical Medicine,1,,other,Yes,Python and Pandas course
+Dev,Jackson,,dfj229@cam.ac.uk,Chemistry,Physical Sciences,,PhD student,PhD student,No,AI Clinic August 22
+Dev,Johnson,,dghj25@cam.ac.uk,Medicine,Clinical Medicine,1,PhD student,PhD student,No,Accelerate-C2D3 funding call applicant (2024)
+Dev,Hernández,,dh1720@cam.ac.uk,Clinical Neurosciences,Clinical Medicine,1,PhD student,PhD student,Yes,Accelerate-C2D3 funding call applicant (2024)
+Dev,Hughes,,dh2292,Zoology,Biological Sciences,1,College lecturer,Professor/PI,No,Network Event (29/03/23)
+Daichi,Hill,,dh2307,Computer Science and Technology,Technology,1,PhD student,PhD student,Yes,Generative AI (07/04/25)
+Dev,Rogers,,djr114,Cancer Research UK Cambridge Institute,Clinical Medicine,1,Research Assistant,Research Assistant,No,MLE Clinic
+Dev,King,,dk932@cam.ac.uk,Engineering,Technology,1,Professor,Professor/PI,No,AI for Science Summit 2023
+Dev,Reyes,,dkr65,Chemistry,Physical Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Dakota,Wilson,,dkw133,"Physiology, Development and Neuroscience",Biological Sciences,1,Data Scientist,Other,Yes,AI for Science Summit 2023
+Dakota,Murphy,,dlsm22@cam.ac.uk,Computer Science and Technology,Technology,1,Planetary Computing Fellow,Postdoc,No,LLMs Best Practices for Safe and Effective Deployment (30/09/24)
+Dev,López,,dml180,University Library,Non-school,,Digital Preservation Analyst,Other,No,AI café - CDH
+Dev,Murphy,,dmm83,Psychiatry,Clinical Medicine,1,staff,Postdoc,No,AI Clinic February 26
+Daichi,Reed,,dmr156,Economics,Humanities and Social Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Dakota,Hernández,,dnh168@cam.ac.uk,Psychology,Biological Sciences,1,PhD student,PhD student,No,Accelerate-C2D3 funding call awardee (2024)
+Dev,Long,,dnl108@cam.ac.uk,Engineering,Technology,,Principal Research Associate,Postdoc,No,AI Clinic
+Daichi,Myers,,dom31,Gurdon Institute,Biological Sciences,1,,Unknown,Yes,Python and Pandas course
+Dakota,Phillips,,dp2083,Engineering,Technology,1,Marie Skłodowska-Curie Fellow,Postdoc,No,Accelerate-C2D3 funding call applicant (2023)
+Dakota,Phillips,,dp58,Sanger Institute,Other,1,Other,Other,Yes,Hands On LLMs workshop (14/04/25)
+Daichi,Hill,,dph181,,,,Visitor,Other,No,AI café - CDH
+Daichi,Hill,,dph181,,,1,Visitor,Other,No,AI Clinic January 25
+Dakota,Young,,dpy232,Clinical Neurosciences,Clinical Medicine,1,student,PhD student,Yes,Diffusion Models Workshop (06/11/24)
+Daichi,Scott,,ds637,Sociology,Humanities and Social Sciences,1,Research Associate,Postdoc,Yes,Python and Pandas course
+Dakota,Sanders,,dss115@cam.ac.uk,Wellcome-MRC Cambridge Stem Cell Institute,Clinical Medicine,1,PhD student,PhD student,Yes,Python and Pandas course
+Daichi,Taylor,,dst24,Engineering,Technology,1,PhD Student,PhD student,Yes,Data Science Residency
+Daichi,Ortiz,,dto206,Cambridge Digital Humanities,Arts and Humanities,1,Masters Student,Masters student,Yes,Python and Pandas course
+Daichi,Mendoza,,dum148,Veterinary Medicine,Biological Sciences,,Veterinary Epidemiologist,Other,No,AI Café West Hub
+Dev,Phillips,,dup194@cam.ac.uk,Chemical Engineering and Biotechnology,Technology,1,Senior Research Associate,Postdoc,No,Accelerate-C2D3 funding call applicant (2024)
+Dev,Hall,,dvh111,Engineering,Technology,1,Postdoc,Postdoc,Yes,An Introduction to Docker (13/03/25)
+Dakota,Sanders,,dxxs21,Engineering,Technology,1,Research Associate,Postdoc,Yes,Python and Pandas course
+Ezra,Alvarez,,ea1454,Pathology,Biological Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Emma,Wood,,eaww22,Physics,Physical Sciences,1,PhD student,PhD student,No,AI Clinic January 25
+Emma,Wood,,eaww22,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Data Pipelines School (Dec 22)
+Elijah,Morris,,ebjm21,Engineering,Technology,1,"CORE fellow (Community, Outreach and Recruitment in Engineering)  Churchill College.",Other,No,Accelerate-C2D3 funding call applicant (2023)
+Élodie,Wood,,ebw107,Veterinary Medicine,Biological Sciences,1,Postdoctoral Researcher ,Postdoc,No,SBS Workshop May 2023
+Elijah,Carter,,ec2147,Chemical Engineering and Biotechnology,Technology,1,PhD student,PhD student,Yes,Python and Pandas course
+Emma,Myers,,ecm186@cam.ac.uk,University Library,Non-school,,Head of Cultural Heritage Imaging Laboratory,Other,No,AI café - CDH
+Élodie,Scott,,ecs106,History,Humanities and Social Sciences,,PhD student,PhD student,No,AI café - CDH
+Emma,Garcia,,edig23,Applied Mathematics and Theoretical Physics,Physical Sciences,1,Early Career Advanced Fellow,Postdoc,No,Network Event (29/03/23)
+Elijah,Kim,,eek58,Computer Science and Technology,Technology,1,Machine Learning Engineer,RSE,No,AI for Science Summit 2023
+Emma,Mitchell,,efm28,Radiology,Clinical Medicine,1,staff,Other,No,AI Clinic February 26
+Emma,Mitchell,,efm28,Radiology,Clinical Medicine,1,staff,Other,Yes,An Introduction to Docker Workshop (02/12/24)
+Elijah,Rodríguez,,efr123,Wellcome-MRC Cambridge Stem Cell Institute,Clinical Medicine,1,Group Leader,Professor/PI,No,Accelerate-C2D3 funding call applicant (2022)
+Elijah,Thomas,,eft84,Materials Science and Metallurgy,Physical Sciences,1,student,PhD student,Yes,AI and LLMs workshop (20/01/25)
+Elijah,González,,eg1627,Chemical Engineering and Biotechnology,Technology,1,PhD student,PhD student,Yes,Data Pipelines School (Sept 23)
+Elijah,González,,eg1981,Judge Business School,Technology,1,"staff,student",PhD student,Yes,AI and LLMs workshop (20/01/25)
+Emma,Gómez,,eg2006,Plant Sciences,Biological Sciences,1,Principal Investigator,Professor/PI,No,SBS Workshop May 2023
+Emma,Green,,eg624,Architecture,Arts and Humanities,1,PhD student,PhD student,Yes,Hands On LLMs workshop (14/04/25)
+Élodie,Bailey,,ehb162,History,Humanities and Social Sciences,1,PhD student,PhD student,Yes,LLM study group
+Evelyn,Gray,,ehg80,MRC Cognition and Brain Science Unit,Clinical Medicine,1,staff,Postdoc,Yes,LLMs workshop (19/11/24)
+Ezra,Walker,,ehw215,UIS,Non-school,1,Delivery Manager,RSE,No,HPC Pioneer Projects Day (27/09/24)
+Evelyn,Martin,,eiym22,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Emma,Jackson,,ej1735,Genetics,Biological Sciences,1,Undergraduate,Other,Yes,Python and Pandas course
+Élodie,Phillips,,ejsp22@cam.ac.uk,Medicine,Clinical Medicine,1,PhD Student,PhD student,Yes,Python and Pandas course
+Ezra,Thomas,,ejt79,Engineering,Technology,1,PhD student,PhD student,Yes,Packaging and Publishing Python Code for Research (11/03/25)
+Ezra,Johnson,,ejyj21,Chemical Engineering and Biotechnology,Technology,1,Senior Research Laboratory Technician,Other,Yes,Python and Pandas course
+Élodie,Jackson,,elj90,Materials Science and Metallurgy,Physical Sciences,,,Unknown,No,AI Clinic August 22
+Evelyn,Morris,,em2299,Veterinary Medicine,Biological Sciences,1,Research Fellow,Postdoc,Yes,Python and Pandas course
+Elijah,Scott,,emvs21,Engineering,Technology,1,PhD student,PhD student,Yes,Data Science Residency
+Ezra,King,,emwk24,Oncology,Clinical Medicine,1,Data Manager,Other,Yes,Python and Pandas course
+Elijah,Carter,,endc22,MRC Cognition and Brain Science Unit,Clinical Medicine,1,Research Associate,Postdoc,No,Accelerate-C2D3 funding call applicant (2024)
+Emma,Rogers,,enjr22,Physics,Physical Sciences,1,,Unknown,Yes,Python and Pandas course
+Ezra,Noémie,Roberts,enr137,Chemistry,Physical Sciences,1,PhD Student,PhD student,Yes,Data Science Residency
+Elijah,Rodríguez,,eor152,Gurdon Institute,Biological Sciences,1,,Unknown,Yes,Python and Pandas course
+Emma,Phillips,,ep79@cam.ac.uk,Architecture,Arts and Humanities,1,Assistant Professor,Professor/PI,Yes,Accelerate-C2D3 funding call applicant (2023)
+Emma,Pérez,,epp214,Pathology,Biological Sciences,1,Roving Researcher,Other,No,MLE Clinic
+Elijah,Mitchell,,eqam21,Genetics,Biological Sciences,1,PhD student,PhD student,Yes,Generative AI (07/04/25)
+Elijah,Howard,,eqh122,Engineering,Technology,1,PhD Student,PhD student,Yes,Data Science Residency
+Evelyn,Anderson,,eqja25,Radiology,Clinical Medicine,1,,Unknown,Yes,Python and Pandas course
+Elijah,Rogers,,eqr40,Darwin College - Graduates and Postgraduates,Other,1,PhD student,PhD student,Yes,An Introduction to Diffusion Models (04/03/25)
+Élodie,Wright,,eqw124,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Data Pipelines School (Dec 22)
+Élodie,Ramos,,er2285,Physics,Physical Sciences,1,Postdoc,Postdoc,Yes,Data Science Residency
+Ezra,Ramírez,,er719,Medical Genetics,Clinical Medicine,1,Research Associate,Postdoc,Yes,Data Pipelines School (Mar 23)
+Elijah,Cooper,,erc225@cam.ac.uk,Education,Humanities and Social Sciences,1,Assistant Professor,Professor/PI,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Emma,Martin,,erm122,Education,Humanities and Social Sciences,1,Undergraduate,Other,No,MLE Clinic
+Élodie,Sánchez,,es852,Chemistry,Physical Sciences,,,Unknown,No,AI Clinic December 23
+Ezra,Evans,,ese108,Zoology,Biological Sciences,,Staff,Postdoc,Yes,AI and LLMs workshop (26/02/24)
+Ezra,Evans,,ese108,Zoology,Biological Sciences,1,Staff,Postdoc,Yes,Hands On LLMs workshop (04/02/25)
+Ezra,Ward,,esw185,Engineering,Technology,1,PhD student,PhD student,Yes,Generative AI (07/04/25)
+Evelyn,Chavez,,etc104,Theoretical and Applied Linguistics,Arts and Humanities,1,PhD student,PhD student,No,AI Clinic September 24
+Ezra,Garcia,,etg93,History,Humanities and Social Sciences,1,,Postdoc,No,MLE Clinic
+Emma,Phillips,,euip23,Engineering,Technology,1,PhD student,PhD student,Yes,Data Science Residency
+Evelyn,Watson,,euw167,"Physiology, Development and Neuroscience",Biological Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Elijah,Thomas,,evft25,Judge Business School,Technology,1,student,PhD student,Yes,AI and LLMs workshop (20/01/25)
+Elijah,Davis,,evid21,Computer Science and Technology,Technology,1,Postdoc,Postdoc,No,Hopes and Fears lab
+Élodie,Cook,,evwc22,Cambridge University Botanic Garden & University Herbarium,Non-school,1,Professor,Professor/PI,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Evelyn,Wilson,,ew1047,Wellcome-MRC Cambridge Stem Cell Institute,Clinical Medicine,1,Research Associate,Postdoc,No,Network Event (29/03/23)
+Evelyn,Stewart,,ewds25,Computer Science and Technology,Technology,1,Professor,Professor/PI,No,AI for Science Summit 2023
+Elijah,González,,ewg97,Physics,Physical Sciences,1,PhD Candidate,PhD student,Yes,Data Science Residency
+Ezra,Robinson,,ewr163,Engineering,Technology,1,Research Associate,Postdoc,No,Accelerate-C2D3 funding call applicant (2024)
+Ezra,Watson,,eww189,Chemistry,Physical Sciences,1,Postdoc,Postdoc,Yes,Data Pipelines School (Sept 23)
+Ezra,Hernández,,exh163,Pathology,Biological Sciences,1,Research Associate,Postdoc,No,Accelerate-C2D3 funding call applicant (2024)
+Élodie,Jackson,,exj85@cam.ac.uk,Biochemistry,Biological Sciences,1,Research Associate,Postdoc,Yes,Data Science Residency
+Elijah,Stewart,,exs131@cam.ac.uk,Chemistry,Physical Sciences,1,PhD student,PhD student,No,HPC Pioneer Projects Day (27/09/24)
+Élodie,Nguyen,,exxn22,Chemistry,Physical Sciences,1,student,PhD student,Yes,LLMs workshop (02/10/24)
+Ezra,Murphy,,eykm24,Economics,Humanities and Social Sciences,1,Fellow,Other,Yes,Python and Pandas course
+Ezra,Wilson,,eyw122,Institute of Metabolic Science,Clinical Medicine,1,Postdoctoral Neuroscientist,Postdoc,No,Network Event (29/03/23)
+Élodie,Mitchell,,ezm112,Geography,Physical Sciences,1,,Unknown,No,AI Clinic May 23
+Fatima,Alvarez,,fa464@cam.ac.uk,Wellcome-MRC Cambridge Stem Cell Institute,Clinical Medicine,1,Affiliated PI,Professor/PI,No,Accelerate-C2D3 funding call applicant (2023)
+Fatima,Chavez,,fec38,Oncology,Clinical Medicine,1,PhD student,PhD student,Yes,Data Science Residency
+Fatima,Morris,,fem100@cam.ac.uk,Sociology,Humanities and Social Sciences,1,,Unknown,No,AI Clinic January 25
+Fatima,Morris,,fem100@cam.ac.uk,Sociology,Humanities and Social Sciences,1,,Unknown,Yes,Python and Pandas course
+Fatima,Bailey,,fgb206,Engineering,Technology,1,staff,Postdoc,Yes,AI and LLMs workshop (20/01/25)
+Fatima,Castillo,,fhc38,Chemical Engineering and Biotechnology,Technology,1,PhD student,PhD student,Yes,Data Science Residency
+Fatima,Adams,,fja102,Cambridge Digital Humanities,Humanities and Social Sciences,1,Teaching Associate in DH,Other,Yes,AI for Science Summit 2023
+Fatima,Flores,,fmmf21,History,Humanities and Social Sciences,1,PhD student,PhD student,No,MLE Clinic
+Fatima,Torres,,fmt55,Public Health and Primary Care,Clinical Medicine,1,Research Associate,Postdoc,Yes,Data Pipelines School (Mar 23)
+Fatima,Young,,fny222,ai@cam,Non-school,1,Programme Manager,Professional Services,No,AI for Science Summit 2024
+Fatima,Ramos,,frvr22,Materials Science and Metallurgy,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Fatima,Scott,,fs468,Theoretical and Applied Linguistics,Arts and Humanities,1,PhD student,PhD student,Yes,Python and Pandas course
+Fatima,Parker,,fsp127@cam.ac.uk,Engineering,Technology,1,Postdoc,Postdoc,Yes,Packaging and Publishing Python Code for Research (11/03/25)
+Fatima,Campbell,,fsrc23@cam.ac.uk,Astronomy,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Fatima,Nguyen,,ftn216,Chemistry,Physical Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Fatima,Martin,,fum245,Psychology,Biological Sciences,1,Undergraduate,Other,Yes,Python and Pandas course
+Fatima,Martin,,fvm154,Other,Biological Sciences,1,PhD student,PhD student,Yes,AI and LLMs workshop (10/04/25)
+Fatima,Wright,,fw1606,Judge Business School,Technology,1,Psychometrics,Other,Yes,Data Science Residency
+Fatima,Williams,,fw2230,"Physiology, Development and Neuroscience",Biological Sciences,1,Research Assistant,Research Assistant,Yes,Diffusion Models Workshop (06/11/24)
+Fatima,Rogers,,fxr164,CIMR,Clinical Medicine,1,Senior Research Associate,Postdoc,No,MLE Clinic
+Hassan,Brooks,,hab156,Chemical Engineering and Biotechnology,Technology,1,,Unknown,Yes,Python and Pandas course
+Henry,Castillo,,hac48,Chemical Engineering and Biotechnology,Technology,1,Visitor,Visitor,Yes,Packaging and Publishing Python Code for Research (11/03/25)
+Hiro,Harris,,hah75,Education,Humanities and Social Sciences,1,Associate Professor,Professor/PI,No,MLE Clinic
+Hassan,Baker,,hb1413,Medical Genetics,Clinical Medicine,1,,Unknown,Yes,AI and LLMs workshop (14/05/24)
+Harper,Parker,,hbjp21,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Data Pipelines School (Dec 22)
+Hassan,Phillips,,hcp220,Plant Sciences,Biological Sciences,1,Postdoctoral Researcher ,Postdoc,No,AI Clinic February 26
+Hassan,Phillips,,hcp220,Plant Sciences,Biological Sciences,1,Postdoctoral Researcher ,Postdoc,No,SBS Workshop May 2023
+Hassan,Diaz,,hd1053,Geography,Physical Sciences,1,Research Associate,Postdoc,No,MLE Clinic
+Hana,Hall,,heh158,Computer Science and Technology,Technology,1,Research Associate,Postdoc,No,Accelerate team
+Henry,Turner,,het39,Other,Clinical Medicine,1,Masters Student,Masters student,Yes,Python and Pandas course
+Hana,Green,,hezg25@cam.ac.uk,"Physiology, Development and Neuroscience",Biological Sciences,1,Postdoc,Postdoc,Yes,Python and Pandas course
+Hassan,Clark,,hfc47,Theoretical and Applied Linguistics,Arts and Humanities,1,Research Laboratory Manager,Other,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Henry,Green,,hfg109,Plant Sciences,Biological Sciences,1,Research Associate,Postdoc,No,Accelerate-C2D3 funding call applicant (2024)
+Henry,Green,,hfg109,Plant Sciences,Biological Sciences,1,Research Associate,Postdoc,No,AI Clinic February 26
+Hana,Carter,,hgrc22,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Hiro,Hughes,,hh1982,Pure Mathematics and Mathematical Statistics,Physical Sciences,1,student,PhD student,Yes,LLMs workshop (19/11/24)
+Hana,Reyes,,hhr197@cam.ac.uk,Veterinary Medicine,Biological Sciences,1,MRC Career Development Fellow,Postdoc,No,Accelerate-C2D3 funding call awardee (2024)
+Harper,Kelly,,hhzk21,Earth Sciences,Physical Sciences,1,PhD student,PhD student,Yes,AI for Science Summit 2023
+Hassan,Alvarez,,hia126,Psychology,Biological Sciences,,Research Assistant,Research Assistant,No,AI Café West Hub
+Hiro,Torres,,hit205@cam.ac.uk,Physics,Physical Sciences,1,Research Associate,Postdoc,Yes,Data Pipelines School (Dec 22)
+Hiro,Harris,,hjh122,Department of Earth Sciences,Physical Sciences,1,Research Associate,Postdoc,Yes,Hands On LLMs workshop (04/02/25)
+Hiro,Kim,,hjk120,"Physiology, Development and Neuroscience",Biological Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Harper,Martin,,hkm231,Zoology,Biological Sciences,1,Henslow Research Fellow,Postdoc,Yes,AI for Science Summit 2023
+Hana,Peterson,,hkp175,Earth Sciences,Physical Sciences,1,MRes Student,Masters student,No,AI for Science Summit 2023
+Harper,Walker,,hkw166,Clinical Neurosciences,Clinical Medicine,1,Research Associate,Postdoc,Yes,Data Science Residency
+Hiro,Torres,,hlt102,Physics,Physical Sciences,1,PhD student,PhD student,Yes,An Introduction to Diffusion Models (04/03/25)
+Harper,Moore,,hm1492@cam.ac.uk,Engineering,Technology,1,Mphil student,Masters student,Yes,Accelerate-C2D3 funding call applicant (2023)
+Harper,Miller,,hmm131,CIMR,Clinical Medicine,1,Principal Investigator,Professor/PI,No,SBS Workshop May 2023
+Hana,Ross,,hmr242,Psychiatry,Clinical Medicine,1,Masters Student,Masters student,No,AI Clinic Jan 24
+Hassan,Thompson,,hnt194,Pathology,Clinical Medicine,1,Postdoc,Postdoc,Yes,An Introduction to Docker (13/03/25)
+Hiro,Davis,,hnxd23,Medicine,Clinical Medicine,1,PhD student,PhD student,Yes,Python and Pandas course
+Hassan,Peterson,,hp1277,Engineering,Technology,1,Other,Other,Yes,Packaging and Publishing Python Code for Research (11/03/25)
+Harper,Patel,,hp1797,Wellcome-MRC Cambridge Stem Cell Institute,Clinical Medicine,1,Postdoctoral Fellow,Postdoc,No,Accelerate-C2D3 funding call applicant (2024)
+Harper,Cook,,hpc82@cam.ac.uk,Genetics,Biological Sciences,1,Research Associate,Postdoc,Yes,Data Science Residency
+Hiro,Baker,,hqb99,Architecture,Arts and Humanities,1,Research Associate,Postdoc,Yes,Python and Pandas course
+Harper,Adams,,hqea25,Plant Sciences,Biological Sciences,1,Postdoctoral Researcher ,Postdoc,No,AI Clinic February 26
+Harper,Adams,,hqea25,Plant Sciences,Biological Sciences,1,Postdoctoral Researcher ,Postdoc,No,SBS Workshop May 2023
+Harper,Roberts,,hr75,Judge Business School,Technology,1,Research Assistant,Research Assistant,No,Accelerate-C2D3 funding call applicant (2023)
+Hassan,Murphy,,hrm242,Biostatistics,Clinical Medicine,1,,Unknown,No,MLE Clinic
+Hassan,Smith,,hs1392,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Hands On AI workshop (16/04/25)
+Hassan,Scott,,hs1660,Chemistry,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Henry,Morales,,hsm75,Applied Mathematics and Theoretical Physics,Physical Sciences,1,Turing University Liaison Manager and Centre for Integrative Neuroscience Discovery Coordinator,Professional Services,No,Network Event (29/03/23)
+Hiro,Ward,,hssw25@cam.ac.uk,Cancer Research UK Cambridge Institute,Clinical Medicine,,PhD student,PhD student,Yes,AI and LLMs workshop (26/02/24)
+Harper,Wood,,hsw232,Obstetrics and Gynaecology,Medicine,1,Research Associate,Postdoc,Yes,Generative AI (07/04/25)
+Hassan,Torres,,ht2383,Computer Science and Technology,Technology,1,PhD student,PhD student,No,Accelerate-C2D3 funding call applicant (2024)
+Hassan,Martin,,htcm24@cam.ac.uk,Chemical Engineering and Biotechnology,Technology,1,PhD student,PhD student,Yes,Data Science Residency
+Hana,Clark,,huac24,Medicine,Clinical Medicine,1,MRC Clinician Scientist,Other,No,Accelerate-C2D3 funding call applicant (2024)
+Harper,White,,hubw22@cam.ac.uk,Digital Education Futures Initiative (DEFI),Non-school,1,"Managing Director, Camtree, Hughes Hall",Other,No,Accelerate-C2D3 funding call applicant (2024)
+Henry,López,,huel23,University Library,Non-school,1,Munby Fellow,Postdoc,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Harper,King,,huk136,Plant Sciences,Biological Sciences,1,Postgraduate student ,PhD student,No,SBS Workshop May 2023
+Hiro,Ward,,huw163,Chemical Engineering and Biotechnology,Technology,1,,Unknown,Yes,Python and Pandas course
+Hana,Davis,,hvd217,Asian and Middle Eastern Studies,Arts and Humanities,1,,Unknown,Yes,Python and Pandas course
+Henry,Flores,,hvf211,Oncology,Clinical Medicine,1,,Unknown,Yes,Python and Pandas course
+Harper,Howard,,hvh176,Engineering,Technology,1,PhD student,PhD student,Yes,Data Science Residency
+Hassan,Howard,,hvhh24,Clinical Neurosciences,Clinical Medicine,1,Career Development Fellow,Postdoc,Yes,Python and Pandas course
+Hassan,Johnson,,hvj121,Education,Humanities and Social Sciences,,MPhil student,Masters student,No,AI café - CDH
+Hana,Davis,,hwd37,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Accelerate-C2D3 funding call applicant (2023)
+Henry,Rivera,,hwr209@cam.ac.uk,Engineering,Technology,1,"staff,student",PhD student,Yes,Diffusion Models Workshop (06/11/24)
+Hana,Williams,,hww161,Chemistry,Physical Sciences,1,Postdoc,Postdoc,Yes,Python and Pandas course
+Harper,Ortiz,,hxeo25,Chemistry,Physical Sciences,1,PhD student,PhD student,No,AI Clinic January 25
+Harper,Ortiz,,hxeo25,Chemistry,Physical Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Henry,Ortiz,,hxho24,Public Health and Primary Care,Clinical Medicine,,,Unknown,No,AI Clinic April 23
+Harper,Morgan,,hxm202,Physics,Physical Sciences,1,Undergraduate,Other,Yes,Python and Pandas course
+Harper,Johnson,,hxzj22,Public Health and Primary Care,Clinical Medicine,1,PhD student,PhD student,Yes,An Introduction to Diffusion Models (04/03/25)
+Hiro,Thompson,,hyat21,Computer Science and Technology,Technology,1,,Unknown,No,AI Clinic September 22
+Imran,Stewart,,iaos22,Education,Humanities and Social Sciences,1,PhD student,PhD student,No,Accelerate-C2D3 funding call applicant (2024)
+Imran,Bennett,,ibcb25@cam.ac.uk,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Data Pipelines School (Mar 23)
+Ibrahim,Harris,,ibth23,Chemistry,Physical Sciences,1,Assistant Professor,Professor/PI,Yes,Data Science Residency
+Ibrahim,Cooper,,ic161@cam.ac.uk,Chemical Engineering and Biotechnology,Technology,1,PhD student,PhD student,Yes,Python and Pandas course
+Inés,Cox,,ic1781,MRC LMB,Non-school,1,Career Development Fellow,Postdoc,Yes,AI and LLMs workshop (20/01/25)
+Ibrahim,Evans,,ice55,Education,Humanities and Social Sciences,1,Research Associate,Postdoc,No,AI for Science Summit 2023
+Ibrahim,Nguyen,,idn73,UIS,Non-school,1,Programme Manager,Professional Services,No,HPC Pioneer Projects Day (27/09/24)
+Isabella,Edwards,,ie251,Judge Business School,Technology,1,Associate Professor,Professor/PI,No,Accelerate-C2D3 funding call applicant (2024)
+Isabella,Edwards,,iee45,Physics,Physical Sciences,1,,Unknown,Yes,Data Pipelines School (Mar 23)
+Imran,Price,,iesp24,Physics,Physical Sciences,1,Research Associate,Postdoc,Yes,Data Science Residency
+Ibrahim,Mitchell,,ifqm21,Physics,Physical Sciences,1,Research Associate,Postdoc,Yes,Data Science Residency
+Inés,Hughes,,igh113,Sanger Institute,Other,1,Other,Other,Yes,Hands On LLMs workshop (14/04/25)
+Imran,Hughes,,ih1274,Engineering,Technology,1,PhD student,PhD student,Yes,Data Science Residency
+Imran,Brown,,ihwb23,Politics and International Studies,Humanities and Social Sciences,1,,Unknown,Yes,Python and Pandas course
+Inés,Brown,,iivb21,Land Economy,Humanities and Social Sciences,1,PhD Student,PhD student,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Imran,,Wilson,iiw140,Judge Business School,Technology,1,Professor of Technology Policy,Professor/PI,No,Accelerate-C2D3 funding call applicant (2023)
+Isabella,Walker,,iiw94,Chemical Engineering and Biotechnology,Technology,1,Masters Student,Masters student,Yes,Python and Pandas course
+Inés,Cooper,,ijjc23,Applied Mathematics and Theoretical Physics,Physical Sciences,1,Research Fellow,Postdoc,No,Network Event (29/03/23)
+Ibrahim,López,,ijl86,Education,Humanities and Social Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Inés,Scott,,ikms22,Psychology,Biological Sciences,1,Research Associate,Postdoc,Yes,Data Science Residency
+Inés,Thompson,,ikt95,Geography,Physical Sciences,1,PhD student,PhD student,Yes,Data Pipelines School (Dec 22)
+Inés,Lewis,,iljl21@cam.ac.uk,Astronomy,Physical Sciences,1,staff,Postdoc,Yes,Diffusion Models Workshop (06/11/24)
+Ibrahim,Young,,ilqy22@cam.ac.uk,Geography,Physical Sciences,1,,Professor/PI,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Imran,Ramírez,,ilwr22,Politics and International Studies,Humanities and Social Sciences,,PhD student,PhD student,No,AI café - CDH
+Imran,Ramírez,,ilwr22,Politics and International Studies,Humanities and Social Sciences,1,Assistant Professor,Professor/PI,No,AI Clinic February 26
+Imran,Myers,,im1897,Engineering,Technology,1,,Professor/PI,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Imran,Rivera,,ioer23,Computer Science and Technology,Technology,1,Postdoc,Postdoc,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Inés,Rivera,,ior112,MRC Cognition and Brain Science Unit,Clinical Medicine,1,student,PhD student,Yes,LLMs workshop (19/11/24)
+Inés,Long,,ipl102,Engineering,Technology,1,Postdoc Researcher,Postdoc,Yes,Data Science Residency
+Isabella,Cruz,,ipzc25,Psychology,Biological Sciences,1,Principal Investigator,Professor/PI,No,SBS Workshop May 2023
+Ibrahim,Lewis,,irfl22,Wellcome-MRC Cambridge Stem Cell Institute,Clinical Medicine,1,Research Associate,Postdoc,Yes,Python and Pandas course
+Isabella,Torres,,irwt24@cam.ac.uk,Engineering,Technology,1,PhD student,PhD student,Yes,Network Event (29/03/23)
+Isabella,Scott,,is839,Engineering,Technology,1,Postdoctoral Reseacrher,Postdoc,No,Lunchtime Seminar
+Ibrahim,Adams,,isa110,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Imran,Rivera,,isr93@cam.ac.uk,Chemical Engineering and Biotechnology,Technology,1,PhD student,PhD student,Yes,Python and Pandas course
+Ibrahim,Cooper,,itc39,Radiology,Clinical Medicine,1,PhD student,PhD student,No,AI Clinic January 25
+Ibrahim,Cooper,,itc39,Radiology,Clinical Medicine,1,PhD student,PhD student,Yes,Python and Pandas course
+Imran,Hernández,,ith146,Public Health and Primary Care,Clinical Medicine,1,Other,Other,Yes,Packaging and Publishing Python Code for Research (11/03/25)
+Ibrahim,Cook,,ivc92@cam.ac.uk,Applied Mathematics and Theoretical Physics,Physical Sciences,1,Postdoc,Postdoc,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Isabella,Wood,,iw1150,Psychiatry,Clinical Medicine,1,First year PhD student,PhD student,Yes,Data Science Residency
+Isabella,Wood,,iw1150@cam.ac.uk,Psychiatry,Clinical Medicine,1,First year PhD student,PhD student,No,AI Clinic February 26
+Inés,Flores,,iwff22,Psychiatry,Clinical Medicine,1,First year PhD student,PhD student,Yes,AI for Science Summit 2023
+Inés,Flores,,iwff22,Psychiatry,Medicine,1,PhD student,PhD student,Yes,Hands On LLMs workshop (04/02/25)
+Imran,Brown,,iwyb23,Computer Science and Technology,Technology,1,Masters Student,Masters student,No,AI Clinic October 24
+Ibrahim,Adams,,ixa206,Economics,Humanities and Social Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Inés,Diaz,,ixd215,Pure Mathematics and Mathematical Statistics,Physical Sciences,1,student,PhD student,Yes,LLMs workshop (19/11/24)
+Inés,Mendoza,,ixm29@cam.ac.uk,Computer Science and Technology,Technology,1,PhD student,PhD student,No,MLE Clinic
+Inés,Mendoza,,ixym25,Psychiatry,Clinical Medicine,1,PhD student,PhD student,No,AI Clinic February 26
+Inés,Mendoza,,ixym25,Psychiatry,Clinical Medicine,1,PhD student,PhD student,Yes,Data Science Residency
+Ibrahim,King,,iyk93,Wellcome Sanger Institute,Non-school,1,PhD student,PhD student,No,Hopes and Fears lab
+Imran,Mitchell,,iym192,Clinical Neuroscience,Clinical Medicine,1,PhD student,PhD student,Yes,Python and Pandas course
+Imran,Gómez,,iyvg25,University Library,Non-school,1,Keeper of Rare Books and Early Manuscripts,Other,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Inés,Robinson,,izr72,"Centre for Research in Arts, Social Sciences and Humanities",Arts and Humanities,1,staff,Other,No,Accelerate-C2D3 funding call awardee (2023)
+Isabella,Reed,,izr94,Department of Pharmacology,Biological Sciences,1,PhD student,PhD student,Yes,An Introduction to Diffusion Models (04/03/25)
+James,Alvarez,,ja62,Applied Mathematics and Theoretical Physics,Physical Sciences,1,	Industry Training Development Manager,Professional Services,Yes,Python and Pandas course
+Jihoon,Taylor,,jat120,Chemistry,Physical Sciences,1,Other,Other,Yes,Packaging and Publishing Python Code for Research (11/03/25)
+James,Baker,,jb2205,"Physiology, Development and Neuroscience",Biological Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Julian,Williams,,jbw162,Astronomy,Physical Sciences,1,,Professional Services,Yes,Python and Pandas course
+Julian,Castillo,,jc484,Genetics,Biological Sciences,1,Postdoctoral Researcher ,Postdoc,No,SBS Workshop May 2023
+Jihoon,Martin,,jcm126,Engineering,Technology,1,PhD student,PhD student,Yes,Data Pipelines School (Dec 22)
+James,Diaz,,jfd73,Computer Science and Technology,Technology,,Masters Student,Masters student,No,AI Clinic
+Jordan,Murphy,,jfm222,Astronomy,Physical Sciences,1,PhD student,PhD student,Yes,Data Pipelines School (Mar 23)
+Jihoon,Rivera,,jfr250@cam.ac.uk,Medicine,Clinical Medicine,1,PhD student,PhD student,Yes,Packaging and Publishing Python Code for Research Workshop (18/11/24)
+Julian,Lee,,jgl153,Philosophy,Arts and Humanities,,Mphil Student,Masters student,Yes,AI and LLMs workshop (26/02/24)
+Jihoon,Patel,,jgp220@cam.ac.uk,Criminology,Humanities and Social Sciences,,PhD student,PhD student,Yes,AI café - CDH
+James,Patel,,jgp220@cam.ac.uk,Criminology,Humanities and Social Sciences,1,PhD student,PhD student,No,AI Clinic January 25
+James,Ramos,,jgr112,Chemical Engineering and Biotechnology,Technology,1,PhD student,PhD student,Yes,Data Science Residency
+Jordan,Reyes,,jgr24,Medicine,Clinical Medicine,1,,Unknown,No,AI Clinic May 24
+Jordan,Chavez,,jgxc23,Materials Science and Metallurgy,Physical Sciences,1,PhD student,PhD student,Yes,Accelerate-C2D3 funding call applicant (2024)
+Julian,Jones,,jj121,Psychiatry,Clinical Medicine,1,PhD Student,PhD student,Yes,Data Science Residency
+Jihoon,Taylor,,jjt99,Politics and International Studies,Humanities and Social Sciences,1,Research Associate,Postdoc,No,MLE Clinic
+Jordan,Walker,,jkbw23,Cancer Research UK Cambridge Institute,Clinical Medicine,1,Senior Research Associate,Postdoc,No,HPC Pioneer Projects Day (27/09/24)
+Jordan,Johnson,,jkj119@cam.ac.uk,Engineering,Technology,1,PhD student,PhD student,Yes,Data Science Residency
+Jihoon,Ramírez,,jkmr23,Physics,Physical Sciences,1,Assistant Professor,Professor/PI,Yes,An Introduction to Diffusion Models (04/03/25)
+James,Young,,jky55,Chemistry,Physical Sciences,1,PhD Student,PhD student,No,MLE Clinic
+Jordan,López,,jl1861,Computer Science and Technology,Technology,1,PhD student,PhD student,Yes,Hands On LLMs workshop (04/02/25)
+José,Turner,,jlbt24,Physics,Physical Sciences,1,Assistant Outreach Officer,Professional Services,Yes,Python and Pandas course
+José,Leo,Kelly,jlrk21@cam.ac.uk,Computer Science and Technology,Technology,1,Programme Manager,Professional Services,No,AI for Science Summit 2023
+Julian,Morris,,jm1606,Radiology,Clinical Medicine,1,Professor,Professor/PI,Yes,Python and Pandas course
+James,Gutierrez,,jmg112,Other,Non-school,1,Professor/PI,Professor/PI,No,AI Clinic November 24
+Julian,Nelson,,jn2363,Radiology,Clinical Medicine,1,PhD student,PhD student,Yes,Hands On LLMs workshop (14/04/25)
+Julian,Adams,,jnca24,Pharmacology,Biological Sciences,1,Professor,Professor/PI,No,Accelerate-C2D3 funding call applicant (2023)
+José,Hughes,,jnh233@cam.ac.uk,Engineering,Technology,1,student,PhD student,Yes,Hands On LLM Workshop (14/10/24)
+José,Myers,,jnm36,Medicine,Clinical Medicine,1,Postdoc,Postdoc,Yes,Data Science Residency
+Julian,Walker,,jnw93,Politics and International Studies,Humanities and Social Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Julian,Torres,,jot115,Land Economy,Humanities and Social Sciences,1,Professor,Professor/PI,Yes,Python and Pandas course
+Jordan,Thomas,,jot197@cam.ac.uk,Education,Humanities and Social Sciences,1,PhD student,PhD student,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Jihoon,Peterson,,jp2165,Materials Science and Metallurgy,Physical Sciences,1,Research Associate,Postdoc,Yes,Data Pipelines School (Dec 22)
+Julian,Turner,,jpt147,Oncology,Clinical Medicine,1,"Programme Manager, BCVI and Paediatric Cancer programmes",Professional Services,Yes,Network Event (29/03/23)
+Julian,Ramos,,jr387,Applied Mathematics and Theoretical Physics,Physical Sciences,1,Research Assistant,Research Assistant,No,ELLIS Summer School event
+James,Morris,,jrwm23,Geography,Physical Sciences,1,PhD student,PhD student,No,HPC Pioneer Projects Day (27/09/24)
+James,Smith,,js761,Engineering,Technology,1,PhD student,PhD student,Yes,Hands On LLMs workshop (14/04/25)
+Jihoon,Young,,jsdy24,Engineering,Technology,,PhD student,PhD student,No,Accelerate-C2D3 funding call applicant (2024)
+José,Davis,,jshd24,Paediatrics,Clinical Medicine,1,Postdoc,Postdoc,Yes,Packaging and Publishing Python Code for Research (11/03/25)
+José,Robinson,,jsr112,Theoretical and Applied Linguistics,Arts and Humanities,1,PhD student,PhD student,Yes,Data Science Residency
+Julian,Baker,,jsrb21,Chemistry,Physical Sciences,1,Research Associate,Postdoc,Yes,Data Science Residency
+Julian,Thompson,,jst128,Physics,Physical Sciences,1,Professor,Professor/PI,Yes,Python and Pandas course
+Julian,Thomas,,jst132@cam.ac.uk,Applied Mathematics and Theoretical Physics,Physical Sciences,1,Research Associate,Postdoc,Yes,Introduction to Diffusion Models in Generative AI workshop (20/06/24) workshop (20/06/24)
+Julian,González,,jtg34,Cancer Research UK Cambridge Institute,Clinical Medicine,1,staff,Postdoc,Yes,HPC Pioneer Projects Day (27/09/24)
+Julian,Price,,jtp136,MRC Cognition and Brain Science Unit,Clinical Medicine,1,staff,Postdoc,Yes,Packaging and Publishing Python Code for Research Workshop (18/11/24)
+Julian,Myers,,jtym24,Physics,Physical Sciences,1,PhD Student (2nd year),PhD student,Yes,Data Science Residency
+Jordan,White,,juaw22@cam.ac.uk,Astronomy,Physical Sciences,1,staff,Professor/PI,Yes,An Introduction to Docker Workshop (02/12/24)
+Jihoon,Stewart,,jvs167,Psychiatry,Clinical Medicine,1,Student,PhD student,No,Lunchtime Seminar
+James,White,,jvw47@cam.ac.uk,Cambridge University Press & Assessment,Non-school,1,Senior Research Manager,Professional Services,Yes,LLMs workshop (19/11/24)
+James,Ward,,jw2397,Clinical Neurosciences,Clinical Medicine,1,PhD student,PhD student,Yes,Data Pipelines School (Mar 23)
+Julian,Johnson,,jwlj23,Sanger Institute,Other,1,PhD student,PhD student,Yes,Hands On LLMs workshop (14/04/25)
+Julian,Ramos,,jxlr22,Engineering,Technology,1,4th Year PhD Researcher,PhD student,Yes,Data Science Residency
+José,Martínez,,jxm80,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Jihoon,Nguyen,,jxn124,Judge Business School,Technology,,,Unknown,No,AI Clinic December 23
+Jihoon,Young,,jy1056@cam.ac.uk,Leverhulme Centre for the Future of Intelligence,Arts and Humanities,,Visiting Researcher,Other,Yes,AI and LLMs workshop (26/02/24)
+James,Miller,,jycm23,Chemical Engineering and Biotechnology,Technology,1,PhD student,PhD student,Yes,Packaging and Publishing Python Code for Research (11/03/25)
+Jordan,Lewis,,jyl141@cam.ac.uk,Cambridge Institute for Technology and Humanity,Arts and Humanities,1,Visitor,Visitor,Yes,Hands On AI workshop (18/03/25)
+Julian,Parker,,jymp21,Zoology,Biological Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+James,Martin,,jzam22,Public Health and Primary Care,Clinical Medicine,1,PhD student,PhD student,Yes,Data Pipelines School (Mar 23)
+José,López,,jzkl22,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Kaito,Carter,,kac140,Veterinary Medicine,Biological Sciences,1,Postdoctoral Researcher ,Postdoc,No,SBS Workshop May 2023
+Kaito,Sanders,,kaes23,Clinical Biochemistry,Clinical Medicine,1,PhD student,PhD student,Yes,Network Event (29/03/23)
+Kaito,King,,kank25,Chemistry,Physical Sciences,1,PhD student,PhD student,No,Accelerate-C2D3 funding call applicant (2024)
+Karim,Brown,,kb1352,Education,Humanities and Social Sciences,1,Senior Research Associate,Postdoc,Yes,Data Science Residency
+Karim,Martínez,,kbm179,Psychiatry,Clinical Medicine,1,Academic Clinical Fellow,Postdoc,Yes,Data Science Residency
+Karim,Peterson,,kbp136,Theoretical and Applied Linguistics,Arts and Humanities,1,PhD student,PhD student,Yes,Python and Pandas course
+Kaito,Cooper,,kc1591,Computer Science and Technology,Technology,1,Research Associate,Postdoc,No,Accelerate-C2D3 funding call applicant (2024)
+Kaito,Adams,,kca126,Education,Humanities and Social Sciences,1,PhD student,PhD student,Yes,AI for Science Summit 2023
+Kaito,Wilson,,kcw234,Psychology,Biological Sciences,1,,Professional Services,Yes,Python and Pandas course
+Karim,White,,kdw225,Physics,Physical Sciences,1,,Unknown,Yes,Python and Pandas course
+Kieran,Clark,,kfc125,Applied Mathematics and Theoretical Physics,Physical Sciences,,PhD student,PhD student,No,AI Café West Hub
+Kieran,Hughes,,kfoh22@cam.ac.uk,Biochemistry,Biological Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Kieran,López,,kgl97,Chemical Engineering and Biotechnology,Technology,1,PhD student,PhD student,Yes,Data Science Residency
+Kieran,Adams,,kgqa21,Engineering,Technology,1,PhD student,PhD student,Yes,An Introduction to Diffusion Models (04/03/25)
+Kieran,Patel,,khp65,Chemistry,Physical Sciences,1,staff,Postdoc,Yes,LLMs workshop (19/11/24)
+Kieran,Pérez,,khp84,CIMR,Clinical Medicine,1,Research Associate,Postdoc,Yes,Python and Pandas course
+Kaito,Stewart,,khrs24,Engineering,Technology,1,"staff,student",PhD student,Yes,LLMs workshop (02/10/24)
+Kieran,Taylor,,kibt23@cam.ac.uk,Wellcome-MRC Cambridge Stem Cell Institute,Clinical Medicine,1,PhD student,PhD student,Yes,Python and Pandas course
+Kieran,Stewart,,kis102,Pathology,Biological Sciences,1,PhD student,PhD student,Yes,Data Pipelines School (Sept 23)
+Kieran,Kim,,kjqk21,Biochemistry,Biological Sciences,1,Undergraduate,Other,Yes,Python and Pandas course
+Kieran,Gutierrez,,kkog23,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Kaito,Morris,,km1774,Cambridge CARES,Non-school,1,Software Developer,RSE,No,Accelerate-C2D3 funding call applicant (2023)
+Kieran,Morales,,km725,Applied Mathematics and Theoretical Physics,Physical Sciences,1,Research Associate,Postdoc,No,Accelerate-C2D3 funding call awardee (2024)
+Karim,Brown,,kmb56,Engineering,Technology,1,Marie Sklodowska-Curie Future Roads Fellow,Postdoc,No,Accelerate-C2D3 funding call applicant (2023)
+Karim,Sánchez,,knis23,Computer Science and Technology,Technology,1,PhD student,PhD student,Yes,AI and LLMs workshop (14/05/24)
+Kaya,Sánchez,,knis23@cam.ac.uk,Computer Science and Technology,Technology,1,PhD student,PhD student,No,AI Clinic January 25
+Kieran,Peterson,,kp2195,CamTree,Non-school,1,Research Associate,Postdoc,No,
+Kieran,Taylor,,kpt46,Gurdon Institute,Biological Sciences,1,PhD student,PhD student,No,Accelerate-C2D3 funding call applicant (2024)
+Kaito,Cooper,,kpuc24,Biochemistry,Biological Sciences,1,Research Associate,Postdoc,Yes,Python and Pandas course
+Karim,Thompson,,kqat22,Law,Humanities and Social Sciences,1,Assistant Professor in Law and Technology,Professor/PI,No,LLMs Best Practices for Safe and Effective Deployment (30/09/24)
+Kieran,Diaz,,kqzd22,Computer Science and Technology,Technology,1,Visiting Researcher,Other,No,Lunchtime Seminar
+Kieran,Ruiz,,kr1619,Computer Science and Technology,Technology,,Senior Research Associate,Postdoc,No,AI Clinic August 22
+Kieran,Alvarez,,ksa46,Applied Mathematics and Theoretical Physics,Physical Sciences,1,staff,Professor/PI,Yes,Hands On LLM Workshop (14/10/24)
+Kieran,Thomas,,kswt25,Medicine,Clinical Medicine,1,PhD Student,PhD student,Yes,Python and Pandas course
+Kaito,Taylor,,kt892@cam.ac.uk,Clinical Neurosciences,Clinical Medicine,1,PhD student,PhD student,Yes,Python and Pandas course
+Karim,Alvarez,,kua125@cam.ac.uk,Applied Mathematics and Theoretical Physics,Physical Sciences,1,Masters Student,Masters student,Yes,Python and Pandas course
+Kieran,Mitchell,,kucm21,Chemistry,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Karim,Jones,,kunj25,Wellcome-MRC Cambridge Stem Cell Institute,Clinical Medicine,1,Core Facility Manager,Other,Yes,Data Pipelines School (Sept 23)
+Kieran,Ortiz,,kvo52@cam.ac.uk,Wellcome-MRC Cambridge Stem Cell Institute,Clinical Medicine,1,Postdoc,Postdoc,Yes,Data Science Residency
+Karim,Williams,,kw1270,Biochemistry,Biological Sciences,1,PhD student,PhD student,No,Accelerate-C2D3 funding call applicant (2022)
+Karim,Hill,,kxh139,Public Health and Primary Care,Clinical Medicine,1,Research Associate,Postdoc,No,AI Clinic January 25
+Karim,Hill,,kxh139,Public Health and Primary Care,Clinical Medicine,1,Research Associate,Postdoc,Yes,Data Pipelines School (Mar 23)
+Kaito,Nguyen,,kxxn22,Computer Science and Technology,Technology,1,Senior Research Strategy Coordinator,Professional Services,No,Network Event (29/03/23)
+Kieran,James,,kytj21,Engineering,Technology,1,PhD student,PhD student,Yes,AI for Science Summit 2023
+Kaito,Wilson,,kzrw22,Medicine,Clinical Medicine,1,Research Associate,Postdoc,Yes,Data Science Residency
+Leila,Alvarez,,laa139,Politics and International Studies,Humanities and Social Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Liam,Clark,,lac29,Pharmacology,Biological Sciences,1,Principal Investigator,Professor/PI,No,SBS Workshop May 2023
+Lucas,Edwards,,lafe23,Medicine,Clinical Medicine,1,,Unknown,No,MLE Clinic
+Lucas,Gutierrez,,lag112,Clinical Biochemistry,Clinical Medicine,1,PhD student,PhD student,Yes,Data Science Residency
+Liam,Lewis,,lal125,Chemical Engineering and Biotechnology,Technology,1,PhD student,PhD student,No,Accelerate-C2D3 funding call awardee (2024)
+Lina,Scott,,las249,Plant Sciences,Biological Sciences,1,Masters Student,Masters student,Yes,Python and Pandas course
+Lina,Baker,,lb2196,Engineering,Technology,1,PhD student,PhD student,No,Network Event (29/03/23)
+Luna,Bennett,,lb863,Education,Humanities and Social Sciences,1,Research Associate,Postdoc,No,MLE Clinic
+Leila,Collins,,lbc232,Haematology,Clinical Medicine,1,PhD student,PhD student,Yes,Python and Pandas course
+Lucía,Davis,,lbcd24,Clinical Neurosciences,Clinical Medicine,1,,Unknown,No,MLE Clinic
+Luna,Gray,,lbg249,UIS,Non-school,1,Research Software Engineer,RSE,No,Accelerate-C2D3 funding call awardee (2024)
+Leo,Gray,,lbsg24@cam.ac.uk,Zoology,Biological Sciences,1,Senior Research Technician,Other,Yes,Python and Pandas course
+Leila,Cooper,,lc434@cam.ac.uk,Genetics,Biological Sciences,1,staff,Postdoc,Yes,LLMs workshop (19/11/24)
+Lucas,Chavez,,lcc140,Psychology,Biological Sciences,1,Masters Student,Masters student,Yes,Python and Pandas course
+Leila,González,,lcfg24@cam.ac.uk,University Library,Non-school,,Head of Student Development,Other,No,AI café - CDH
+Liam,Foster,,ldf160,History,Humanities and Social Sciences,,PhD student,PhD student,No,AI café - CDH
+Lucas,Kelly,,ldk235,Medicine,Clinical Medicine,1,Postdoc,Postdoc,Yes,Data Pipelines School (Sept 23)
+Lina,Scott,,lds24,Cambridge University Press & Assessment,Non-school,1,Data Science Apprentice (BSc),Other,No,Network Event (29/03/23)
+Liam,White,,ldw142,Chemistry,Physical Sciences,1,Chemistry,PhD student,No,Network Event (29/03/23)
+Lucas,Carter,,lekc21,Veterinary Medicine,Biological Sciences,1,Senior Research Associate,Postdoc,Yes,Data Science Residency
+Leo,Nelson,,len101,Psychology,Biological Sciences,1,PhD student,PhD student,No,Accelerate-C2D3 funding call applicant (2024)
+Łukasz,Torres,,let221,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Leo,Castillo,,lezc21,Education,Humanities and Social Sciences,1,PhD student,PhD student,No,Accelerate-C2D3 funding call applicant (2024)
+Lucas,Flores,,lf2018,Bioscience Impact Team,Biological Sciences,1,Administrator,Other,No,SBS Workshop May 2023
+Liam,Adams,,lfa180,Cancer Research UK Cambridge Institute,Clinical Medicine,1,Research Associate,Postdoc,Yes,Data Pipelines School (Mar 23)
+Liam,Chavez,,lfc61@cam.ac.uk,MRC Biostatistics,Clinical Medicine,1,Research Associate,Postdoc,No,Accelerate-C2D3 funding call applicant (2024)
+Lina,Parker,,lfep23,Zoology,Biological Sciences,1,Research Fellow,Postdoc,Yes,AI Clinic September 24
+Leila,Gutierrez,,lfg176@cam.ac.uk,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Introduction to Diffusion Models in Generative AI workshop (20/06/24)
+Leo,Hill,,lfh219@cam.ac.uk,Architecture,Arts and Humanities,1,PhD Student,PhD student,Yes,MLE Clinic
+Lucas,Green,,lg1150,Milner Institute,Biological Sciences,1,PhD stydent,PhD student,Yes,Python and Pandas course
+Łukasz,Gray,,lg1258,Oncology,Clinical Medicine,1,Research Associate,Postdoc,Yes,ML Academy 2025
+Liam,Green,,lg679@cam.ac.uk,Engineering,Technology,,PhD Student,PhD student,Yes,AI Café West Hub
+Lucas,Collins,,lgc177@cam.ac.uk,Psychiatry,Clinical Medicine,,PhD student,PhD student,No,AI Clinic
+Lucas,Collins,,lgc177@cam.ac.uk,Psychiatry,Clinical Medicine,1,PhD student,PhD student,No,AI for Science Summit 2023
+Luna,Brooks,,lgjb22,Chemical Engineering and Biotechnology,Technology,1,PhD student,PhD student,Yes,Python and Pandas course
+Luna,Long,,lgtl25,Computer Science and Technology,Technology,1,Senior Research Associate,Postdoc,No,Accelerate-C2D3 funding call applicant (2024)
+Lucas,Hill,,lh1067@cam.ac.uk,Engineering,Technology,1,Research Associate,Postdoc,Yes,Data Science Residency
+Liam,,Hall,lh1105,"Physiology, Development and Neuroscience",Biological Sciences,1,PhD student,PhD student,Yes,ML Academy 2025
+Lina,Howard,,lh385,Psychology,Biological Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Leo,Price,,lhtp24,Chemistry,Physical Sciences,1,PhD Student,PhD student,Yes,Data Science Residency
+Lina,Walker,,liaw24@cam.ac.uk,Chemical Engineering and Biotechnology,Technology,1,PhD student,PhD student,Yes,Python and Pandas course
+Leo,Peterson,,liep25@cam.ac.uk,Psychiatry,Clinical Medicine,1,PhD student,PhD student,Yes,Data Science Residency
+Leo,Peterson,,liep25@cam.ac.uk,Psychiatry,Clinical Medicine,1,PhD student,PhD student,Yes,Hands On LLMs workshop (04/02/25)
+Liam,Williams,,liw113,Music,Arts and Humanities,,Visiting Researcher,Other,No,AI café - CDH
+Luna,Jackson,,lj1376,Medicine,Clinical Medicine,1,Masters Student,Masters student,Yes,Python and Pandas course
+Leila,James,,ljhj23@cam.ac.uk,Research Office,Non-school,1,Professional Services,Professional Services,No,AI Clinic September 24
+Leo,Ward,,ljkw24,Public Health and Primary Care,Clinical Medicine,1,PhD student,PhD student,Yes,Data Pipelines School (Dec 22)
+Leo,López,,ljl212,Clinical Neurosciences,Clinical Medicine,1,PhD,PhD student,Yes,Data Science Residency
+Lucía,González,,ljmg22,Medicine,Clinical Medicine,1,,Unknown,No,AI Clinic September 22
+Leila,Allen,,lka157,Clinical Neurosciences,Clinical Medicine,1,PhD student,PhD student,Yes,Data Science Residency
+Lucas,Kelly,,lkrk23,British Antarctic Survey,Physical Sciences,1,Marine Ecologist,Other,No,Network Event (29/03/23)
+Luna,Cooper,,lkzc25@cam.ac.uk,Wellcome-MRC Cambridge Stem Cell Institute,Clinical Medicine,1,Research Associate,Postdoc,Yes,Python and Pandas course
+Liam,Richardson,,llir25,Wellcome-MRC Cambridge Stem Cell Institute,Clinical Medicine,1,PhD student,PhD student,Yes,Python and Pandas course
+Luna,Martin,,llm28,Judge Business School,Technology,1,Masters Student,Masters student,No,MLE Clinic
+Leo,Parker,,llp144,MRC Epidemiology Unit,Clinical Medicine,1,PhD student,PhD student,No,Accelerate-C2D3 funding call applicant (2024)
+Lucía,Phillips,,llp58,Archaeology,Humanities and Social Sciences,1,,Unknown,No,AI Clinic March 23
+Luna,Sánchez,,lls93,Chemical Engineering and Biotechnology,Technology,1,PhD student,PhD student,Yes,AI and LLMs workshop (10/04/25)
+Leila,Martin,,lm1193,Sociology,Humanities and Social Sciences,1,Visiting Scholar,Other,Yes,LLMs workshop (02/10/24)
+Lina,Mitchell,,lm2270,Education,Humanities and Social Sciences,,PhD student,PhD student,No,AI café - CDH
+Łukasz,Richardson,,lmer22,Engineering,Technology,1,PhD,PhD student,Yes,Data Science Residency
+Leo,Young,,lmy171,Clinical Neurosciences,Clinical Medicine,1,PhD student,PhD student,Yes,Data Pipelines School (Mar 23)
+Łukasz,Bennett,,lob54,Haematology,Clinical Medicine,1,Senior Data Scientist,Other,Yes,Python and Pandas course
+Leila,Pérez,,lohp24,Education,Humanities and Social Sciences,,PhD Student,PhD student,No,AI café - CDH
+Leo,Williams,,low120@cam.ac.uk,Computer Science and Technology,Technology,1,Consultant,Other,No,AI for Science Summit 2023
+Lucas,Price,,lp1807,Materials Science and Metallurgy,Physical Sciences,1,PhD student,PhD student,Yes,ML Academy 2025
+Liam,Jones,,lpgj21,Music,Arts and Humanities,1,Second-year PhD Student,PhD student,Yes,Data Science Residency
+Leo,Nelson,,lpn237,Clinical Neurosciences,Clinical Medicine,1,Research Associate,Postdoc,Yes,Python and Pandas course
+Leila,Torres,,lpt156,Wellcome-MRC Cambridge Stem Cell Institute,Clinical Medicine,1,,Unknown,Yes,Python and Pandas course
+Lucas,Williams,,lpw95,Chemistry,Physical Sciences,1,Research Fellow,Postdoc,No,Accelerate-C2D3 funding call applicant (2024)
+Lucía,Adams,,lqa73,English,Arts and Humanities,1,Visitor,other,No,MLE Clinic
+Lucía,Clark,,lqc118,Physics,Physical Sciences,1,Research Associate,Postdoc,Yes,Data Science Residency
+Lucía,Gómez,,lqtg24,Radiology,Clinical Medicine,1,Programme Manager,Professional Services,Yes,Python and Pandas course
+Łukasz,Rivera,,lr1660,Veterinary Medicine,Biological Sciences,1,Postdoc,Postdoc,Yes,Packaging and Publishing Python Code for Research (11/03/25)
+Leila,Brooks,,lrab25,Cancer Research UK Cambridge Institute,Clinical Medicine,1,,Unknown,No,MLE Clinic
+Leo,Gray,,lrg186,Education,Humanities and Social Sciences,1,PhD Student,PhD student,Yes,Python and Pandas course
+Luna,Garcia,,lrg64,Physics,Physical Sciences,1,PhD Student,PhD student,Yes,Data Science Residency
+Leila,Taylor,,lrkt23@cam.ac.uk,Chemical Engineering and Biotechnology,Technology,1,PhD student,PhD student,Yes,Python and Pandas course
+Lucas,Morales,,lrmm21,Politics and International Studies,Humanities and Social Sciences,1,PhD student,PhD student,No,AI Clinic February 26
+Lucas,Morales,,lrmm21,Politics and International Studies,Humanities and Social Sciences,1,PhD student,PhD student,Yes,Data Pipelines School (Sept 23)
+Luna,Rodríguez,,lrr133,Physics,Physical Sciences,1,student,PhD student,Yes,Diffusion Models Workshop (06/11/24)
+Liam,Sánchez,,ls1790@cam.ac.uk,University Library,Non-school,,Senior Library Assistant,Professional Services,No,AI café - CDH
+Lina,Smith,,ls921,Genetics,Biological Sciences,1,PhD student,PhD student,Yes,AI and LLMs workshop (10/04/25)
+Lina,Campbell,,lsc141,Public Health and Primary Care,Clinical Medicine,1,Postdoctoral Fellow,Postdoc,Yes,AI for Science Summit 2023
+Lucía,Kelly,,lsek22,Computer Science and Technology,Technology,1,PhD student,PhD student,No,Hopes and Fears lab
+Łukasz,Gómez,,lsg22,Obstetrics and Gynaecology,Clinical Medicine,1,Research Associate,Postdoc,Yes,AI for Science Summit 2023
+Liam,Thomas,,lsgt22,MRC Cognition and Brain Science Unit,Clinical Medicine,1,PhD student,PhD student,Yes,ML Academy 2025
+Lucas,Pérez,,lsp140,Genetics,Biological Sciences,1,Research Associate,Postdoc,Yes,Accelerate-C2D3 funding call applicant (2022)
+Lucía,Sanders,,lsts24,Education,Humanities and Social Sciences,,PhD student,PhD student,No,AI café - CDH
+Lucía,Taylor,,lt2016,Applied Mathematics and Theoretical Physics,Physical Sciences,1,C2D3 Events and Communication Coordinator,Professional Services,No,AI for Science Summit 2023
+Lucas,Gómez,,ltg212,Institute of Continuing Education,Non-school,1,Masters Student,Masters student,Yes,Python and Pandas course
+Lucas,James,,ltj174,Gurdon Institute,Biological Sciences,1,Head of Bioinformatics,Other,No,AI Clinic October 24
+Lucía,Reed,,ltr149@cam.ac.uk,Astronomy,Physical Sciences,1,staff,Postdoc,Yes,AI and LLMs workshop (20/01/25)
+Luna,Davis,,lttd22,Land Economy,Humanities and Social Sciences,1,PhD student,PhD student,No,Accelerate-C2D3 funding call applicant (2022)
+Lucas,Baker,,lub93,Education,Humanities and Social Sciences,1,,Unknown,No,MLE Clinic
+Lucas,Hill,,luh58@cam.ac.uk,Wellcome-MRC Cambridge Stem Cell Institute,Clinical Medicine,1,PhD Student,PhD student,Yes,Python and Pandas course
+Leo,Rodríguez,,luor24,Cambridge University Press & Assessment,Non-school,,Associate Data Scientist,Other,Yes,AI and LLMs workshop (26/02/24)
+Leo,Kim,,lvk201,Sanger Institute,Non-school,1,PhD student,PhD student,Yes,ML Academy 2025
+Lina,Wilson,,lvsw24@cam.ac.uk,Psychology,Biological Sciences,1,Undergraduate,Other,Yes,Python and Pandas course
+Luna,Alvarez,,lvxa21,Theoretical and Applied Linguistics,Arts and Humanities,1,Senior Research Associate,Postdoc,Yes,AI for Science Summit 2023
+Liam,Anderson,,lwa130,Chemistry,Physical Sciences,1,Postdoc,Postdoc,Yes,AI and LLMs workshop (14/05/24)
+Lina,Cruz,,lwc21,Gurdon Institute,Biological Sciences,1,Research Associate,Postdoc,Yes,Data Science Residency
+Łukasz,Brooks,,lweb21,MRC Cognition and Brain Sciences Unit,Biological Sciences,1,Postdoc,Postdoc,Yes,Packaging and Publishing Python Code for Research (11/03/25)
+Leo,Green,,lwg69,Law,Humanities and Social Sciences,1,Associate Professor,Professor/PI,No,Accelerate-C2D3 funding call awardee (2023)
+Leila,Flores,,lwkf21,Primary Care Unit,Medicine,1,PhD student,PhD student,Yes,Generative AI (07/04/25)
+Łukasz,Ward,,lww139,Chemical Engineering and Biotechnology,Technology,1,PhD student,PhD student,Yes,AI and LLMs workshop (10/04/25)
+Leo,Hernández,,lxdh25,Applied Mathematics and Theoretical Physics,Physical Sciences,1,Programme Manager,Professional Services,No,Network Event (29/03/23)
+Leila,González,,lxg205,Materials Science and Metallurgy,Physical Sciences,1,Research Fellow,Postdoc,Yes,Data Science Residency
+Liam,King,,lxk205@cam.ac.uk,Economics,Humanities and Social Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Łukasz,Harris,,lxkh24,Education,Humanities and Social Sciences,1,,Unknown,Yes,LLMs workshop (19/11/24)
+Luna,Rivera,,lxr214,Engineering,Technology,1,PhD student,PhD student,Yes,Accelerate-C2D3 funding call applicant (2023)
+Lucas,Stewart,,lxs116,Biochemistry,Biological Sciences,1,Postdoctoral Researcher ,Postdoc,No,SBS Workshop May 2023
+Luna,Thomas,,lxt164@cam.ac.uk,Chemistry,Physical Sciences,1,Professor,Professor/PI,No,Accelerate-C2D3 funding call applicant (2024)
+Leo,Brooks,,lyb124,Theoretical and Applied Linguistics,Arts and Humanities,1,Research Associate,Postdoc,No,Accelerate-C2D3 funding call applicant (2024)
+Lucas,Cook,,lydc24,Gurdon Institute,Biological Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Leo,Bennett,,lyeb21,Land Economy,Humanities and Social Sciences,1,Research Associate,Postdoc,No,Accelerate-C2D3 funding call applicant (2023)
+Leo,Watson,,lyw240,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Leila,Carter,,lzc204@cam.ac.uk,University Information Services,Non-school,1,Research Software Engineer,RSE,Yes,Hands On LLMs workshop (14/04/25)
+Liam,Flores,,lzcf25,Gurdon Institute,Biological Sciences,1,Postdoc,Postdoc,Yes,Python and Pandas course
+Leo,Murphy,,lzm196,Psychology,Biological Sciences,1,"staff,student",PhD student,Yes,LLMs workshop (19/11/24)
+Łukasz,Peterson,,lzp186@cam.ac.uk,UIS,Non-school,1,Research Software Engineer,RSE,No,HPC Pioneer Projects Day (27/09/24)
+Maëlle,González,,mbg56,MRC Cognition and Brain Science Unit,Clinical Medicine,1,PhD student,PhD student,Yes,Data Science Residency
+Morgan,Cook,,mbkc23@cam.ac.uk,Gurdon Institute,Biological Sciences,1,Bioinformatician,Other,No,MLE Clinic
+Minho,Morgan,,mbm228@cam.ac.uk,Biochemistry,Biological Sciences,1,,Unknown,Yes,MLE Clinic
+Mia,Morgan,,mbm83,Engineering,Technology,1,Marie Curie Research Fellow,Postdoc,Yes,Data Science Residency
+Mateo,Collins,,mc1363@cam.ac.uk,Judge Business School,Technology,1,Professor,Professor/PI,No,Accelerate-C2D3 funding call awardee (2024)
+Mia,Martínez,,mccm22,Pathology,Biological Sciences,1,Principal Investigator,Professor/PI,No,Accelerate-C2D3 funding call awardee (2022)
+Mei,Hughes,,mch213,Psychiatry,Clinical Medicine,1,Assistant Professor,Professor/PI,No,AI Clinic February 26
+Mei,Hughes,,mch213,Psychiatry,Clinical Medicine,1,PhD student,PhD student,Yes,ML Academy 2025
+Maëlle,Ramírez,,mcor21,Chemical Engineering and Biotechnology,Technology,1,PhD student,PhD student,Yes,Data Science Residency
+Morgan,Mitchell,,mem221,Psychology,Biological Sciences,1,Research Associate,Postdoc,No,AI Clinic January 25
+Morgan,Mitchell,,mem221,Psychology,Biological Sciences,1,Research Associate,Postdoc,Yes,Introduction to Diffusion Models in Generative AI workshop (20/06/24) workshop (20/06/24)
+Morgan,Castillo,,meuc21,Clinical Biochemistry,Clinical Medicine,1,PhD student,PhD student,Yes,Network Event (29/03/23)
+Minho,Torres,,mft78,Gurdon Institute,Biological Sciences,1,Postdoctoral Researcher,Postdoc,Yes,Data Science Residency
+Mei,Gray,,mgg48,Wellcome-MRC Cambridge Stem Cell Institute,Clinical Medicine,1,Masters Student,Masters student,Yes,Data Pipelines School (Dec 22)
+Maëlle,Harris,,mh1430@cam.ac.uk,Engineering,Technology,1,,Unknown,Yes,AI and LLMs workshop (14/05/24)
+Maëlle,Hernández,,mh153@cam.ac.uk,Computer Science and Technology,Technology,1,PhD student,PhD student,Yes,Data Pipelines School (Dec 22)
+Morgan,Hughes,,mh2452,MRC Cognition and Brain Sciences Unit,Clinical Medicine,1,Postdoc,Postdoc,Yes,Packaging and Publishing Python Code for Research (11/03/25)
+María,Hughes,,mh546,Clinical Neurosciences,Clinical Medicine,1,PhD student,PhD student,Yes,Data Science Residency
+Morgan,Foster,,mhf39,Zoology,Biological Sciences,1,,Other,No,AI Clinic February 26
+Morgan,Foster,,mhf39,Zoology,Biological Sciences,1,,Unknown,Yes,Python and Pandas course
+Maëlle,Rogers,,mhgr25,Chemical Engineering and Biotechnology,Technology,1,Programme Director,Professor/PI,Yes,Python and Pandas course
+Morgan,Alvarez,,mia228,Chemical Engineering and Biotechnology,Technology,1,Masters Student,Masters student,Yes,Python and Pandas course
+Maëlle,Peterson,,mip99@cam.ac.uk,MRC Epidemiology Unit,Clinical Medicine,1,PhD student,PhD student,Yes,Data Science Residency
+Mateo,Johnson,,mj1871@cam.ac.uk,Clinical Neuroscience,Clinical Medicine,1,PhD student,PhD student,No,AI Clinic October 22
+María,Patel,,mjdp21,University Library,Non-school,1,Head of Research,Professional Services,No,AI-deas in Education and Cultural Heritage Call awardee (2024)
+Mei,Harris,,mjih24,History and Philosophy of Science,Humanities and Social Sciences,1,PhD student,PhD student,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Morgan,Foster,,mjpf21,Engineering,Technology,1,PhD student,PhD student,Yes,Data Science Residency
+Mei,Lee,,mjtl25,Gurdon Institute,Biological Sciences,1,Research Associate,Postdoc,Yes,Hands On LLMs workshop (04/02/25)
+Mei,Kelly,,mk1597@cam.ac.uk,Astronomy,Physical Sciences,1,Assistant Professor,Professor/PI,No,Network Event (29/03/23)
+Maëlle,Long,,ml1669,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Morgan,Long,,ml2216,MRC Cognition and Brain Science Unit,Clinical Medicine,1,Research Fellow,Postdoc,No,Accelerate-C2D3 funding call awardee (2024)
+María,Gray,,mlg64,Biochemistry,Biological Sciences,1,Postdoctoral Researcher ,Postdoc,No,SBS Workshop May 2023
+Mei,Gutierrez,,mljg22,Engineering,Technology,1,staff,Research Assistant,Yes,LLMs workshop (02/10/24)
+Morgan,Morris,,mlom25,Chemistry,Physical Sciences,1,PhD student,PhD student,No,AI Clinic September 24
+María,Evans,,mlse22@cam.ac.uk,Hughes Hall,Non-school,1,"Managing Director, Camtree, Hughes Hall",Other,No,Accelerate-C2D3 funding call applicant (2023)
+Morgan,Miller,,mm1085,Wellcome Sanger Institute,Non-school,1,Postdoctoral Fellow,Postdoc,Yes,Data Science Residency
+Morgan,Morgan,,mm1184,Clinical Neurosciences,Clinical Medicine,1,Research Fellow,Postdoc,Yes,Data Pipelines School (Dec 22)
+Morgan,Diaz,,mmhd22@cam.ac.uk,CRUK Cambridge Institute,Clinical Medicine,1,Research Associate,Postdoc,No,Accelerate-C2D3 funding call applicant (2024)
+Mia,Myers,,mmm77@cam.ac.uk,MRC Cognition and Brain Science Unit,Clinical Medicine,1,PhD student,PhD student,Yes,Python and Pandas course
+Maëlle,Smith,,mms212,Medicine,Clinical Medicine,1,Research Associate,Postdoc,Yes,AI and LLMs workshop (10/04/25)
+María,Nguyen,,mn565@cam.ac.uk,Cambridge Institute for Medical Research,Clinical Medicine,1,Senior Research Associate,Postdoc,Yes,An Introduction to Diffusion Models (04/03/25)
+Morgan,Lewis,,mnbl25@cam.ac.uk,MRC Biostatistics Unit,Clinical Medicine,1,Senior Investigator Statistician,Other,Yes,Python and Pandas course
+Minho,Miller,,mnm187@cam.ac.uk,Engineering,Technology,1,Senior Research Associate,Postdoc,Yes,Generative AI (07/04/25)
+Morgan,Thompson,,mnt22@cam.ac.uk,Psychology,Biological Sciences,1,Undergraduate,Other,Yes,Python and Pandas course
+Mei,Morales,,mnvm22,Sainsbury Laboratory,Biological Sciences,1,Research Assistant,Research Assistant,Yes,Hands On LLMs workshop (14/04/25)
+Mia,Allen,,moa36,"Physiology, Development and Neuroscience",Biological Sciences,1,Postdoc,Postdoc,Yes,Python and Pandas course
+Maëlle,Murphy,,mom237,Chemical Engineering and Biotechnology,Technology,1,PhD student,PhD student,Yes,Network Event (29/03/23)
+Mei,Hill,,mph39,Chemistry,Physical Sciences,1,Professor,Professor/PI,Yes,Python and Pandas course
+Maëlle,Nguyen,,mpnn25,Computer Science and Technology,Technology,1,Professor,Professor/PI,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Minho,Watson,,mpw45@cam.ac.uk,Clinical Neuroscience,Clinical Medicine,1,PhD student,PhD student,No,AI Clinic November 24
+Mateo,Chavez,,mqc58,Computer Science and Technology,Technology,1,Professor,Professor/PI,No,Accelerate-C2D3 funding call awardee (2024)
+María,Roberts,,mqcr25,Psychology,Biological Sciences,1,Postdoctoral Researcher ,Postdoc,No,SBS Workshop May 2023
+Maëlle,Chavez,,mqkc22,Clinical Neurosciences,Clinical Medicine,1,PhD student,PhD student,Yes,Data Pipelines School (Mar 23)
+Mateo,Phillips,,mqp173,MRC Cognition and Brain Science Unit,Clinical Medicine,1,PhD student,PhD student,Yes,Python and Pandas course
+Maëlle,Rivera,,mqyr22,English,Arts and Humanities,1,Lecturer,Other,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Mia,Rogers,,mr1469,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Mia,Rivera,,mr2298,Biochemistry,Biological Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Mei,Ruiz,,mr992,Engineering,Technology,1,PhD student,PhD student,Yes,An Introduction to Docker (13/03/25)
+Minho,James,,mrj140,"Physiology, Development and Neuroscience",Biological Sciences,1,Postdoctoral research software engineer,Postdoc,No,AI for Science Summit 2023
+Morgan,Lewis,,mrl110,Plant Sciences,Biological Sciences,1,Research Associate,Postdoc,Yes,Python and Pandas course
+Mei,Morgan,,mrxm23,Haematology,Clinical Medicine,1,Bioinformatician,Other,Yes,Python and Pandas course
+Minho,Thomas,,msdt24@cam.ac.uk,Cambridge Enterprise,Non-school,1,Staff,Staff,Yes,Hands On LLMs workshop (04/02/25)
+Maëlle,King,,msk91,Chemical Engineering and Biotechnology,Technology,1,Student,PhD student,Yes,Data Pipelines School (Mar 23)
+María,Morris,,msm172,Oncology,Clinical Medicine,1,Research Physicist,Other,Yes,Data Pipelines School (Dec 22)
+Minho,Taylor,,mt1405,Medicine,Clinical Medicine,1,PhD student,PhD student,Yes,AI for Science Summit 2024
+Mateo,Hill,,mth189,Other,Non-school,1,"staff,student",PhD student,Yes,LLMs workshop (02/10/24)
+Mateo,Morales,,mtm85,Medicine,Clinical Medicine,1,staff,Other,Yes,LLMs workshop (02/10/24)
+María,Turner,,mtt201@cam.ac.uk,Clinical Neurosciences,Clinical Medicine,1,PhD student,PhD student,Yes,An Introduction to Diffusion Models (04/03/25)
+Mateo,Hall,,mtwh23@cam.ac.uk,Archaeology,Humanities and Social Sciences,1,Biomolecular Technician,Other,Yes,Python and Pandas course
+Morgan,Lewis,,mvjl25,Medicine,Clinical Medicine,1,PhD student,PhD student,Yes,Python and Pandas course
+Mia,Reed,,mvr217,English,Arts and Humanities,,,Unknown,Yes,AI and LLMs workshop (26/02/24)
+Mateo,Flores,,mvrf22@cam.ac.uk,Pharmacology,Biological Sciences,1,PhD student,PhD student,Yes,Hands On AI workshop (16/04/25)
+Maëlle,William,Ortiz,mweo23,Psychiatry,Clinical Medicine,,Assistant Professor,Professor/PI,No,AI Clinic
+Maëlle,Ortiz,,mweo23@cam.ac.uk,Psychiatry,Clinical Medicine,1,Assistant Professor,Professor/PI,No,Accelerate-C2D3 funding call applicant (2022)
+Morgan,Gutierrez,,mwg225,Genetics,Biological Sciences,1,"staff,student",PhD student,Yes,LLMs workshop (02/10/24)
+Maëlle,Ward,,mww162@cam.ac.uk,Engineering,Technology,1,PhD student,PhD student,Yes,Data Science Residency
+María,Williams,,mww197,"Centre for Research in Arts, Social Sciences and Humanities",Humanities and Social Sciences,,Professor,Professor/PI,No,AI café - CDH
+Maëlle,Torres,,mxat23,Psychiatry,Clinical Medicine,1,Research Associate,Postdoc,No,AI Clinic February 26
+Maëlle,Torres,,mxat23,Psychiatry,Clinical Medicine,1,Research Associate,Postdoc,Yes,Data Science Residency
+María,Young,,my2069,Veterinary Medicine,Biological Sciences,1,PhD student,PhD student,Yes,An Introduction to Diffusion Models (04/03/25)
+Mei,Cooper,,myac25,Medical Genetics,Clinical Medicine,1,student,PhD student,Yes,AI and LLMs workshop (20/01/25)
+María,Foster,,myf59,Materials Science and Metallurgy,Physical Sciences,1,Postdoc,Postdoc,No,MLE Clinic
+Morgan,Hall,,myih23,Genetics,Biological Sciences,1,Principal Investigator,Professor/PI,No,SBS Workshop May 2023
+Mei,Martin,,mym134,Pharmacology,Biological Sciences,1,Research Associate,Postdoc,No,Accelerate-C2D3 funding call applicant (2023)
+Mateo,Nelson,,mzan24,Radiology,Clinical Medicine,1,Clinical Lecturer,Other,Yes,Python and Pandas course
+Minho,Hill,,mzh123,Genetics,Biological Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Morgan,Johnson,,mzj79,Engineering,Technology,1,Research Associate,Postdoc,Yes,Hands On AI workshop (16/04/25)
+María,Rogers,,mzr155,Psychiatry,Clinical Medicine,,Assistant Professor,Professor/PI,No,AI Clinic
+María,Rogers,,mzr155,Psychiatry,Clinical Medicine,1,Assistant Professor,Professor/PI,Yes,ML Academy 2025
+Mei,Williams,,mzw94,Chemistry,Physical Sciences,1,PhD student,PhD student,No,MLE Clinic
+Noah,Stewart,,nars21,Medicine,Clinical Medicine,1,Visitor,PhD student,Yes,Hands On LLMs workshop (04/02/25)
+Noël,Collins,,nbfc21,Medicine,Clinical Medicine,1,student,PhD student,Yes,LLMs workshop (19/11/24)
+Nadia,Gutierrez,,nbig21@cam.ac.uk,Engineering,Technology,1,,Unknown,Yes,Data Science Residency
+Noémie,Adams,,nbja24@cam.ac.uk,Clinical Neurosciences,Clinical Medicine,1,PhD student,PhD student,Yes,Data Pipelines School (Dec 22)
+Noah,Watson,,nbww25,MRC Cognition and Brain Science Unit,Clinical Medicine,1,PhD student,PhD student,Yes,Python and Pandas course
+Noah,Clark,,nc1384,Land Economy,Humanities and Social Sciences,1,student,PhD student,Yes,LLMs workshop (02/10/24)
+Nadia,Carter,,nc538,Cancer Research UK Cambridge Institute,Clinical Medicine,1,PhD student,PhD student,No,MLE Clinic
+Nikhil,Cooper,,ncac25,Applied Mathematics and Theoretical Physics,Physical Sciences,1,Research Associate,Postdoc,No,AI for Science Summit 2023
+Nikhil,Harris,,nclh23,Psychology,Biological Sciences,1,Research Associate,Postdoc,Yes,Lunchtime Seminar
+Nikhil,Davis,,ndd92,Engineering,Technology,1,Senior Research Associate,Postdoc,No,Accelerate-C2D3 funding call applicant (2024)
+Noémie,Bailey,,ndrb23,Materials Science and Metallurgy,Physical Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Nikhil,Edwards,,ne1267,University Information Services,Other,1,RSE,RSE,Yes,An Introduction to Docker (13/03/25)
+Noémie,Evans,,ne291,Engineering,Technology,1,,Unknown,No,MLE Clinic
+Noël,Evans,,ne755@cam.ac.uk,Computer Science and Technology,Technology,1,PhD student,PhD student,Yes,AI for Science Summit 2023
+Noël,Lewis,,nel198,Pharmacology,Biological Sciences,1,Associate Professor,Professor/PI,No,Accelerate-C2D3 funding call applicant (2023)
+Noah,Kim,,nelk23,MRC Toxicology Unit,Biological Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Noémie,Gray,,ng1092@cam.ac.uk,Engineering,Technology,1,,Unknown,No,AI Clinic October 22
+Noémie,Harris,,nh1931,UIS,Non-school,1,,Other,Yes,Python and Pandas course
+Noah,Brown,,nhb163,MRC LMB,Non-school,1,Other,Other,Yes,Python and Pandas course
+Nadia,Hall,,nhuh21@cam.ac.uk,Applied Mathematics and Theoretical Physics,Physical Sciences,1,Machine Learning Engineer,RSE,No,Hopes and Fears lab
+Noémie,Harris,,nih246,Chemistry,Physical Sciences,1,PhD student,PhD student,No,MLE Clinic
+Nikhil,Smith,,nis95,Chemical Engineering and Biotechnology,Technology,1,PhD student,PhD student,Yes,Packaging and Publishing Python Code for Research (11/03/25)
+Noah,Diaz,,njd46,Genetics,Biological Sciences,1,Research Fellow,Postdoc,No,Accelerate-C2D3 funding call applicant (2024)
+Nikhil,King,,nk989,"Physiology, Development and Neuroscience",Biological Sciences,1,Tutor,PhD student,Yes,Data Science Residency
+Nadia,Alvarez,,nka48,Oncology,Clinical Medicine,1,PhD student,PhD student,Yes,Python and Pandas course
+Noémie,Gómez,,nkg90@cam.ac.uk,Engineering,Technology,1,student,PhD student,Yes,Diffusion Models Workshop (06/11/24)
+Nadia,Stewart,,nls43,Education,Humanities and Social Sciences,,Student,PhD student,Yes,AI and LLMs workshop (26/02/24)
+Noël,Miller,,nm135,Modern and Medieval Languages,Arts and Humanities,,PhD student,PhD student,No,AI café - CDH
+Nadia,Mitchell,,nm136,Psychology,Biological Sciences,1,Undergraduate,Other,Yes,Python and Pandas course
+Noémie,Miller,,nm298,Theoretical and Applied Linguistics,Arts and Humanities,1,PhD student,PhD student,Yes,Python and Pandas course
+Noah,Foster,,nmaf22,Psychology,Biological Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Noah,Chavez,,nmc140,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Hands On AI workshop (18/03/25)
+Noah,Phillips,,nmp129,Pure Mathematics and Mathematical Statistics,Physical Sciences,1,Professor,Professor/PI,Yes,Hands On AI workshop (16/04/25)
+Noël,Roberts,,nmr24,Computer Science and Technology,Technology,1,Research Associate,Postdoc,Yes,Data Science Residency
+Noah,White,,nmw223,ICCS,Technology,1,Research Software Engineer,RSE,No,AI for Science Summit 2023
+Nadia,Price,,nofp22,Astronomy,Physical Sciences,1,student,PhD student,Yes,LLMs workshop (02/10/24)
+Nadia,Price,,np2051@cam.ac.uk,Philosophy,Arts and Humanities,,Masters Student,Masters student,No,AI café - CDH
+Nadia,Parker,,np2365,Chemical Engineering and Biotechnology,Technology,1,Senior Research Associate,Postdoc,No,Accelerate-C2D3 funding call applicant (2022)
+Noémie,Alvarez,,npa215@cam.ac.uk,Physics,Physical Sciences,1,PhD student,PhD student,No,AI for Science Summit 2024
+Nikhil,Morales,,npbm25,Astronomy,Physical Sciences,1,PhD student,PhD student,Yes,Hands On AI workshop (18/03/25)
+Noémie,Gray,,npfg21,UIS,Non-school,,,RSE,No,AI Café - LLMs
+Noémie,Gray,,npfg21,UIS,Non-school,1,,RSE,No,AI Clinic February 26
+Nadia,González,,npqg25,Wellcome-MRC Cambridge Stem Cell Institute,Clinical Medicine,1,Senior Research Associate,Postdoc,Yes,Data Pipelines School (Dec 22)
+Noël,Howard,,npxh25,Chemistry,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Noah,González,,nqg91@cam.ac.uk,Chemistry,Physical Sciences,1,PhD student,PhD student,Yes,AI for Science Summit 2023
+Noah,Miller,,nqgm25,History,Arts and Humanities,1,PhD student,PhD student,No,
+Noël,James,,nqj214,Chemistry,Physical Sciences,1,,Postdoc,Yes,Data Science Residency
+Noël,Gutierrez,,nrg64,Computer Science and Technology,Technology,1,PhD student,PhD student,Yes,Data Pipelines School (Sept 23)
+Noémie,Nguyen,,nrln23@cam.ac.uk,Gurdon Institute,Biological Sciences,1,Head of Sequencing & Scientific Computing,RSE,No,MLE Clinic
+Noël,Diaz,,nrod21@cam.ac.uk,Applied Mathematics and Theoretical Physics,Physical Sciences,1,Postdoc,Postdoc,Yes,Python and Pandas course
+Nikhil,Scott,,ns1836,Wellcome Sanger Institute,Non-school,1,Postdoc,Postdoc,Yes,Data Pipelines School (Sept 23)
+,Foster,Nikhil,nsf66,Psychiatry,Clinical Medicine,1,Principal Research Associate,Postdoc,No,Accelerate-C2D3 funding call applicant (2023)
+Nikhil,Samir,Foster,nsf66,Psychiatry,Clinical Medicine,,Principal Research Associate,Postdoc,No,AI Clinic
+Nadia,Hernández,,nsfh23,Institute of Metabolic Science,Clinical Medicine,1,Clinician PhD,PhD student,Yes,Data Science Residency
+Nikhil,Gray,,nsg169@cam.ac.uk,Land Economy,Humanities and Social Sciences,1,PhD student,PhD student,No,AI for Science Summit 2023
+Nikhil,Thomas,,nt408,MRC Biostatistics Unit,Clinical Medicine,1,PhD student,PhD student,Yes,Python and Pandas course
+Nadia,Collins,,nvc150@cam.ac.uk,Theoretical and Applied Linguistics,Arts and Humanities,1,,Unknown,Yes,LLM study group
+Noël,Scott,,nvs107,Computer Science and Technology,Technology,1,Research Assistant,Research Assistant,Yes,Accelerate-C2D3 funding call applicant (2024)
+Noah,Wilson,,nw1891,Physics,Physical Sciences,1,Senior Research Associate,Postdoc,Yes,Python and Pandas course
+Nikhil,White,,nw741@cam.ac.uk,Engineering,Technology,1,Precision Health Strategic Research Initiative Coordinator,Other,Yes,AI and LLMs workshop (10/04/25)
+Noël,Gutierrez,,nwg231,Engineering,Technology,1,UCI Policy and AI Research Lead,Other,Yes,Python and Pandas course
+Noël,Rivera,,nwqr25,Gurdon Institute,Biological Sciences,1,staff,Research Assistant,Yes,LLMs workshop (19/11/24)
+Nikhil,Clark,,nxc147,Psychology,Biological Sciences,1,Research Assistant,Research Assistant,Yes,ML Academy 2025
+Noël,Mitchell,,nxim25@cam.ac.uk,Sanger Institute,Non-school,1,student,PhD student,Yes,Diffusion Models Workshop (06/11/24)
+Noël,González,,nyg78@cam.ac.uk,Physics,Physical Sciences,1,Administrator,Other,Yes,Python and Pandas course
+Noémie,Chavez,,nygc22,Pure Mathematics and Mathematical Statistics,Physical Sciences,1,,Professor/PI,No,AI for Science Summit 2023
+Noah,Johnson,,nyj202,MRC-LMB,Non-school,1,PhD Student,PhD student,Yes,Python and Pandas course
+Noémie,Kim,,nyk129,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Nadia,Kelly,,nyk59,Chemical Engineering and Biotechnology,Technology,1,Masters Student,Masters student,Yes,Python and Pandas course
+Nadia,Patel,,nyp45,Physics,Physical Sciences,1,Senior Research Associate,Postdoc,Yes,Python and Pandas course
+Nikhil,Miller,,nypm23,Department of Public Health and Primary Care,Clinical Medicine,1,PhD student,PhD student,Yes,Hands On LLMs workshop (04/02/25)
+Nadia,Allen,,nza191,Earth Sciences,Physical Sciences,1,PhD student,PhD student,No,AI Clinic September 24
+Noah,Long,,nzal24,Theoretical and Applied Linguistics,Arts and Humanities,1,PhD student,PhD student,Yes,Python and Pandas course
+Noémie,Parker,,nzlp25,Computer Science and Technology,Technology,1,PhD student,PhD student,No,AI for Science Summit 2023
+Noah,Morgan,,nzm214,Chemistry,Physical Sciences,1,,Unknown,Yes,Introduction to Diffusion Models in Generative AI workshop (20/06/24) workshop (20/06/24)
+Olivia,Adams,,oa1085,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Data Pipelines School (Mar 23)
+Oliver,Brooks,,obb219@cam.ac.uk,Theoretical and Applied Linguistics,Arts and Humanities,1,Visiting PhD student,PhD student,Yes,Data Pipelines School (Mar 23)
+Omar,Chavez,,obc98,Biology,Biological Sciences,1,Undergraduate,Other,Yes,Python and Pandas course
+Omar,López,,obl21,Psychiatry,Clinical Medicine,1,PhD student,PhD student,Yes,Python and Pandas course
+Omar,Clark,,oc2401,Medicine,Clinical Medicine,1,PhD student,PhD student,Yes,An Introduction to Diffusion Models (04/03/25)
+Oliver,Smith,,ocs230,Chemistry,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Olivia,Kim,,odk62,Engineering,Technology,1,PhD student,PhD student,Yes,Packaging and Publishing Python Code for Research (11/03/25)
+Olivia,Smith,,oets22@cam.ac.uk,Zoology,Biological Sciences,1,Research Associate,Postdoc,Yes,Data Pipelines School (Mar 23)
+Olivia,Gómez,,og770,Judge Business School,Technology,1,MBA student,Masters student,No,AI for Science Summit 2023
+Omar,Long,,ohgl24,Physics,Physical Sciences,,PhD student,PhD student,No,AI Café West Hub
+Omar,Scott,,ohs160,MRC Toxicology Unit,Biological Sciences,1,Postdoctoral Researcher ,Postdoc,Yes,SBS Workshop May 2023
+Omar,Sánchez,,ohs98@cam.ac.uk,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Accelerate-C2D3 funding call applicant (2024)
+Olivia,Chavez,,oic130,Chemical Engineering and Biotechnology,Technology,1,,Unknown,No,AI Clinic September 22
+Oliver,Patel,,oivp23,MRC Cognition and Brain Science Unit,Clinical Medicine,1,Lead Radiographer,Other,Yes,Data Science Residency
+Omar,Ward,,oiw154,Pharmacology,Biological Sciences,1,student,PhD student,Yes,AI and LLMs workshop (20/01/25)
+Omar,Kelly,,ojjk21@cam.ac.uk,Cancer Research UK Cambridge Institute,Clinical Medicine,1,PhD student,PhD student,Yes,Python and Pandas course
+Oliver,Morgan,,okm206,Chemical Engineering and Biotechnology,Technology,1,PhD student,PhD student,Yes,Data Science Residency
+Omar,Mendoza,,okym23,Theoretical and Applied Linguistics,Arts and Humanities,1,PhD student,PhD student,No,AI Clinic October 24
+Omar,Ortiz,,olo34@cam.ac.uk,"Physiology, Development and Neuroscience",Biological Sciences,1,PhD student,PhD student,No,AI Clinic January 25
+Omar,Ortiz,,olo34@cam.ac.uk,"Physiology, Development and Neuroscience",Biological Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Oliver,Mendoza,,om1702,Computer Science and Technology,Technology,1,"Clinical psychologist, research fellow",Other,No,AI for Science Summit 2023
+Oliver,Morales,,om2423,Plant Sciences,Biological Sciences,1,Research Associate,Postdoc,Yes,Python and Pandas course
+Omar,Morris,,om849,Public Health and Primary Care,Clinical Medicine,1,Schmidt Science Fellow,Postdoc,Yes,Python and Pandas course
+Olivia,Miller,,omqm21,Psychology,Biological Sciences,1,Research Assistant,Research Assistant,Yes,Python and Pandas course
+Olivia,Long,,omrl25,Computer Science and Technology,Technology,1,,Professor/PI,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Omar,Green,,omvg24,Radiology,Clinical Medicine,1,PhD student,PhD student,Yes,Python and Pandas course
+Olivia,Nelson,,onun21,Psychiatry,Clinical Medicine,1,Masters Student,Masters student,No,Network Event (29/03/23)
+Olivia,Nelson,,onun21@cam.ac.uk,Psychiatry,Clinical Medicine,,Masters Student,Masters student,No,AI Clinic
+Omar,Johnson,,ooj109,Chemistry,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Omar,Wright,,oojw23,MRC Cognition and Brain Science Unit,Clinical Medicine,1,PhD student,PhD student,No,AI for Science Summit 2023
+Oliver,Reyes,,oor235,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Oliver,Roberts,,opr168,Materials Science and Metallurgy,Physical Sciences,1,MPhil by Thesis Student,Masters student,Yes,Data Science Residency
+Oliver,Long,,oql241,History,Humanities and Social Sciences,,PhD student,PhD student,No,AI café - CDH
+Oliver,Myers,,oqm24,"Physiology, Development and Neuroscience",Biological Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Oliver,White,,oqw54@cam.ac.uk,,,,Undergraduate,Other,No,AI café - CDH
+Oliver,White,,oqw54@cam.ac.uk,,,1,Undergraduate,Other,No,AI Clinic January 25
+Oliver,Brown,,osb43,Medicine,Clinical Medicine,1,Professor of Cardiovascular Medicine,Professor/PI,No,Accelerate-C2D3 funding call awardee (2023)
+Olivia,Miller,,osm250,Centre for Family Research,Biological Sciences,1,Research Fellow,Postdoc,No,Accelerate-C2D3 funding call applicant (2024)
+Olivia,González,,otg48,MRC Cognition and Brain Science Unit,Clinical Medicine,1,PhD Student,PhD student,Yes,Python and Pandas course
+Oliver,Young,,ouny23,Cancer Research UK Cambridge Institute,Clinical Medicine,1,PhD student,PhD student,Yes,Accelerate-C2D3 funding call applicant (2023)
+Omar,Cooper,,owc72@cam.ac.uk,MRC Cognition and Brain Science Unit,Clinical Medicine,1,student,PhD student,Yes,LLMs workshop (19/11/24)
+Olivia,Ramos,,owr228,Biochemistry,Biological Sciences,1,Postdoc,Postdoc,Yes,Data Science Residency
+Olivia,Turner,,owt153@cam.ac.uk,School of Biological Sciences,Biological Sciences,1,Research Group Leader,Professor/PI,No,AI for Science Summit 2023
+Olivia,Pérez,,oxdp25,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Oliver,Cooper,,oyc226,Development and Alumni Relations,Non-school,1,"Associate Director, Trusts and Foundations",Professional Services,No,Network Event (29/03/23)
+Olivia,Robinson,,oywr21,Theoretical and Applied Linguistics,Arts and Humanities,1,PhD student,PhD student,Yes,Data Pipelines School (Dec 22)
+Olivia,Carter,,oyzc23@cam.ac.uk,Chemical Engineering and Biotechnology,Technology,1,,Unknown,Yes,Python and Pandas course
+Parker,Allen,,pa132@cam.ac.uk,Public Health and Primary Care,Clinical Medicine,1,student,PhD student,Yes,AI Clinic September 24
+Parker,Clark,,pbcc25,Wellcome Sanger Institute,Non-school,1,PhD student,PhD student,Yes,Data Science Residency
+Phoenix,King,,pbek23,Engineering,Technology,1,PhD student,PhD student,Yes,Data Science Residency
+Phoenix,Carter,,pc528,Engineering,Technology,1,PhD student,PhD student,No,Network Event (29/03/23)
+Parker,Rogers,,pdr63,Plant Sciences,Biological Sciences,1,Research Associate,Postdoc,No,Accelerate-C2D3 funding call applicant (2024)
+Parker,Johnson,,pdtj22@cam.ac.uk,Psychology,Biological Sciences,1,staff,Postdoc,No,AI Clinic February 26
+Parker,Johnson,,pdtj22@cam.ac.uk,Psychology,Biological Sciences,1,staff,Postdoc,Yes,AI Clinic September 24
+Phoenix,Thomas,,pept22,MRC Cognition and Brain Science Unit,Clinical Medicine,1,PhD student,PhD student,Yes,Python and Pandas course
+Parker,Foster,,pf1320,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Phoenix,Thompson,,pgt218,Public Health and Primary Care,Clinical Medicine,1,Research Associate,Postdoc,No,AI for Science Summit 2023
+Phoenix,King,,pik240,Chemical Engineering and Biotechnology,Technology,1,,Unknown,Yes,Python and Pandas course
+Phoenix,Johnson,,pj165@cam.ac.uk,Psychology,Biological Sciences,1,Associate Professor,Professor/PI,No,MLE Clinic
+Phoenix,Evans,,pje86,UIS,Non-school,1,Head of Infrastructure & Platforms ,RSE,No,HPC Pioneer Projects Day (27/09/24)
+Phoenix,Lewis,,pl629,Clinical Neurosciences,Clinical Medicine,1,Research Associate,Postdoc,No,AI Clinic February 26
+Phoenix,Lewis,,pl629,Clinical Neurosciences,Clinical Medicine,1,Research Associate,Postdoc,Yes,Python and Pandas course
+Phoenix,Nelson,,pn155,Psychiatry,Clinical Medicine,1,PhD student,PhD student,Yes,Data Science Residency
+Phoenix,Nelson,,pn155@cam.ac.uk,Psychiatry,Clinical Medicine,1,PhD student,PhD student,No,AI Clinic February 26
+Phoenix,Rogers,,pnzr23,Engineering,Technology,1,PhD student,PhD student,Yes,Generative AI (07/04/25)
+Phoenix,Pérez,,pp1917,Theoretical and Applied Linguistics,Arts and Humanities,,PhD student,PhD student,No,AI café - CDH
+Phoenix,Pérez,,pp1917,Theoretical and Applied Linguistics,Arts and Humanities,1,PhD student,PhD student,No,AI Clinic January 25
+Parker,Gray,,ppdg24,Pharmacology,Biological Sciences,1,PhD student,PhD student,Yes,Hands On LLMs workshop (14/04/25)
+Phoenix,Johnson,,ppnj21,Plant Sciences,Biological Sciences,1,Research Associate,Postdoc,Yes,Python and Pandas course
+Parker,Sanders,,pqqs23@cam.ac.uk,Applied Mathematics and Theoretical Physics,Physical Sciences,1,Postdoc,Postdoc,No,AI for Science Summit 2023
+Phoenix,Rogers,,pr1739@cam.ac.uk,Engineering,Technology,1,PhD student,PhD student,No,Lunchtime Seminar
+Parker,Long,,prel23,Land Economy,Humanities and Social Sciences,1,staff,Postdoc,Yes,LLMs workshop (02/10/24)
+Phoenix,Hernández,,prih22,Haematology,Clinical Medicine,1,Research Associate,Postdoc,Yes,Generative AI (07/04/25)
+Phoenix,Stewart,,ps1435,Oncology,Clinical Medicine,1,PhD student,PhD student,No,Accelerate-C2D3 funding call applicant (2024)
+Phoenix,Kim,,psk138,Zoology,Biological Sciences,1,Assistant Professor,Professor/PI,No,Accelerate-C2D3 funding call applicant (2022)
+Phoenix,Moore,,psm221,Astronomy,Physical Sciences,,Data Validation Scientist,Other,No,AI Café - LLMs
+Phoenix,Turner,,pt1479,Applied Mathematics and Theoretical Physics,Physical Sciences,1,PhD Student in Theoretical Physics and Applied Mathematics,PhD student,Yes,Data Science Residency
+Parker,Baker,,pxlb22,Education,Humanities and Social Sciences,1,PhD student,PhD student,No,Accelerate-C2D3 funding call awardee (2024)
+Parker,Rodríguez,,pxor23,Medicine,Clinical Medicine,1,,Unknown,Yes,Python and Pandas course
+Quinn,Hughes,,qch133,Materials Science and Metallurgy,Physical Sciences,1,PhD student,PhD student,Yes,Data Pipelines School (Dec 22)
+Quinn,Phillips,,qdp245@cam.ac.uk,MRC Cognition and Brain Sciences Unit,Clinical Medicine,1,staff,Research Assistant,Yes,AI and LLMs workshop (20/01/25)
+Quinn,Lee,,qjl86,Chemistry,Physical Sciences,1,Postdoctoral Researcher,Postdoc,Yes,Data Science Residency
+Quinn,Brooks,,qmb24,Computer Science and Technology,Technology,1,Staff,Postdoc,No,Lunchtime Seminar
+Quinn,Parker,,qop47,UIS,Non-school,1,Senior Zettascale Systems Engineer,RSE,No,HPC Pioneer Projects Day (27/09/24)
+Quinn,López,,qoul24,Clinical Neurosciences,Clinical Medicine,,PI,Professor/PI,No,Accelerate-C2D3 funding call applicant (2024)
+Quinn,Foster,,qutf22,Engineering,Technology,1,PhD student,PhD student,No,Accelerate-C2D3 funding call applicant (2023)
+Quinn,Wright,,quw84,Land Economy,Humanities and Social Sciences,1,Associate Professor,Professor/PI,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Quinn,Watson,,qwmw24,Wellcome-MRC Cambridge Stem Cell Institute,Clinical Medicine,1,Sir Henry Wellcome Postdoctoral Fellow,Postdoc,Yes,Network Event (29/03/23)
+Quinn,Diaz,,qyd55,Biochemistry,Biological Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Rohan,Cooper,,rac113,MRC Cognition and Brain Science Unit,Clinical Medicine,1,staff,Research Assistant,Yes,LLMs workshop (02/10/24)
+Rohan,Chavez,,rac160@cam.ac.uk,Criminology,Humanities and Social Sciences,1,,Unknown,Yes,Python and Pandas course
+River,Moore,,rafm25@cam.ac.uk,CIMR,Clinical Medicine,1,Postdoc,Postdoc,Yes,Data Pipelines School (Sept 23)
+Ryan,Martínez,,ram232@cam.ac.uk,Cambridge Stem Cell Institute,Clinical Medicine,1,Research Associate,Postdoc,Yes,Generative AI (07/04/25)
+Rowan,Peterson,,rap152,Pathology,Biological Sciences,1,Lead Teacher Clinical Pathology,Other,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Remy,Bailey,,rb303,Stem Cell Institute,Biological Sciences,1,PhD student,PhD student,Yes,An Introduction to Docker (13/03/25)
+Remy,Baker,,rb790,ICCS,Technology,1,Research Software Engineer,RSE,Yes,AI for Science Summit 2023
+River,Campbell,,rbc24,Clinical Neuroscience,Clinical Medicine,1,Research Associate,Postdoc,No,AI Clinic October 22
+Ryan,Ruiz,,rbr60,Judge Business School,Technology,1,PhD student,PhD student,Yes,Accelerate-C2D3 funding call applicant (2024)
+Rohan,Wilson,,rbrw22@cam.ac.uk,Haematology,Clinical Medicine,1,Postdoc,Postdoc,No,AI Clinic September 24
+Rowan,Watson,,rbw57,Plant Sciences,Biological Sciences,1,Postdoc,Postdoc,No,Accelerate-C2D3 funding call awardee (2022)
+Rowan,Watson,,rbw57,Plant Sciences,Biological Sciences,1,Postdoc,Postdoc,No,AI Clinic February 26
+Ryan,Ortiz,,rbwo24,Zoology,Biological Sciences,1,Research Associate,Postdoc,Yes,Python and Pandas course
+River,Mitchell,,rcm243,Computer Science and Technology,Technology,1,Programme Coordinator,Professional Services,No,HPC Pioneer Projects Day (27/09/24)
+Ren,Morgan,,rcmm22,Medicine,Clinical Medicine,1,PhD student,PhD student,Yes,Python and Pandas course
+Ren,Reyes,,rcr106,Oncology,Clinical Medicine,1,"staff,student",PhD student,Yes,Diffusion Models Workshop (06/11/24)
+Rowan,Flores,,rcsf21,Applied Mathematics and Theoretical Physics,Physical Sciences,1,Professor,Professor/PI,No,Steering Committee member
+River,Castillo,,rctc24,Chemical Engineering and Biotechnology,Technology,1,Research Fellow,Postdoc,No,Accelerate-C2D3 funding call applicant (2024)
+Rowan,Carter,,rcxc23,Theoretical and Applied Linguistics,Arts and Humanities,1,PhD student,PhD student,No,Accelerate-C2D3 funding call applicant (2023)
+Rohan,Scott,,rdrs25@cam.ac.uk,Plant Sciences,Biological Sciences,1,Research Associate,Postdoc,Yes,AI and LLMs workshop (10/04/25)
+River,Alvarez,,rea129,Physics,Physical Sciences,1,PhD student,PhD student,No,Accelerate-C2D3 funding call applicant (2024)
+Riley,Alvarez,,rea135,Cancer Research UK Cambridge Institute,Clinical Medicine,1,staff,Postdoc,Yes,AI and LLMs workshop (20/01/25)
+Rowan,Chavez,,rec128,Astronomy,Physical Sciences,1,Professor,Professor/PI,No,HPC Pioneer Projects Day (27/09/24)
+Ren,Martínez,,rem214@cam.ac.uk,ThinkLab,Non-school,1,PhD student,PhD student,No,Accelerate-C2D3 funding call applicant (2024)
+Remy,Ortiz,,reo101,Chemical Engineering and Biotechnology,Technology,1,PhD student,PhD student,Yes,Python and Pandas course
+Remy,Ortiz,,reo193,Pharmacology,Biological Sciences,1,PhD student,PhD student,No,Network Event (29/03/23)
+Riley,Patel,,rep197,Computer Science and Technology,Technology,1,Prof. Networked Systems,Professor/PI,Yes,Data Science Residency
+Remy,,Foster,rf1681@cam.ac.uk,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Data Pipelines School (Mar 23)
+River,Flores,,rf293,Physics,Physical Sciences,1,Research Associate,Postdoc,Yes,Data Pipelines School (Mar 23)
+René,Gutierrez,,rg1185,Astronomy,Physical Sciences,1,PhD Student,PhD student,No,AI for Science Summit 2024
+Ryan,Gutierrez,,rg623@cam.ac.uk,Physics,Physical Sciences,1,PhD student,PhD student,No,Network Event (29/03/23)
+Remy,Ramos,,rgar25@cam.ac.uk,UIS,Non-school,1,Head of Research Software Engineering,RSE,No,HPC Pioneer Projects Day (27/09/24)
+River,Allen,,rgra24,Engineering,Technology,1,PhD student,PhD student,Yes,Data Pipelines School (Dec 22)
+Ryan,Scott,,rgs199,Fitzwilliam Museum,Non-school,1,Senior Research Associate,Postdoc,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Ryan,Hall,,rh1378@cam.ac.uk,Chemical Engineering and Biotechnology,Technology,1,Postdoc,Postdoc,Yes,Python and Pandas course
+Remy,Moore,,rhhm24,Engineering,Technology,,Anaesthetist and Academic Visitor,Other,No,AI Clinic August 24
+Ren,López,,rhpl23@cam.ac.uk,Oncology,Clinical Medicine,1,PhD student,PhD student,Yes,Hands On AI workshop (16/04/25)
+Rohan,James,,rj1888@cam.ac.uk,Cambridge CARES,Non-school,1,Research Fellow,Postdoc,No,AI Clinic January 25
+Rohan,James,,rj1888@cam.ac.uk,Cambridge CARES,Non-school,1,Research Fellow,Postdoc,Yes,Python and Pandas course
+Remy,Reed,,rjer24,Medicine,Clinical Medicine,1,Research Associate,Postdoc,Yes,Python and Pandas course
+Rohan,Flores,,rkf71,UIS,Non-school,1,"Associate Director, Research Computing Services",Other,No,HPC Pioneer Projects Day (27/09/24)
+River,Kim,,rkk96@cam.ac.uk,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Hands On AI workshop (18/03/25)
+Rowan,Smith,,rks170,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Data Pipelines School (Dec 22)
+River,Wood,,rkw102@cam.ac.uk,Materials Science and Metallurgy,Physical Sciences,1,,Postdoc,Yes,Data Pipelines School (Dec 22)
+René,Carter,,rkyc25@cam.ac.uk,Applied Mathematics and Theoretical Physics,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Remy,Patel,,rlp214,Wellcome-MRC Cambridge Stem Cell Institute,Clinical Medicine,1,Postdoc,Postdoc,No,Accelerate-C2D3 funding call applicant (2023)
+River,Kelly,,rlxk21,Medicine,Clinical Medicine,1,Physician-Scientist,Other,Yes,Network Event (29/03/23)
+Remy,Murphy,,rm642,Milner Institute,Biological Sciences,1,PhD student,PhD student,Yes,Data Pipelines School (Sept 23)
+Remy,Nelson,,rn1229,MRC Biostatistics,Clinical Medicine,,Research Associate,Postdoc,Yes,AI and LLMs workshop (26/02/24)
+Rohan,Collins,,rnkc22@cam.ac.uk,Law,Humanities and Social Sciences,,Research Associate,Postdoc,No,AI Café - LLMs
+Ryan,Young,,rnny21,Applied Mathematics and Theoretical Physics,Physical Sciences,1,Research & Engagement Coordinator,Professional Services,Yes,AI Clinic October 24
+Ren,Rodríguez,,rnr204,Computer Science and Technology,Technology,1,,Professor/PI,No,AI Clinic January 25
+Ren,Rodríguez,,rnr204,Computer Science and Technology,Technology,1,,Professor/PI,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Rohan,White,,rnw85,Archaeology,Humanities and Social Sciences,1,University Reader,Professor/PI,No,Accelerate-C2D3 funding call applicant (2024)
+Ren,Ortiz,,ro1336@cam.ac.uk,Geography,Physical Sciences,1,Research Associate,Postdoc,Yes,LLM Workshop 2
+Remy,Martínez,,rohm22,Education,Humanities and Social Sciences,1,PhD Student,PhD student,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Ryan,López,,rol156@cam.ac.uk,Genetics,Biological Sciences,,Wellcome Trust Career Development Fellow,Postdoc,Yes,AI and LLMs workshop (10/04/25)
+Rohan,Price,,rp751,Computer Science and Technology,Technology,1,PhD student,PhD student,Yes,An Introduction to Docker (13/03/25)
+River,Anderson,,rpaa22,Medicine,Clinical Medicine,1,Specialist Registrar,Other,No,Accelerate-C2D3 funding call applicant (2023)
+Rohan,Cook,,rqmc25,Engineering,Technology,1,Research Fellow,Postdoc,No,Accelerate-C2D3 funding call applicant (2024)
+René,Jackson,,rqsj23,Engineering,Technology,1,PhD student,PhD student,No,Accelerate-C2D3 funding call applicant (2024)
+Riley,Evans,,rqve21,Paediatrics,Clinical Medicine,1,Senior Imaging Technical Officier,Other,No,Accelerate-C2D3 funding call applicant (2023)
+River,Reed,,rr1018,Clinical Neurosciences,Clinical Medicine,1,PhD student,PhD student,Yes,AI for Science Summit 2023
+Rohan,Rogers,,rr1497,Haematology,Clinical Medicine,1,,Unknown,Yes,Python and Pandas course
+René,Roberts,,rr1736,Chemistry,Physical Sciences,1,Professor,Professor/PI,No,Accelerate-C2D3 funding call applicant (2024)
+Ryan,Chavez,,rric21@cam.ac.uk,Medicine,Clinical Medicine,1,PhD student,PhD student,Yes,Data Pipelines School (Mar 23)
+Ren,Morgan,,rrm85,Oncology,Clinical Medicine,1,PhD student,PhD student,Yes,Data Science Residency
+Riley,Young,,rry177,Cancer Research UK Cambridge Institute,Clinical Medicine,1,student,PhD student,Yes,Packaging and Publishing Python Code for Research Workshop (18/11/24)
+Rowan,Castillo,,rsc250@cam.ac.uk,Judge Business School,Technology,1,MBA student,Masters student,No,MLE Clinic
+Remy,Sofía,Johnson,rslj25,Computer Science and Technology,Technology,1,DECAF,Postdoc,No,Accelerate-C2D3 funding call awardee (2022)
+René,Sanders,,rss59,Clinical Neuroscience,Clinical Medicine,,,Unknown,No,AI Clinic August 22
+Remy,Adams,,rtia25,Cancer Research UK Cambridge Institute,Clinical Medicine,1,Bioinformatician,Other,Yes,LLMs workshop (02/10/24)
+Rowan,Anderson,,rtja23,Engineering,Technology,1,"RA, incoming MRC DTP PhD student",PhD student,Yes,Data Science Residency
+Ryan,Wood,,rtw39,Engineering,Technology,1,PhD student,PhD student,Yes,Data Science Residency
+René,López,,rul22@cam.ac.uk,Institute of Metabolic Science,Clinical Medicine,1,Professor,Professor/PI,Yes,Python and Pandas course
+Ryan,Ramos,,rur50,Wellcome-MRC Cambridge Stem Cell Institute,Clinical Medicine,1,PhD student,PhD student,Yes,Python and Pandas course
+River,Smith,,rus56,Applied Mathematics and Theoretical Physics,Physical Sciences,1,Student,PhD student,No,AI for Science Summit 2023
+Ren,Cooper,,ruvc21@cam.ac.uk,Clinical Neurosciences,Clinical Medicine,1,Senior Research Associate,Postdoc,No,Accelerate-C2D3 funding call applicant (2024)
+Ryan,Ward,,ruw163,Oncology,Clinical Medicine,1,Research Assistant,Research Assistant,Yes,Hands On LLMs workshop (14/04/25)
+Ren,Young,,ruy53,MRC Cognition and Brain Sciences Unit,Clinical Medicine,1,PhD student,PhD student,Yes,Hands On LLMs workshop (04/02/25)
+Ren,Garcia,,rvg109,Zoology,Biological Sciences,1,Collections Manager,Professional Services,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Ryan,Ruiz,,rvr158,Public Health and Primary Care,Clinical Medicine,1,Research Assistant,Research Assistant,Yes,An Introduction to Diffusion Models (04/03/25)
+Ryan,Ward,,rw2469,"Physiology, Development and Neuroscience",Biological Sciences,1,Research Associate,Postdoc,Yes,Python and Pandas course
+Rohan,Green,,rwg105@cam.ac.uk,Computer Science and Technology,Technology,1,Senior Research Associate,Postdoc,No,Accelerate-C2D3 funding call applicant (2024)
+Riley,Hernández,,rwh136,Veterinary Medicine,Biological Sciences,1,Undergraduate,Other,Yes,Python and Pandas course
+Rowan,Price,,rwp48,Genetics,Biological Sciences,1,PhD student,PhD student,Yes,LLMs workshop (02/10/24)
+Ren,Garcia,,rwxg25,Education,Humanities and Social Sciences,1,Masters Student,Masters student,No,Accelerate-C2D3 funding call applicant (2024)
+Rohan,Castillo,,rxc229,Radiology,Clinical Medicine,1,Research Associate,Postdoc,Yes,Python and Pandas course
+Remy,Stewart,,rxrs22,Chemistry,Physical Sciences,1,Research Associate,Postdoc,No,MLE Clinic
+Rowan,Taylor,,rxt151@cam.ac.uk,Computer Science and Technology,Technology,1,Research Fellow,Postdoc,Yes,Python and Pandas course
+Ryan,Harris,,rxxh23@cam.ac.uk,Medicine,Clinical Medicine,,,Unknown,No,AI Clinic April 23
+René,Anderson,,rya127,Leverhulme Centre for the Future of Intelligence,Arts and Humanities,1,Senior Research Fellow,Postdoc,No,AI for Science Summit 2023
+Riley,Castillo,,ryc138,Engineering,Technology,1,PhD student,PhD student,Yes,Data Pipelines School (Sept 23)
+Ryan,Richardson,,ryr177,Wellcome-MRC Cambridge Stem Cell Institute,Clinical Medicine,1,Research Associate,Postdoc,Yes,Data Pipelines School (Mar 23)
+Rohan,Miller,,rysm21,"Physiology, Development and Neuroscience",Biological Sciences,1,Postdoctoral Researcher ,Postdoc,No,SBS Workshop May 2023
+River,Gómez,,rzg81@cam.ac.uk,MRC-LMB,Clinical Medicine,1,,Unknown,No,AI Clinic January 25
+River,Gómez,,rzg81@cam.ac.uk,MRC-LMB,Clinical Medicine,1,,Unknown,Yes,Python and Pandas course
+René,Wilson,,rzmw23,Sanger Institute,Other,1,Other,Other,Yes,Hands On LLMs workshop (14/04/25)
+Sage,Anderson,,sa1346,Computer Science and Technology,Technology,1,PhD student,PhD student,No,AI for Science Summit 2023
+Sage,Ramos,,saar23,Politics and International Studies,Humanities and Social Sciences,1,PhD student,PhD student,No,AI Clinic February 26
+Sage,Ramos,,saar23,Politics and International Studies,Humanities and Social Sciences,1,PhD student,PhD student,Yes,Data Pipelines School (Sept 23)
+Soraya,Bennett,,samb25,MRC Epidemiology Unit,Clinical Medicine,1,Research Associate,Postdoc,Yes,Data Science Residency
+Skyler,Rivera,,sar97,MRC Cognition and Brain Science Unit,Clinical Medicine,1,,Unknown,Yes,Python and Pandas course
+Samir,Sánchez,,sas100,Wellcome-MRC Cambridge Stem Cell Institute,Clinical Medicine,1,staff,Postdoc,No,AI Clinic February 26
+Samir,Sánchez,,sas100,Wellcome-MRC Cambridge Stem Cell Institute,Clinical Medicine,1,staff,Postdoc,Yes,Hands On LLM Workshop (14/10/24)
+Soraya,Bailey,,sb2370,Geography,Physical Sciences,1,PhD student,PhD student,Yes,Network Event (29/03/23)
+Sofía,Bennett,,sbb28@cam.ac.uk,Engineering,Technology,1,student,PhD student,Yes,AI and LLMs workshop (20/01/25)
+Søren,Cook,,sbc52,Materials Science and Metallurgy,Physical Sciences,1,,Unknown,No,AI Clinic March 23
+Søren,Ortiz,,sbfo22@cam.ac.uk,Medicine,Clinical Medicine,1,Research Associate,Postdoc,Yes,Python and Pandas course
+Sofía,Ramírez,,sbhr25@cam.ac.uk,Education,Humanities and Social Sciences,1,Associate Professor,Professor/PI,No,MLE Clinic
+Sophia,Moore,,sbm137,Medicine,Clinical Medicine,1,Research Associate,Postdoc,Yes,Data Pipelines School (Mar 23)
+Sophia,Rivera,,sbr221@cam.ac.uk,Radiology,Clinical Medicine,1,PhD student,PhD student,Yes,Data Science Residency
+Søren,Price,,scbp22,Physics,Physical Sciences,1,,Unknown,Yes,Python and Pandas course
+Skyler,Howard,,sch91@cam.ac.uk,MRC Cognition and Brain Science Unit,Clinical Medicine,1,staff,Other,Yes,LLMs workshop (02/10/24)
+Samir,Mitchell,,scm123,Clinical Neurosciences,Clinical Medicine,1,,Unknown,No,AI Clinic February 26
+Samir,Mitchell,,scm123,Clinical Neurosciences,Clinical Medicine,1,,Unknown,Yes,Python and Pandas course
+Skyler,Rivera,,scor25,Pathology,Biological Sciences,1,Undergraduate,Other,Yes,Python and Pandas course
+Sofía,Taylor,,sct107,"Physiology, Development and Neuroscience",Biological Sciences,1,EPSRC RSE Fellow,RSE,No,AI for Science Summit 2023
+Sophia,Collins,,sdc43,Haematology,Clinical Medicine,1,PhD student,PhD student,Yes,Python and Pandas course
+Soraya,Foster,,sdf143,Milner Institute,Biological Sciences,1,Bioinformatician,Staff,Yes,Hands On AI workshop (16/04/25)
+Soraya,Evelyn,Martínez,sefm22,Psychology,Biological Sciences,1,PhD student,PhD student,No,AI Clinic January 25
+Soraya,Evelyn,Martínez,sefm22,Psychology,Biological Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Soraya,Lewis,,seol22,Engineering,Technology,1,Research Fellow,Postdoc,No,AI Clinic November 24
+Samir,Emma,Williams,sew84,Computer Science and Technology,Technology,1,Co-director,Professor/PI,No,Network Event (29/03/23)
+Skyler,Diaz,,sfd65,Archaeology,Humanities and Social Sciences,1,Masters Student,Masters student,Yes,Python and Pandas course
+Skyler,Harris,,sfh191@cam.ac.uk,Wellcome Sanger Institute,Non-school,1,Postdoc,Postdoc,No,Hopes and Fears lab
+Sophia,Green,,sg590,Psychology,Biological Sciences,1,Principal Investigator,Professor/PI,No,SBS Workshop May 2023
+Sofía,Gray,,sg89,Engineering,Technology,1,Sir Kirby Laing Professor of Civil Engineering,Professor/PI,No,AI for Science Summit 2023
+Skyler,Hall,,sh1543,Engineering,Technology,1,PhD student,PhD student,Yes,Data Pipelines School (Mar 23)
+Sophia,Hall,,sh2452,Public Health and Primary Care,Clinical Medicine,1,Postdoc,Postdoc,Yes,Data Pipelines School (Sept 23)
+Seung,Howard,,sh286,Criminology,Humanities and Social Sciences,,Mphil Student,Masters student,Yes,AI and LLMs workshop (26/02/24)
+Sophia,Hall,,sh466,Oncology,Clinical Medicine,1,Research Associate,Postdoc,Yes,Accelerate-C2D3 funding call awardee (2024)
+Samir,Brooks,,shb239,Physics,Physical Sciences,1,PhD student,PhD student,No,Accelerate-C2D3 funding call applicant (2024)
+Sage,Cook,,shc185,Oncology,Clinical Medicine,1,PhD student,PhD student,Yes,Accelerate-C2D3 funding call applicant (2024)
+Sage,Johnson,,shj64,Oncology,Clinical Medicine,1,PhD student,PhD student,Yes,Hands On ML Workshop (03/24)
+Skyler,Mitchell,,shm91,Chemical Engineering and Biotechnology,Technology,1,PhD student,PhD student,No,Network Event (29/03/23)
+Samir,Sánchez,,shs89,Applied Mathematics and Theoretical Physics,Physical Sciences,1,Research Associate,Postdoc,Yes,Introduction to Diffusion Models in Generative AI workshop (20/06/24) workshop (20/06/24)
+Sofía,Walker,,shuw23,Pharmacology,Biological Sciences,1,staff,Postdoc,Yes,AI and LLMs workshop (20/01/25)
+Soraya,Anderson,,sia30,Clinical Neurosciences,Clinical Medicine,1,"staff,student",PhD student,Yes,AI and LLMs workshop (20/01/25)
+Samir,Castillo,,sirc21,Applied Mathematics and Theoretical Physics,Physical Sciences,1,Student,PhD student,No,Lunchtime Seminar
+Skyler,Johnson,,sj1878,Geography,Physical Sciences,1,PhD student,PhD student,No,AI for Science Summit 2023
+Søren,Johnson,,sj1935,Cancer Research UK Cambridge Institute,Clinical Medicine,1,Senior Research Associate,Postdoc,Yes,Accelerate-C2D3 funding call applicant (2023)
+Sophia,Johnson,,sj2317,Physics,Physical Sciences,1,staff,Postdoc,Yes,LLMs workshop (02/10/24)
+Skyler,James,,sj2479,Public Health and Primary Care,Clinical Medicine,1,Research Associate,Postdoc,Yes,AI and LLMs workshop (10/04/25)
+Sofía,Johnson,,sj817,Other,Non-school,1,student,PhD student,Yes,AI and LLMs workshop (20/01/25)
+Skyler,Baker,,sjb86,Physics,Physical Sciences,1,Affiliate,Other,Yes,Python and Pandas course
+Seung,Gómez,,sjug25,Engineering,Technology,1,Research Associate,Postdoc,No,Accelerate-C2D3 funding call applicant (2022)
+Sage,Campbell,,skc156,Theoretical and Applied Linguistics,Arts and Humanities,1,student,PhD student,Yes,AI and LLMs workshop (20/01/25)
+Seung,Cooper,,skc220,Chemical Engineering and Biotechnology,Technology,1,PhD student,PhD student,Yes,Generative AI (07/04/25)
+Skyler,Jackson,,skfj24,Medicine,Clinical Medicine,1,Undergraduate,Other,Yes,Python and Pandas course
+Soraya,Nelson,,skn249@cam.ac.uk,Medicine,Clinical Medicine,1,Administrator,Other,Yes,Python and Pandas course
+Sage,Lee,,sl1184,Zoology,Biological Sciences,1,PhD student,PhD student,Yes,An Introduction to Diffusion Models (04/03/25)
+Sophia,Davis,,sld208,Computer Science and Technology,Technology,1,Research Associate,Postdoc,No,Network Event (29/03/23)
+Søren,Ward,,slgw24,Computer Science and Technology,Technology,1,PhD student,PhD student,Yes,Data Science Residency
+Søren,Hill,,slh140,THIS Institute,Clinical Medicine,1,,Unknown,Yes,Python and Pandas course
+Sophia,Mitchell,,sm159,Medicine,Clinical Medicine,1,PhD student,PhD student,No,Accelerate-C2D3 funding call applicant (2024)
+Søren,Morales,,sm2335,"Physiology, Development and Neuroscience",Biological Sciences,1,,Unknown,Yes,Python and Pandas course
+Samir,Morris,,sm314,Arts and Humanities,Department of Architecture,1,PhD student,PhD student,Yes,Hands On LLMs workshop (04/02/25)
+Sage,Morris,,sm850,Plant Sciences,Biological Sciences,1,Assistant Professor,Professor/PI,No,AI Clinic February 26
+Sage,Morris,,sm850,Plant Sciences,Biological Sciences,1,staff,Other,Yes,LLMs workshop (19/11/24)
+Samir,Morris,,smm24,Engineering,Technology,1,Professor,Professor/PI,Yes,AI and LLMs workshop (10/04/25)
+Soraya,Myers,,smm58@cam.ac.uk,Computer Science and Technology,Technology,1,Research Associate,Postdoc,No,LLMs Best Practices for Safe and Effective Deployment (30/09/24)
+Søren,Murphy,,smm89,Computer Science and Technology,Physical Sciences,1,PhD student,PhD student,No,HPC Pioneer Projects Day (27/09/24)
+Soraya,Ross,,smnr23,Philosophy,Arts and Humanities,1,Undergraduate,Other,No,AI Clinic November 24
+Samir,Edwards,,sne78,Chemical Engineering and Biotechnology,Technology,1,Masters Student,Masters student,Yes,Python and Pandas course
+Sage,Gómez,,sng165,Chemical Engineering and Biotechnology,Technology,1,Research Associate,Postdoc,Yes,Python and Pandas course
+Sofía,Young,,snry21,Chemistry,Physical Sciences,1,PhD student,PhD student,Yes,Data Pipelines School (Dec 22)
+Samir,Scott,,sns119,Psychology,Biological Sciences,1,Lab Technician,Other,Yes,Packaging and Publishing Python Code for Research (11/03/25)
+Samir,Carter,,solc25,Chemical Engineering and Biotechnology,Technology,1,,Unknown,Yes,Python and Pandas course
+Sophia,Peterson,,sp299,Psychiatry,Clinical Medicine,1,Research Associate,Postdoc,No,AI for Science Summit 2024
+Søren,Peterson,,sp610,Psychology,Biological Sciences,1,Principal Investigator,Professor/PI,No,SBS Workshop May 2023
+Skyler,Parker,,spep22,MRC Cancer Unit,Clinical Medicine,1,Research Assistant,Research Assistant,Yes,Data Science Residency
+Soraya,Howard,,sph24,Psychology,Biological Sciences,1,PhD student,PhD student,Yes,An Introduction to Diffusion Models (04/03/25)
+Sophia,Nguyen,,spn195,Computer Science and Technology,Technology,1,PhD student,PhD student,No,AI Clinic September 24
+Samir,Rodríguez,,sqbr22,Wellcome Sanger Institute,Biological Sciences,1,Postdoctoral Researcher ,Postdoc,Yes,SBS Workshop May 2023
+Soraya,Harris,,sqh181,Computer Science and Technology,Technology,,PhD student,PhD student,No,AI café - CDH
+Sophia,Howard,,sqh24,Chemical Engineering and Biotechnology,Technology,1,,Unknown,Yes,Python and Pandas course
+Skyler,Ramos,,sr1214@cam.ac.uk,Engineering,Technology,1,PhD student,PhD student,Yes,Python and Pandas course
+Sage,Rodríguez,,sr977,Cancer Research UK Cambridge Institute,Clinical Medicine,1,,Unknown,Yes,Python and Pandas course
+Sofía,Williams,,srdw24@cam.ac.uk,MRC Cognition and Brain Science Unit,Clinical Medicine,1,,Unknown,Yes,Python and Pandas course
+Søren,Evans,,sre132,Chemistry,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Sage,Myers,,srkm23@cam.ac.uk,Psychology,Biological Sciences,1,Principal Investigator,Professor/PI,No,SBS Workshop May 2023
+Søren,Smith,,ss1388,Theoretical and Applied Linguistics,Arts and Humanities,1,Research Associate,Postdoc,Yes,Python and Pandas course
+Samir,Cox,,ssc110,ICCS,Technology,1,Reseach Software Engineer,RSE,No,AI for Science Summit 2023
+Sofía,Rodríguez,,ssr63@cam.ac.uk,Sociology,Humanities and Social Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Sofía,Taylor,,sst37@cam.ac.uk,Clinical Neurosciences,Clinical Medicine,1,,Unknown,Yes,Python and Pandas course
+Seung,Taylor,,st136,Medicine,Clinical Medicine,1,staff,Postdoc,Yes,AI and LLMs workshop (20/01/25)
+Sophia,Thomas,,st578,Education,Humanities and Social Sciences,1,Research Assistant,Research Assistant,No,AI Clinic May 24
+Søren,Turner,,st650,Plant Sciences,Biological Sciences,1,student,PhD student,Yes,AI and LLMs workshop (20/01/25)
+Samir,Turner,,st763@cam.ac.uk,Chemistry,Physical Sciences,1,PhD student,PhD student,No,HPC Pioneer Projects Day (27/09/24)
+Søren,Alvarez,,sta118,Genetics,Biological Sciences,1,Postdoc,Postdoc,Yes,Packaging and Publishing Python Code for Research (11/03/25)
+Seung,Williams,,stdw21@cam.ac.uk,Astronomy,Physical Sciences,1,Research Associate,Postdoc,Yes,Data Science Residency
+Skyler,King,,stk84,Public Health and Primary Care,Clinical Medicine,1,PhD student,PhD student,No,Accelerate-C2D3 funding call applicant (2023)
+Sage,Cooper,,suc137,Computer Science and Technology,Technology,1,,Unknown,No,MLE Clinic
+Skyler,Green,,sueg22,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Sophia,Jones,,suj62,Education,Humanities and Social Sciences,1,Research Associate,Postdoc,No,Accelerate-C2D3 funding call applicant (2024)
+Sophia,Morgan,,sum121,Wellcome Sanger Institute,Non-school,1,PhD student,PhD student,Yes,Python and Pandas course
+Seung,Lee,,suxl23,Education,Humanities and Social Sciences,1,PhD student,PhD student,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Sage,Ramos,,svr71,Public Health and Primary Care,Clinical Medicine,1,Senior Research Associate,Postdoc,Yes,Data Pipelines School (Mar 23)
+Søren,Torres,,svt147,Zoology,Biological Sciences,1,,Unknown,Yes,Python and Pandas course
+Samir,Williams,,sw1604,Computer Science and Technology,Technology,1,PhD student,PhD student,No,Accelerate-C2D3 funding call applicant (2024)
+Søren,Ward,,sw2330,Wellcome-MRC Cambridge Stem Cell Institute,Clinical Medicine,1,Research Assistant,Research Assistant,Yes,Python and Pandas course
+Søren,Hall,,swgh24,Theoretical and Applied Linguistics,Arts and Humanities,1,Research Associate,Postdoc,Yes,Data Pipelines School (Dec 22)
+Søren,Ruiz,,swr111,Veterinary Medicine,Biological Sciences,1,Fellow,Other,No,AI Clinic February 26
+Søren,Ruiz,,swr111,Veterinary Medicine,Biological Sciences,1,Fellow,Other,Yes,Python and Pandas course
+Sage,Pérez,,swrp22,Land Economy,Humanities and Social Sciences,1,PhD student,PhD student,Yes,An Introduction to Diffusion Models (04/03/25)
+Soraya,Nguyen,,sxn115@cam.ac.uk,Genetics,Biological Sciences,1,Postgraduate student ,PhD student,No,SBS Workshop May 2023
+Sage,Richardson,,sxr141,Education,Humanities and Social Sciences,1,Undergraduate,Other,No,MLE Clinic
+Sophia,Adams,,sya174,Chemistry,Physical Sciences,1,Postdoctoral Research Associate,Postdoc,Yes,Data Science Residency
+Seung,Morgan,,syam24@cam.ac.uk,Stem Cell Institute,Clinical Medicine,1,Staff,Staff,Yes,Generative AI (07/04/25)
+Søren,Cox,,syc138@cam.ac.uk,"Physiology, Development and Neuroscience",Biological Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Soraya,Thomas,,syct22,Materials Science and Metallurgy,Physical Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Sage,Diaz,,symd24,Computer Science and Technology,Technology,1,Outreach Coordinator,Professional Services,Yes,An Introduction to Diffusion Models (04/03/25)
+Søren,Taylor,,syt157,Land Economy,Humanities and Social Sciences,,PhD student,PhD student,No,AI café - CDH
+Samir,Reyes,,syxr21,Medicine,Clinical Medicine,1,Postdoc,Postdoc,Yes,Python and Pandas course
+Skyler,Garcia,,szg58,Computer Science and Technology,Technology,1,student,PhD student,Yes,AI Clinic September 24
+Soraya,Johnson,,szj132,Chemistry,Physical Sciences,1,PhD student,PhD student,Yes,Data Pipelines School (Mar 23)
+Theo,Brooks,,tb308,Chemical Engineering and Biotechnology,Technology,1,PhD student,PhD student,Yes,Data Science Residency
+Theo,Thomas,,tbt77,Engineering,Technology,1,PhD student,PhD student,Yes,Data Pipelines School (Dec 22)
+Tariq,Ward,,tbw110@cam.ac.uk,Medicine,Clinical Medicine,1,Research Associate,Postdoc,Yes,AI and LLMs workshop (10/04/25)
+Theo,Chavez,,tcc149,Chemical Engineering and Biotechnology,Technology,1,Postdoc,Postdoc,No,Accelerate-C2D3 funding call applicant (2023)
+Tariq,Anderson,,tda53,Engineering,Technology,1,PhD student,PhD student,Yes,Generative AI (07/04/25)
+Taylor,Evans,,te778,Politics and International Studies,Humanities and Social Sciences,1,PhD student,PhD student,Yes,AI Clinic October 24
+Tariq,Hernández,,th2274,Economics,Humanities and Social Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Taylor,Kelly,,tigk23,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Data Pipelines School (Dec 22)
+Taylor,Wood,,tiw97,MRC Cognition and Brain Science Unit,Clinical Medicine,1,Visiting Scientist,Other,Yes,Python and Pandas course
+Theo,Ward,,tiww23,MRC Cognition and Brain Science Unit,Clinical Medicine,1,MRI Physicist,Other,Yes,Data Pipelines School (Mar 23)
+Tariq,Davis,,tjd46,Cambridge CARES,Non-school,1,,Unknown,Yes,Python and Pandas course
+Tariq,Miller,,tjm232,"Physiology, Development and Neuroscience",Biological Sciences,1,Clinical Fellow,Other,No,AI Clinic February 26
+Tariq,Miller,,tjm232,"Physiology, Development and Neuroscience",Biological Sciences,1,Clinical Fellow,Other,Yes,Python and Pandas course
+Taylor,Scott,,tjs43,Psychiatry,Clinical Medicine,1,student,PhD student,Yes,LLMs workshop (02/10/24)
+Theo,Harris,,tkh124,Chemical Engineering and Biotechnology,Technology,1,PhD student,PhD student,Yes,AI and LLMs workshop (10/04/25)
+Theo,Thomas,,tkot24,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Introduction to Diffusion Models in Generative AI workshop (20/06/24) workshop (20/06/24)
+Tariq,Davis,,tkzd22,Psychology,Biological Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Theo,Lee,,tl765,Engineering,Technology,1,PhD student,PhD student,Yes,An Introduction to Diffusion Models (04/03/25)
+Taylor,Martin,,tm1304,Materials Science and Metallurgy,Technology,1,Sir Alan Cottrell Professor of Materials Science,Professor/PI,No,HPC Pioneer Projects Day (27/09/24)
+Taylor,Murphy,,tm579@cam.ac.uk,Institute of Continuing Education,Non-school,1,Assistant Professor,Professor/PI,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Theo,Parker,,tp1640,Zoology,Biological Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Tariq,Gray,,tpg201,Oncology,Clinical Medicine,1,,Unknown,Yes,Python and Pandas course
+Taylor,Martin,,tpm162,Chemical Engineering and Biotechnology,Technology,1,MPhil in Bioscience Enterprise,Masters student,Yes,Network Event (29/03/23)
+Theo,Williams,,tqw180,Chemistry,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Tariq,Ramos,,tr484@cam.ac.uk,Fitzwilliam Museum,Non-school,1,,Professional Services,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Theo,Johnson,,trj149,Engineering,Technology,1,PhD student,PhD student,Yes,Data Science Residency
+Theo,Morris,,trm26,Computer Science and Technology,Technology,1,PhD student,PhD student,Yes,Data Science Residency
+Taylor,Ward,,trw169,Clinical Neurosciences,Clinical Medicine,,Professor of Biomedical Imaging,Professor/PI,No,Accelerate-C2D3 funding call applicant (2023)
+Tariq,Torres,,tt1141,Oncology,Clinical Medicine,1,Integrated Cancer Medicine Communications Manager,Professional Services,No,Accelerate-C2D3 funding call awardee (2023)
+Tariq,Brown,,ttb214,MRC Cognition and Brain Science Unit,Clinical Medicine,1,PhD student,PhD student,Yes,Data Science Residency
+Tariq,Rodríguez,,ttr207,Education,Humanities and Social Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Tariq,Martínez,,tum71,Materials Science and Metallurgy,Physical Sciences,1,student,PhD student,Yes,Packaging and Publishing Python Code for Research Workshop (18/11/24)
+Tariq,Morgan,,twm212,Economics,Humanities and Social Sciences,1,PhD student,PhD student,Yes,Python and Pandas course
+Taylor,Richardson,,twr120,Applied Mathematics and Theoretical Physics,Physical Sciences,1,Masters Student,Masters student,No,MLE Clinic
+Taylor,Hill,,txah25,Pharmacology,Biological Sciences,1,student,PhD student,Yes,AI and LLMs workshop (20/01/25)
+Tariq,Diaz,,tyd34,Genetics,Biological Sciences,1,Postgraduate student ,PhD student,No,SBS Workshop May 2023
+Theo,Gómez,,tzbg21,Materials Science and Metallurgy,Physical Sciences,1,PhD Student,PhD student,Yes,Python and Pandas course
+Theo,Lee,,tzcl21,Psychology,Biological Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+William,Morgan,,wbm74,Education,Humanities and Social Sciences,1,PhD student,PhD student,Yes,MLE Clinic
+William,Castillo,,wcc230,Chemical Engineering and Biotechnology,Technology,1,PhD student,PhD student,Yes,Data Science Residency
+William,Castillo,,wfsc22,Computer Science and Technology,Technology,1,PhD student,PhD student,No,Accelerate-C2D3 funding call applicant (2024)
+William,Thomas,,wft53,Engineering,Technology,1,Marie Skłodowska-Curie Fellow,Postdoc,No,Accelerate-C2D3 funding call applicant (2023)
+William,Green,,wg1858,MRC-LMB,Clinical Medicine,1,PhD student,PhD student,Yes,Data Pipelines School (Dec 22)
+William,Gómez,,wg2355@cam.ac.uk,Computer Science and Technology,Technology,1,Professor,Professor/PI,No,Accelerate-C2D3 funding call applicant (2024)
+William,Rivera,,whr210,Earth Sciences,Physical Sciences,1,PhD student,PhD student,No,Network Event (29/03/23)
+William,Mendoza,,wtm118,Cambridge Conservation Initiative (IUCN-CCI),Non-school,1,,Other,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+William,Wilson,,wxw236,Pathology,Biological Sciences,1,Principal Investigator,Professor/PI,No,SBS Workshop May 2023
+Xinyi,Wilson,,xaiw21,Engineering,Technology,1,PhD student,PhD student,No,Accelerate-C2D3 funding call applicant (2024)
+Xinyi,Collins,,xec62,Chemistry,Physical Sciences,1,Emeritus Professor,Professor/PI,Yes,AI and LLMs workshop (10/04/25)
+Xinyi,Ortiz,,xfo108,Medicine,Clinical Medicine,1,student,PhD student,Yes,AI and LLMs workshop (20/01/25)
+Xinyi,Gray,,xjg99,Plant Sciences,Biological Sciences,1,PhD student,PhD student,Yes,Data Pipelines School (Mar 23)
+Xinyi,Alvarez,,xna221,Engineering,Technology,1,Research Associate,Postdoc,Yes,Data Science Residency
+Xinyi,Wright,,xnw122,Genetics,Biological Sciences,1,Research Technician,Other,Yes,Python and Pandas course
+Xinyi,Martin,,xqgm24,Theoretical and Applied Linguistics,Arts and Humanities,1,PhD student,PhD student,No,AI Clinic Jan 24
+Xinyi,Lewis,,xrul22@cam.ac.uk,English,Arts and Humanities,1,Assistant Professor,Professor/PI,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Xinyi,Hill,,xwh110,Medicine,Clinical Medicine,1,PhD student,PhD student,Yes,Python and Pandas course
+Xinyi,Myers,,xxm80,Geography,Physical Sciences,1,PhD student,PhD student,Yes,An Introduction to Docker (13/03/25)
+Yusuf,Cook,,yc1791@cam.ac.uk,Scott Polar Research Institute,Physical Sciences,1,PhD student,PhD student,No,AI Clinic November 24
+Yuna,Ramos,,ycvr24,Computer Science and Technology,Technology,1,PhD student,PhD student,No,Accelerate-C2D3 funding call applicant (2024)
+Yuna,Martínez,,yem132@cam.ac.uk,Computer Science and Technology,Technology,1,PhD Student,PhD student,No,AI-deas in Education and Cultural Heritage Call applicant (2024)
+Yuna,Gómez,,yg943,Chemical Engineering and Biotechnology,Technology,1,PI,Professor/PI,No,Accelerate-C2D3 funding call awardee (2024)
+Yusuf,Hughes,,yh835,Engineering,Technology,1,PhD student,PhD student,Yes,Python and Pandas course
+Yuna,Lewis,,yhl27,Genetics,Biological Sciences,1,"staff,student",PhD student,Yes,AI and LLMs workshop (20/01/25)
+Yuna,Green,,ykg169,Zoology,Biological Sciences,1,,Unknown,Yes,Python and Pandas course
+Yusuf,López,,yl1226@cam.ac.uk,MRC Toxicology Unit,Biological Sciences,1,Principal Investigator,Professor/PI,No,SBS Workshop May 2023
+Yuna,Thompson,,yldt25@cam.ac.uk,Medicine,Clinical Medicine,1,"staff,student",PhD student,Yes,AI and LLMs workshop (20/01/25)
+Yusuf,Mia,Evans,yme21,Wellcome-MRC Cambridge Stem Cell Institute,Clinical Medicine,1,Bioinformatician,Other,Yes,Python and Pandas course
+Yuna,Gray,,ymg158@cam.ac.uk,Applied Mathematics and Theoretical Physics,Physical Sciences,1,,Unknown,Yes,Data Pipelines School (Dec 22)
+Yuna,White,,ymw183,Theoretical and Applied Linguistics,Arts and Humanities,1,PhD student,PhD student,Yes,Python and Pandas course
+Yusuf,Peterson,,yp2346,Biochemistry,Biological Sciences,1,Masters Student,Masters student,Yes,Python and Pandas course
+Yusuf,Johnson,,yrj184,Psychiatry,Clinical Medicine,1,PhD student,PhD student,Yes,Packaging and Publishing Python Code for Research (11/03/25)
+Yuna,Wood,,ytlw23,Cancer Research UK Cambridge Institute,Clinical Medicine,1,Research Associate,Postdoc,No,Accelerate-C2D3 funding call applicant (2023)
+Yuna,Pérez,,yup91,Education,Humanities and Social Sciences,,"Deputy Director, Kavli Centre for Ethics, Science and the Public",Professional Services,No,AI café - CDH
+Yusuf,Hall,,yyh197,Engineering,Technology,1,Research Associate,Postdoc,No,Accelerate-C2D3 funding call awardee (2022)
+Yuna,Harris,,yyvh23,Veterinary Medicine,Biological Sciences,1,Research Associate,Postdoc,Yes,Data Pipelines School (Mar 23)
+Zara,Parker,,zap150,School of Clinical Medicine,Clinical Medicine,1,Translational Research Programme Manager,Professional Services,Yes,Python and Pandas course
+Zoë,Chavez,,zc274,Oncology,Clinical Medicine,1,Junior Bioinformatician,Other,Yes,Data Pipelines School (Mar 23)
+Zara,Davis,,zcd70@cam.ac.uk,Academic Division,Non-school,1,Masters Student,Masters student,No,Lunchtime Seminar
+Zaid,Patel,,zcp170,Oncology,Clinical Medicine,1,PhD student,PhD student,No,AI for Science Summit 2023
+Zara,Phillips,,zcp31@cam.ac.uk,Wellcome-MRC Cambridge Stem Cell Institute,Clinical Medicine,1,PhD student,PhD student,No,SBS Workshop May 2023
+Zaid,López,,zdl184,Public Health and Primary Care,Clinical Medicine,1,PhD student,PhD student,Yes,An Introduction to Diffusion Models (04/03/25)
+Zaid,Evans,,zdre23,Wellcome-MRC Cambridge Stem Cell Institute,Clinical Medicine,1,MPhil student,Masters student,No,AI for Science Summit 2023
+Zaid,Wright,,zdw201,Astronomy,Physical Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Zaid,Garcia,,zeg121,ai@cam,Non-school,1,Communications and Engagement Manager,Professional Services,No,HPC Pioneer Projects Day (27/09/24)
+Zara,Gray,,zeg203,Computer Science and Technology,Technology,1,PhD Student,PhD student,No,HPC Pioneer Projects Day (27/09/24)
+Zara,González,,zeig25,Paediatrics,Clinical Medicine,1,Postdoc,Postdoc,Yes,Data Pipelines School (Sept 23)
+Zaid,Carter,,zejc23,Psychology,Biological Sciences,1,Research Associate,Postdoc,Yes,ML Academy 2025
+Zaid,Adams,,zfa100,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Data Pipelines School (Dec 22)
+Zara,Wood,,zgw119,Scott Polar Research Institute,Physical Sciences,1,PhD student,PhD student,Yes,Data Pipelines School (Mar 23)
+Zaid,Howard,,zh2350,Computer Science and Technology,Technology,1,Personal Assistant,Professional Services,No,AI for Science Summit 2023
+Zaid,Smith,,zhes21,Chemistry,Physical Sciences,,,Unknown,No,AI Clinic April 23
+Zoë,King,,zk1119@cam.ac.uk,Haematology,Clinical Medicine,1,staff,Postdoc,Yes,LLMs workshop (19/11/24)
+Zaid,Diaz,,zkcd25@cam.ac.uk,Architecture,Arts and Humanities,1,PhD student,PhD student,Yes,Hands On LLMs workshop (04/02/25)
+Zaid,Chavez,,zlc125,Zoology,Biological Sciences,1,,Unknown,Yes,Python and Pandas course
+Zaid,Alvarez,,zlda22,Psychiatry,Clinical Medicine,,Chain Florey Clinical PhD Fellow,PhD student,No,AI Clinic
+Zaid,Alvarez,,zlda22,Psychiatry,Clinical Medicine,1,Chain Florey Clinical PhD Fellow,PhD student,Yes,Data Science Residency
+Zoë,Mendoza,,zm1063,Haematology,Clinical Medicine,1,Research Associate,Postdoc,No,AI Clinic January 25
+Zoë,Mendoza,,zm1063,Haematology,Clinical Medicine,1,Research Associate,Postdoc,Yes,Data Pipelines School (Dec 22)
+Zoë,González,,zmhg23,Archaeology,Humanities and Social Sciences,1,Postdoc,Postdoc,Yes,Data Pipelines School (Sept 23)
+Zaid,López,,zmol21,Physics,Physical Sciences,1,PhD student,PhD student,Yes,Data Pipelines School (Dec 22)
+Zara,Thompson,,znct21,MRC-LMB,Clinical Medicine,1,PhD student,PhD student,No,AI Clinic February 26
+Zara,Thompson,,znct21,MRC-LMB,Clinical Medicine,1,PhD student,PhD student,Yes,Data Pipelines School (Dec 22)
+Zaid,Jackson,,znj36,CIMR,Clinical Medicine,1,Postdoc,Postdoc,Yes,Python and Pandas course
+Zara,Morgan,,zpm122,Land Economy,Humanities and Social Sciences,1,PhD student,PhD student,Yes,Data Pipelines School (Mar 23)
+Zara,Mitchell,,zrm152,Pure Mathematics and Mathematical Statistics,Physical Sciences,1,Associate Professor,Professor/PI,No,Accelerate-C2D3 funding call awardee (2023)
+Zara,Rivera,,zrr44@cam.ac.uk,Wellcome Sanger Institute,Non-school,1,Genomics/DNA sequence data,Postdoc,Yes,Data Science Residency
+Zara,Moore,,zsm210@cam.ac.uk,Clinical Neurosciences,Clinical Medicine,1,Consultant Neurologist,Other,No,AI for Science Summit 2023
+Zara,Rodríguez,,ztr234,Engineering,Technology,1,PhD student,PhD student,Yes,Network Event (29/03/23)
+Zaid,Peterson,,zvap21,Other,Non-school,1,Biodiversity Data Technical Officer,Other,Yes,Network Event (29/03/23)
+Zara,Castillo,,zwnc24,Engineering,Technology,1,"staff,student",PhD student,Yes,Packaging and Publishing Python Code for Research Workshop (18/11/24)
+Zaid,Bennett,,zxtb25,Clinical Neurosciences,Clinical Medicine,1,PhD student,PhD student,Yes,Python and Pandas course
+Zaid,Collins,,zysc23@cam.ac.uk,Psychology,Biological Sciences,1,PhD student,PhD student,Yes,Data Science Residency
+Zoë,Reed,,zzbr25,Applied Mathematics and Theoretical Physics,Physical Sciences,1,Senior Research Associate,Postdoc,No,Accelerate-C2D3 funding call awardee (2023)
+Dev,Murphy,,,,,,staff,Research Assistant,Yes,LLMs workshop (19/11/24)

@@ -1,0 +1,12 @@
+[] llm (simple input output)
+[] image recognition (*)
+[] image generation (*)
+[] image edit (*)
+[] text to speech? (*)
+[] speech to text? (*)
+helper
+[] read pdf
+[] requests internet, maybe search engine too
+[] command line access [! only run this in a disposable environment like runpod !]
+[] code execution [! only run this in a disposable environment like runpod !]
+[] map-apply llm (split on newline if possible, overlap, etc)
