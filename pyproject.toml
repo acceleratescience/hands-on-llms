@@ -14,7 +14,7 @@ requires-python = ">=3.11,<4.0"
 
 dependencies = [
     "llama-index>=0.11.23",
-    "openai>=3.6.0",
+    "openai>=1.81.0,<2",
     "python-dotenv>=1.2.3",
     "rich>=15.0.0",
     "pydantic>=2.9.2",
